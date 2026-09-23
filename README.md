@@ -1,11 +1,17 @@
 # 🍔 Food Delivery Data Analytics — BDA Mini Project
 
+[![Live Dashboard](https://img.shields.io/badge/🚀_Live_Dashboard-streamlit.app-FF4B4B?style=for-the-badge)](https://fooddelivery-data-analytics.streamlit.app/)
+[![Open in GitHub](https://img.shields.io/badge/📂_Source_Code-GitHub-181717?style=for-the-badge)](https://github.com/shreyaheelesh29/food-delivery-data-analytics)
+
+**👉 [Launch the interactive dashboard](https://fooddelivery-data-analytics.streamlit.app/)** — no installation, runs in your browser.
+
 Big Data Analytics mini project: end-to-end analysis of a food-delivery platform
 (orders, customers, restaurants, cuisines, delivery times, ratings) with an
 interactive analytics dashboard.
 
 > 🎤 **Presenting this project?** See [DEMO_GUIDE.md](DEMO_GUIDE.md) — a timed
 > 10-minute demo script, key numbers to memorize, and likely viva Q&A.
+> A detailed spoken walkthrough is in [PROJECT_EXPLANATION.md](PROJECT_EXPLANATION.md).
 
 **Stack:** Python · Pandas · NumPy · Plotly · Streamlit
 
@@ -32,6 +38,8 @@ delivery time.
 > the same functions.
 
 ## 2. How to run
+
+**Or use the hosted version:** [fooddelivery-data-analytics.streamlit.app](https://fooddelivery-data-analytics.streamlit.app/)
 
 ```bash
 pip install -r requirements.txt
