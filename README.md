@@ -48,6 +48,9 @@ python generate_data.py     # optional — data/ already contains the CSVs
 python analysis.py          # console report of all metrics
 python modeling.py          # train models, print metrics & importances
 streamlit run dashboard.py  # interactive dashboard → http://localhost:8501
+
+# optional — real-time simulation (second terminal):
+python live_producer.py     # streams live orders → dashboard's 🔴 Live tab
 ```
 
 ## 3. Project structure
@@ -56,7 +59,8 @@ streamlit run dashboard.py  # interactive dashboard → http://localhost:8501
 ├── generate_data.py    # synthetic data generator (seeded, reproducible)
 ├── analysis.py         # pandas analysis layer — all metrics & console report
 ├── modeling.py         # predictive layer — RF delivery-time & rating models
-├── dashboard.py        # Streamlit + Plotly dashboard (7 tabs incl. What-If ML)
+├── live_producer.py    # real-time layer — streams live order events (JSONL)
+├── dashboard.py        # Streamlit + Plotly dashboard (8 tabs incl. What-If & Live)
 ├── data/               # customers.csv, restaurants.csv, orders.csv
 └── requirements.txt
 ```
@@ -70,8 +74,17 @@ streamlit run dashboard.py  # interactive dashboard → http://localhost:8501
 5. **⏰ Peak Hours** — hourly demand + delivery time overlay with peaks shaded, weekday × hour heatmap
 6. **🚚 Delivery & Rating Factors** — delivery time vs distance (OLS trend), rating boxplots by time bin, weather/traffic impact, full correlation matrix
 7. **🤖 What-If (ML)** — Random Forest what-if simulator (predict delivery time & rating from sliders), sensitivity curves, model metrics and feature importances
+8. **🔴 Live** — real-time simulation: orders stream in every second, KPIs tick, live order-rate chart, cuisine mix and city map update every 3 s
 
 Sidebar filters: date range, zone, cuisine, promo code, hour range, order status.
+
+**Real-time layer:** `live_producer.py` emulates a platform order stream —
+every second it generates orders whose rate follows the historical hour-of-day
+demand curve and appends them to `data/live_orders.jsonl`; the Live tab tails
+that file (producer and dashboard are independent processes, like a real
+producer → consumer streaming pipeline). In production the same tab would read
+from Kafka / the platform's event bus instead. (Note: on Streamlit Cloud the
+producer can't run alongside the app, so the Live tab there shows instructions.)
 
 ## 5. Key findings (full-year 2024, 50K orders)
 

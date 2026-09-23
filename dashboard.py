@@ -5,6 +5,8 @@ Food Delivery Analytics Dashboard (Streamlit + Plotly).
 Run:  streamlit run dashboard.py
 """
 
+import json
+
 import numpy as np
 import pandas as pd
 import plotly.express as px
@@ -17,7 +19,7 @@ from analysis import (load_data, headline_kpis, cuisine_popularity,
                       monthly_trend)
 
 st.set_page_config(page_title="Food Delivery Analytics", page_icon="🍔",
-                   layout="wide")
+                   layout="wide", initial_sidebar_state="expanded")
 
 # ------------------------------------------------------------------ data (cached)
 @st.cache_data
@@ -86,9 +88,109 @@ c5.metric("Avg Rating", f"⭐ {kpis['avg_rating']}")
 c6.metric("Cancellation Rate", f"{kpis['cancellation_rate']}%")
 
 # ------------------------------------------------------------------ tabs
-tab_overview, tab_cuisine, tab_rest, tab_geo, tab_time, tab_factors, tab_whatif = st.tabs(
+tab_overview, tab_cuisine, tab_rest, tab_geo, tab_time, tab_factors, tab_whatif, tab_live = st.tabs(
     ["📈 Overview", "🍽️ Cuisines", "🏪 Restaurants", "📍 Locations",
-     "⏰ Peak Hours", "🚚 Delivery & Rating Factors", "🤖 What-If (ML)"])
+     "⏰ Peak Hours", "🚚 Delivery & Rating Factors", "🤖 What-If (ML)", "🔴 Live"])
+
+# ================================================================== LIVE tab
+# Real-time layer: orders streamed by live_producer.py are tailed from
+# data/live_orders.jsonl and merged with today's slice of the historical data
+# for rolling KPIs. Auto-refreshes every 3 s while the tab is open.
+with tab_live:
+    try:
+        from streamlit_autorefresh import st_autorefresh
+        st_autorefresh(interval=3000, key="live_refresh")
+    except ImportError:
+        st.warning("pip install streamlit-autorefresh for auto-refresh; \
+                   use the browser refresh button otherwise.")
+
+    from pathlib import Path
+
+    live_file = Path("data/live_orders.jsonl")
+
+    @st.cache_data(ttl=2)
+    def read_live(path_str: str):
+        p = Path(path_str)
+        if not p.exists():
+            return pd.DataFrame()
+        rows = []
+        with open(p, encoding="utf-8") as f:
+            for line in f:
+                line = line.strip()
+                if line:
+                    rows.append(json.loads(line))
+        return pd.DataFrame(rows)
+
+    live = read_live(str(live_file))
+
+    st.markdown(
+        "**🔴 Live stream** — new orders arrive every second from "
+        "`live_producer.py` (rate follows the historical demand curve). "
+        "This page auto-refreshes every 3 s.")
+
+    if live.empty:
+        st.info("No live orders yet. Start the producer in a second terminal: "
+                "`python live_producer.py`")
+    else:
+        live["order_ts"] = pd.to_datetime(live["order_ts"])
+        live["minute"] = live["order_ts"].dt.floor("min")
+
+        now = pd.Timestamp.now()
+        last5 = live[live["order_ts"] >= now - pd.Timedelta(minutes=5)]
+
+        k1, k2, k3, k4, k5 = st.columns(5)
+        k1.metric("Live orders", f"{len(live):,}")
+        k2.metric("Orders / min (last 5 min)", f"{len(last5) / 5:.1f}")
+        k3.metric("Revenue (live)", f"₹{live['order_value'].sum():,}")
+        k4.metric("Avg delivery time",
+                  f"{live['delivery_time_min'].mean():.0f} min")
+        k5.metric("Avg rating",
+                  f"{live['delivery_rating'].mean():.2f} ★")
+
+        left, right = st.columns(2)
+
+        per_min = (live.groupby("minute")
+                   .agg(orders=("order_id", "count"),
+                        revenue=("order_value", "sum")))
+        fig = px.area(per_min.reset_index(), x="minute", y="orders",
+                      title="Live order rate (per minute)",
+                      labels={"minute": "Time", "orders": "Orders"})
+        fig.update_layout(height=340)
+        left.plotly_chart(fig, use_container_width=True)
+
+        live_cuisine = live["cuisine"].value_counts().head(6)
+        fig = px.bar(x=live_cuisine.values, y=live_cuisine.index,
+                     orientation="h",
+                     title="Live orders by cuisine (top 6)",
+                     labels={"x": "Orders", "y": ""})
+        fig.update_layout(height=340, showlegend=False)
+        right.plotly_chart(fig, use_container_width=True)
+
+        # live restaurant positions on the city map
+        live_rest = (live.groupby("restaurant_id").size()
+                     .rename("live_orders").to_frame()
+                     .join(restaurants.set_index("restaurant_id")[["lat", "lon",
+                                                                   "zone"]] 
+                           if all(c in restaurants.columns for c in
+                                  ("lat", "lon")) else None,
+                           how="inner"))
+        if not live_rest.empty:
+            fig = px.scatter_map(live_rest.reset_index(), lat="lat", lon="lon",
+                                 size="live_orders", zoom=10, height=360,
+                                 map_style="open-street-map",
+                                 hover_name="zone",
+                                 title="Live orders by restaurant location")
+            st.plotly_chart(fig, use_container_width=True)
+
+        st.subheader("Latest orders")
+        show_cols = ["order_ts", "order_id", "cuisine", "order_value",
+                     "distance_km", "traffic_condition", "delivery_time_min",
+                     "delivery_rating"]
+        st.dataframe(live.sort_values("order_ts", ascending=False)
+                     [show_cols].head(12), use_container_width=True,
+                     height=340)
+
+# ================================================================== static tabs
 
 # ------------------------------------------------------------------ overview
 with tab_overview:

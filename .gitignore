@@ -1,2 +1,4 @@
 streamlit.log
+live_producer.log
 __pycache__/
+data/live_orders.jsonl
