@@ -1,0 +1,5001 @@
+customer_id,zone,signup_date,loyalty_tier
+C00001,Rajajinagar,2023-09-05,Bronze
+C00002,HSR Layout,2023-06-09,Gold
+C00003,Malleshwaram,2024-01-15,Gold
+C00004,Marathahalli,2024-04-28,Bronze
+C00005,Koramangala,2023-07-10,Bronze
+C00006,Yelahanka,2024-07-13,Silver
+C00007,Rajajinagar,2024-04-11,Bronze
+C00008,Rajajinagar,2023-05-02,Silver
+C00009,Koramangala,2024-11-16,Bronze
+C00010,HSR Layout,2023-02-02,Bronze
+C00011,Whitefield,2024-04-22,Silver
+C00012,BTM Layout,2023-11-17,Bronze
+C00013,Electronic City,2024-04-22,Bronze
+C00014,Malleshwaram,2024-07-19,Bronze
+C00015,HSR Layout,2024-05-16,Bronze
+C00016,Indiranagar,2024-04-20,Bronze
+C00017,Jayanagar,2024-09-05,Bronze
+C00018,Koramangala,2024-05-27,Silver
+C00019,Malleshwaram,2024-08-17,Bronze
+C00020,Electronic City,2023-10-22,Bronze
+C00021,Rajajinagar,2023-05-29,Bronze
+C00022,Whitefield,2023-06-21,Bronze
+C00023,Yelahanka,2024-03-22,Bronze
+C00024,Hebbal,2024-01-24,Silver
+C00025,Rajajinagar,2023-02-26,Bronze
+C00026,Indiranagar,2023-05-30,Bronze
+C00027,HSR Layout,2024-12-07,Bronze
+C00028,Koramangala,2024-06-14,Bronze
+C00029,Koramangala,2024-07-05,Bronze
+C00030,Marathahalli,2023-05-24,Bronze
+C00031,Marathahalli,2023-02-16,Bronze
+C00032,BTM Layout,2023-08-01,Gold
+C00033,Whitefield,2024-09-17,Bronze
+C00034,Whitefield,2024-01-05,Bronze
+C00035,HSR Layout,2024-07-26,Bronze
+C00036,Indiranagar,2023-12-22,Silver
+C00037,Koramangala,2023-12-24,Silver
+C00038,HSR Layout,2024-03-14,Bronze
+C00039,Indiranagar,2024-12-01,Bronze
+C00040,Marathahalli,2023-11-16,Bronze
+C00041,HSR Layout,2024-03-10,Bronze
+C00042,Malleshwaram,2024-11-02,Bronze
+C00043,Marathahalli,2023-09-29,Bronze
+C00044,Whitefield,2024-09-05,Bronze
+C00045,Malleshwaram,2024-01-26,Bronze
+C00046,Rajajinagar,2024-10-03,Gold
+C00047,Whitefield,2023-12-08,Bronze
+C00048,Whitefield,2024-04-04,Bronze
+C00049,Marathahalli,2023-08-24,Gold
+C00050,Koramangala,2024-04-08,Silver
+C00051,Indiranagar,2023-08-27,Silver
+C00052,Koramangala,2024-03-20,Bronze
+C00053,Rajajinagar,2024-07-29,Silver
+C00054,Marathahalli,2023-11-14,Bronze
+C00055,Marathahalli,2023-11-10,Bronze
+C00056,Rajajinagar,2023-08-24,Silver
+C00057,HSR Layout,2024-06-17,Gold
+C00058,Jayanagar,2024-03-08,Bronze
+C00059,Koramangala,2024-01-13,Silver
+C00060,Koramangala,2023-01-19,Gold
+C00061,Marathahalli,2023-03-22,Bronze
+C00062,HSR Layout,2023-01-06,Silver
+C00063,Jayanagar,2024-09-12,Bronze
+C00064,Rajajinagar,2024-09-13,Bronze
+C00065,Electronic City,2023-02-19,Bronze
+C00066,Jayanagar,2023-02-03,Silver
+C00067,Jayanagar,2024-07-24,Silver
+C00068,Whitefield,2024-01-19,Gold
+C00069,Koramangala,2023-08-14,Bronze
+C00070,HSR Layout,2024-03-24,Silver
+C00071,Indiranagar,2023-06-22,Bronze
+C00072,HSR Layout,2023-05-25,Silver
+C00073,Malleshwaram,2023-09-26,Silver
+C00074,Indiranagar,2024-10-15,Bronze
+C00075,Koramangala,2024-07-14,Silver
+C00076,Whitefield,2023-05-19,Silver
+C00077,Whitefield,2024-02-15,Bronze
+C00078,Marathahalli,2024-10-07,Bronze
+C00079,Jayanagar,2024-11-25,Bronze
+C00080,Rajajinagar,2024-07-10,Silver
+C00081,Marathahalli,2023-04-05,Bronze
+C00082,HSR Layout,2023-06-25,Bronze
+C00083,Malleshwaram,2023-06-09,Silver
+C00084,Indiranagar,2023-04-21,Gold
+C00085,Koramangala,2023-05-08,Silver
+C00086,Koramangala,2023-08-19,Silver
+C00087,Marathahalli,2024-02-10,Bronze
+C00088,HSR Layout,2023-10-18,Bronze
+C00089,Indiranagar,2023-11-04,Bronze
+C00090,Jayanagar,2023-06-29,Silver
+C00091,Koramangala,2023-04-21,Gold
+C00092,Marathahalli,2024-12-30,Bronze
+C00093,HSR Layout,2024-03-13,Silver
+C00094,Whitefield,2023-06-17,Gold
+C00095,Whitefield,2024-08-14,Bronze
+C00096,Electronic City,2024-08-29,Bronze
+C00097,Whitefield,2024-12-06,Bronze
+C00098,Koramangala,2023-04-27,Bronze
+C00099,Koramangala,2024-04-12,Bronze
+C00100,BTM Layout,2024-12-16,Bronze
+C00101,Hebbal,2024-08-11,Silver
+C00102,Marathahalli,2023-06-14,Bronze
+C00103,Indiranagar,2024-10-13,Bronze
+C00104,BTM Layout,2023-11-04,Bronze
+C00105,Rajajinagar,2023-12-23,Silver
+C00106,Marathahalli,2024-02-12,Silver
+C00107,HSR Layout,2024-07-17,Silver
+C00108,Indiranagar,2023-03-29,Bronze
+C00109,Koramangala,2024-01-29,Gold
+C00110,Hebbal,2024-08-19,Silver
+C00111,HSR Layout,2024-02-05,Bronze
+C00112,Indiranagar,2023-07-20,Gold
+C00113,Whitefield,2023-02-11,Silver
+C00114,Electronic City,2024-02-05,Bronze
+C00115,Indiranagar,2024-05-28,Gold
+C00116,Malleshwaram,2024-02-06,Gold
+C00117,Rajajinagar,2024-12-15,Bronze
+C00118,Marathahalli,2024-03-15,Bronze
+C00119,HSR Layout,2024-01-07,Silver
+C00120,Electronic City,2023-02-10,Gold
+C00121,Electronic City,2024-02-12,Bronze
+C00122,Electronic City,2023-05-04,Bronze
+C00123,Koramangala,2024-06-13,Bronze
+C00124,HSR Layout,2023-04-28,Silver
+C00125,Koramangala,2024-10-23,Gold
+C00126,Jayanagar,2023-08-09,Gold
+C00127,Whitefield,2023-11-13,Gold
+C00128,Koramangala,2023-04-16,Bronze
+C00129,Koramangala,2023-06-03,Bronze
+C00130,Electronic City,2024-11-04,Bronze
+C00131,Indiranagar,2023-07-27,Bronze
+C00132,BTM Layout,2024-01-10,Bronze
+C00133,Electronic City,2024-12-17,Silver
+C00134,Whitefield,2024-03-31,Bronze
+C00135,Electronic City,2023-01-31,Bronze
+C00136,Koramangala,2023-09-18,Bronze
+C00137,BTM Layout,2023-10-10,Bronze
+C00138,HSR Layout,2023-07-21,Bronze
+C00139,Rajajinagar,2023-06-26,Silver
+C00140,Koramangala,2024-01-03,Bronze
+C00141,HSR Layout,2023-10-03,Silver
+C00142,Jayanagar,2023-08-03,Bronze
+C00143,BTM Layout,2023-10-29,Bronze
+C00144,Electronic City,2023-09-08,Bronze
+C00145,HSR Layout,2023-06-16,Silver
+C00146,Indiranagar,2023-11-27,Silver
+C00147,Whitefield,2024-11-18,Bronze
+C00148,Jayanagar,2024-01-05,Bronze
+C00149,HSR Layout,2024-03-12,Bronze
+C00150,Koramangala,2024-12-19,Bronze
+C00151,Malleshwaram,2024-03-23,Bronze
+C00152,Hebbal,2023-06-13,Bronze
+C00153,Koramangala,2023-10-18,Bronze
+C00154,Jayanagar,2023-12-23,Bronze
+C00155,Koramangala,2023-12-13,Bronze
+C00156,Marathahalli,2023-04-20,Silver
+C00157,Whitefield,2023-03-19,Silver
+C00158,Electronic City,2023-09-13,Bronze
+C00159,Marathahalli,2024-10-29,Bronze
+C00160,Rajajinagar,2024-06-07,Bronze
+C00161,Koramangala,2024-09-06,Bronze
+C00162,Hebbal,2023-05-08,Gold
+C00163,Indiranagar,2023-10-30,Bronze
+C00164,Koramangala,2024-02-29,Silver
+C00165,Jayanagar,2023-11-14,Bronze
+C00166,Whitefield,2023-11-01,Gold
+C00167,Malleshwaram,2023-09-20,Bronze
+C00168,Rajajinagar,2023-02-07,Gold
+C00169,Whitefield,2024-09-17,Bronze
+C00170,BTM Layout,2024-11-12,Silver
+C00171,Whitefield,2023-03-01,Bronze
+C00172,Jayanagar,2023-10-29,Bronze
+C00173,Indiranagar,2024-01-14,Bronze
+C00174,BTM Layout,2024-07-26,Bronze
+C00175,Indiranagar,2024-12-21,Gold
+C00176,Koramangala,2023-10-31,Bronze
+C00177,HSR Layout,2024-06-30,Silver
+C00178,Yelahanka,2024-11-15,Bronze
+C00179,Hebbal,2024-08-29,Bronze
+C00180,Marathahalli,2023-08-01,Bronze
+C00181,Hebbal,2024-08-19,Bronze
+C00182,Hebbal,2023-10-28,Bronze
+C00183,Jayanagar,2023-01-13,Silver
+C00184,Whitefield,2024-07-07,Gold
+C00185,Rajajinagar,2024-09-01,Bronze
+C00186,Marathahalli,2023-09-08,Bronze
+C00187,Whitefield,2023-11-26,Silver
+C00188,Koramangala,2023-09-23,Bronze
+C00189,Marathahalli,2023-03-27,Silver
+C00190,Indiranagar,2024-12-27,Bronze
+C00191,BTM Layout,2023-01-17,Bronze
+C00192,Indiranagar,2024-02-10,Silver
+C00193,Koramangala,2023-01-11,Silver
+C00194,Malleshwaram,2024-05-18,Silver
+C00195,Koramangala,2024-10-19,Bronze
+C00196,Indiranagar,2024-04-14,Silver
+C00197,Electronic City,2024-03-18,Bronze
+C00198,Hebbal,2024-08-27,Bronze
+C00199,Indiranagar,2024-12-12,Bronze
+C00200,Whitefield,2024-09-21,Bronze
+C00201,Rajajinagar,2023-06-18,Gold
+C00202,Yelahanka,2024-02-16,Gold
+C00203,Jayanagar,2024-08-20,Silver
+C00204,Koramangala,2023-08-04,Bronze
+C00205,Koramangala,2024-05-07,Bronze
+C00206,Indiranagar,2023-01-17,Gold
+C00207,Koramangala,2024-10-02,Gold
+C00208,Marathahalli,2024-03-24,Silver
+C00209,Koramangala,2024-06-26,Bronze
+C00210,Jayanagar,2024-08-25,Gold
+C00211,Marathahalli,2023-06-09,Bronze
+C00212,Electronic City,2023-11-25,Gold
+C00213,Indiranagar,2024-09-18,Silver
+C00214,Rajajinagar,2023-05-01,Gold
+C00215,Marathahalli,2024-08-23,Bronze
+C00216,Marathahalli,2023-07-30,Bronze
+C00217,Koramangala,2024-02-25,Silver
+C00218,Koramangala,2024-01-08,Bronze
+C00219,BTM Layout,2024-05-16,Gold
+C00220,HSR Layout,2024-09-02,Bronze
+C00221,Whitefield,2023-09-12,Bronze
+C00222,HSR Layout,2023-05-06,Bronze
+C00223,Marathahalli,2023-11-05,Silver
+C00224,BTM Layout,2024-03-22,Silver
+C00225,Whitefield,2024-07-01,Bronze
+C00226,BTM Layout,2024-07-03,Silver
+C00227,Koramangala,2023-09-06,Silver
+C00228,Jayanagar,2024-11-14,Bronze
+C00229,Electronic City,2023-03-02,Silver
+C00230,Koramangala,2023-03-27,Silver
+C00231,Koramangala,2023-01-19,Gold
+C00232,HSR Layout,2024-11-07,Bronze
+C00233,BTM Layout,2023-05-12,Bronze
+C00234,Electronic City,2024-03-15,Gold
+C00235,BTM Layout,2024-08-16,Bronze
+C00236,Rajajinagar,2024-07-13,Gold
+C00237,HSR Layout,2024-11-23,Gold
+C00238,Rajajinagar,2023-02-09,Bronze
+C00239,Koramangala,2023-10-25,Silver
+C00240,Koramangala,2024-01-05,Bronze
+C00241,Malleshwaram,2024-05-23,Bronze
+C00242,Rajajinagar,2024-03-30,Bronze
+C00243,Indiranagar,2024-02-13,Silver
+C00244,Jayanagar,2023-08-12,Silver
+C00245,Electronic City,2023-03-19,Bronze
+C00246,Hebbal,2023-11-12,Silver
+C00247,Electronic City,2023-07-09,Bronze
+C00248,HSR Layout,2024-02-09,Bronze
+C00249,Whitefield,2024-08-04,Gold
+C00250,HSR Layout,2024-02-08,Gold
+C00251,Electronic City,2024-03-01,Bronze
+C00252,Hebbal,2023-01-31,Silver
+C00253,HSR Layout,2024-04-15,Bronze
+C00254,Indiranagar,2023-11-17,Bronze
+C00255,Indiranagar,2023-04-01,Bronze
+C00256,Marathahalli,2023-06-06,Bronze
+C00257,Malleshwaram,2024-07-23,Bronze
+C00258,Koramangala,2024-10-31,Silver
+C00259,Koramangala,2024-01-06,Bronze
+C00260,Electronic City,2024-12-13,Gold
+C00261,Koramangala,2023-05-12,Bronze
+C00262,Malleshwaram,2023-08-07,Bronze
+C00263,Whitefield,2024-11-09,Bronze
+C00264,Koramangala,2023-05-08,Bronze
+C00265,BTM Layout,2024-04-26,Gold
+C00266,Indiranagar,2023-06-10,Bronze
+C00267,Whitefield,2023-08-30,Bronze
+C00268,Koramangala,2023-12-15,Bronze
+C00269,Koramangala,2023-09-20,Bronze
+C00270,Koramangala,2024-09-30,Bronze
+C00271,Koramangala,2024-12-11,Gold
+C00272,Indiranagar,2024-01-01,Bronze
+C00273,Koramangala,2024-01-19,Bronze
+C00274,Electronic City,2023-02-10,Bronze
+C00275,Marathahalli,2023-06-20,Gold
+C00276,HSR Layout,2023-01-30,Bronze
+C00277,Whitefield,2024-09-17,Gold
+C00278,Jayanagar,2023-06-15,Silver
+C00279,Hebbal,2023-09-06,Bronze
+C00280,Malleshwaram,2024-09-07,Bronze
+C00281,Koramangala,2024-06-04,Silver
+C00282,Indiranagar,2024-03-29,Bronze
+C00283,Indiranagar,2023-01-29,Bronze
+C00284,Indiranagar,2024-02-15,Bronze
+C00285,Electronic City,2024-02-14,Bronze
+C00286,HSR Layout,2023-08-21,Silver
+C00287,Koramangala,2024-06-27,Bronze
+C00288,Whitefield,2024-11-09,Bronze
+C00289,Jayanagar,2023-07-09,Bronze
+C00290,Koramangala,2023-08-30,Bronze
+C00291,Malleshwaram,2023-08-24,Bronze
+C00292,Koramangala,2024-09-01,Bronze
+C00293,BTM Layout,2023-02-26,Silver
+C00294,Koramangala,2024-10-16,Bronze
+C00295,Malleshwaram,2024-07-19,Silver
+C00296,Hebbal,2023-12-19,Gold
+C00297,Yelahanka,2024-03-01,Gold
+C00298,Rajajinagar,2024-10-14,Bronze
+C00299,Rajajinagar,2024-07-15,Silver
+C00300,Electronic City,2023-07-22,Bronze
+C00301,Rajajinagar,2023-02-06,Silver
+C00302,Koramangala,2024-04-25,Bronze
+C00303,Jayanagar,2023-04-17,Bronze
+C00304,Jayanagar,2023-03-06,Bronze
+C00305,Malleshwaram,2024-12-18,Silver
+C00306,HSR Layout,2023-12-12,Silver
+C00307,Whitefield,2024-04-20,Gold
+C00308,Electronic City,2023-06-08,Gold
+C00309,Indiranagar,2023-03-16,Bronze
+C00310,Koramangala,2023-02-15,Bronze
+C00311,HSR Layout,2023-09-16,Bronze
+C00312,HSR Layout,2023-01-03,Silver
+C00313,Indiranagar,2023-11-03,Silver
+C00314,Whitefield,2023-08-26,Bronze
+C00315,Whitefield,2024-01-20,Silver
+C00316,Whitefield,2024-03-06,Gold
+C00317,Whitefield,2023-08-14,Silver
+C00318,Marathahalli,2023-11-29,Bronze
+C00319,Whitefield,2023-02-27,Silver
+C00320,BTM Layout,2023-08-09,Silver
+C00321,Hebbal,2024-12-15,Bronze
+C00322,HSR Layout,2024-12-24,Bronze
+C00323,Whitefield,2023-12-21,Gold
+C00324,Jayanagar,2024-11-16,Silver
+C00325,Malleshwaram,2024-01-01,Bronze
+C00326,Electronic City,2023-04-02,Bronze
+C00327,Rajajinagar,2024-09-25,Bronze
+C00328,Jayanagar,2023-10-31,Bronze
+C00329,Electronic City,2024-03-23,Silver
+C00330,Whitefield,2024-04-18,Bronze
+C00331,Marathahalli,2023-08-13,Silver
+C00332,Indiranagar,2024-06-19,Bronze
+C00333,Marathahalli,2024-01-01,Bronze
+C00334,Hebbal,2023-09-25,Bronze
+C00335,Koramangala,2023-08-06,Silver
+C00336,Electronic City,2024-06-28,Bronze
+C00337,Koramangala,2023-07-02,Gold
+C00338,Marathahalli,2023-04-01,Bronze
+C00339,Koramangala,2024-10-05,Bronze
+C00340,BTM Layout,2023-08-31,Gold
+C00341,Koramangala,2024-04-12,Bronze
+C00342,BTM Layout,2024-06-06,Silver
+C00343,Rajajinagar,2024-09-03,Bronze
+C00344,Electronic City,2024-04-01,Bronze
+C00345,Rajajinagar,2024-05-31,Silver
+C00346,Rajajinagar,2024-09-03,Bronze
+C00347,BTM Layout,2024-11-19,Bronze
+C00348,Indiranagar,2023-02-04,Bronze
+C00349,Electronic City,2024-06-26,Bronze
+C00350,Koramangala,2023-05-08,Gold
+C00351,Electronic City,2024-10-12,Bronze
+C00352,Indiranagar,2023-02-05,Bronze
+C00353,Jayanagar,2023-06-30,Gold
+C00354,Electronic City,2023-05-21,Gold
+C00355,HSR Layout,2024-03-16,Silver
+C00356,Jayanagar,2023-01-04,Bronze
+C00357,Rajajinagar,2023-01-13,Silver
+C00358,Rajajinagar,2024-01-04,Silver
+C00359,Jayanagar,2024-12-10,Bronze
+C00360,Electronic City,2024-01-21,Bronze
+C00361,BTM Layout,2023-11-22,Gold
+C00362,Koramangala,2024-04-25,Bronze
+C00363,Koramangala,2024-02-07,Gold
+C00364,Koramangala,2023-10-08,Silver
+C00365,Electronic City,2024-03-05,Bronze
+C00366,HSR Layout,2023-01-03,Bronze
+C00367,Rajajinagar,2023-06-28,Bronze
+C00368,Marathahalli,2024-05-06,Silver
+C00369,Whitefield,2023-09-07,Silver
+C00370,Hebbal,2023-02-09,Gold
+C00371,Rajajinagar,2023-04-01,Silver
+C00372,Indiranagar,2024-09-24,Gold
+C00373,Whitefield,2023-08-29,Bronze
+C00374,Whitefield,2023-01-17,Silver
+C00375,Koramangala,2024-06-16,Bronze
+C00376,Koramangala,2024-01-23,Bronze
+C00377,BTM Layout,2023-11-26,Bronze
+C00378,HSR Layout,2024-10-15,Bronze
+C00379,Whitefield,2023-08-18,Bronze
+C00380,Marathahalli,2024-02-22,Gold
+C00381,Jayanagar,2024-06-27,Gold
+C00382,BTM Layout,2024-03-20,Bronze
+C00383,Rajajinagar,2023-06-01,Bronze
+C00384,HSR Layout,2024-05-12,Bronze
+C00385,Whitefield,2024-06-26,Bronze
+C00386,Yelahanka,2023-03-31,Bronze
+C00387,Marathahalli,2023-05-01,Gold
+C00388,BTM Layout,2024-05-07,Silver
+C00389,Koramangala,2023-03-28,Silver
+C00390,Malleshwaram,2024-10-04,Silver
+C00391,Electronic City,2023-03-21,Silver
+C00392,Koramangala,2024-12-12,Gold
+C00393,Electronic City,2024-05-05,Gold
+C00394,Marathahalli,2023-11-20,Bronze
+C00395,Koramangala,2023-07-15,Bronze
+C00396,HSR Layout,2023-09-09,Bronze
+C00397,Malleshwaram,2024-06-30,Silver
+C00398,Whitefield,2024-07-03,Bronze
+C00399,HSR Layout,2023-06-02,Bronze
+C00400,HSR Layout,2024-02-01,Silver
+C00401,Whitefield,2024-12-25,Bronze
+C00402,Hebbal,2023-07-07,Gold
+C00403,Rajajinagar,2024-05-21,Silver
+C00404,Koramangala,2023-05-06,Silver
+C00405,Yelahanka,2024-08-31,Gold
+C00406,Hebbal,2023-05-05,Silver
+C00407,Whitefield,2023-08-06,Bronze
+C00408,Malleshwaram,2023-12-02,Bronze
+C00409,Koramangala,2023-09-28,Bronze
+C00410,Yelahanka,2023-05-05,Bronze
+C00411,Marathahalli,2024-04-12,Silver
+C00412,Electronic City,2023-01-15,Bronze
+C00413,Koramangala,2024-12-18,Bronze
+C00414,Hebbal,2023-02-08,Gold
+C00415,Koramangala,2023-09-01,Bronze
+C00416,Indiranagar,2024-11-09,Silver
+C00417,Koramangala,2023-04-24,Bronze
+C00418,Rajajinagar,2023-02-23,Bronze
+C00419,Indiranagar,2024-06-27,Bronze
+C00420,Hebbal,2023-02-23,Gold
+C00421,Electronic City,2024-10-18,Silver
+C00422,Koramangala,2023-11-26,Gold
+C00423,Koramangala,2024-09-26,Bronze
+C00424,Koramangala,2023-06-28,Silver
+C00425,Electronic City,2023-04-14,Bronze
+C00426,Rajajinagar,2024-12-03,Bronze
+C00427,Indiranagar,2024-07-10,Silver
+C00428,Malleshwaram,2024-10-27,Gold
+C00429,Koramangala,2023-08-22,Bronze
+C00430,Rajajinagar,2023-10-23,Bronze
+C00431,BTM Layout,2024-02-26,Silver
+C00432,Rajajinagar,2023-11-24,Bronze
+C00433,Marathahalli,2023-06-27,Silver
+C00434,Malleshwaram,2023-10-01,Gold
+C00435,Koramangala,2024-03-20,Bronze
+C00436,Indiranagar,2023-01-28,Bronze
+C00437,Koramangala,2023-09-03,Silver
+C00438,Jayanagar,2023-08-02,Silver
+C00439,Marathahalli,2023-02-21,Silver
+C00440,Electronic City,2023-03-31,Silver
+C00441,Malleshwaram,2023-12-28,Bronze
+C00442,Koramangala,2023-03-16,Silver
+C00443,Marathahalli,2023-09-09,Silver
+C00444,Indiranagar,2024-02-14,Silver
+C00445,Indiranagar,2024-09-29,Bronze
+C00446,Marathahalli,2023-03-14,Silver
+C00447,Yelahanka,2023-11-14,Silver
+C00448,Electronic City,2023-03-17,Bronze
+C00449,Koramangala,2023-11-09,Bronze
+C00450,Electronic City,2023-12-17,Bronze
+C00451,Koramangala,2024-08-06,Bronze
+C00452,Hebbal,2023-11-19,Gold
+C00453,Marathahalli,2024-11-13,Bronze
+C00454,Indiranagar,2023-04-11,Silver
+C00455,Koramangala,2023-02-08,Bronze
+C00456,Indiranagar,2023-01-04,Bronze
+C00457,Yelahanka,2023-09-18,Bronze
+C00458,HSR Layout,2023-05-21,Bronze
+C00459,Rajajinagar,2023-03-08,Gold
+C00460,Electronic City,2023-06-22,Gold
+C00461,Electronic City,2024-12-12,Bronze
+C00462,Koramangala,2024-08-07,Bronze
+C00463,BTM Layout,2023-01-14,Silver
+C00464,Whitefield,2024-10-30,Bronze
+C00465,Electronic City,2023-05-30,Bronze
+C00466,Marathahalli,2023-10-24,Bronze
+C00467,Electronic City,2023-08-28,Bronze
+C00468,BTM Layout,2023-10-23,Bronze
+C00469,Koramangala,2024-07-09,Silver
+C00470,Jayanagar,2024-06-04,Bronze
+C00471,HSR Layout,2024-03-09,Bronze
+C00472,HSR Layout,2024-04-02,Gold
+C00473,Koramangala,2024-06-15,Silver
+C00474,Koramangala,2023-05-15,Silver
+C00475,Indiranagar,2023-10-16,Gold
+C00476,Whitefield,2023-03-20,Bronze
+C00477,HSR Layout,2024-05-29,Bronze
+C00478,Electronic City,2023-11-16,Gold
+C00479,Electronic City,2024-04-10,Bronze
+C00480,HSR Layout,2024-02-17,Silver
+C00481,HSR Layout,2023-07-19,Bronze
+C00482,Indiranagar,2023-04-12,Silver
+C00483,Electronic City,2024-12-11,Bronze
+C00484,Whitefield,2023-08-03,Silver
+C00485,Koramangala,2023-03-21,Silver
+C00486,HSR Layout,2023-08-12,Bronze
+C00487,HSR Layout,2024-10-20,Silver
+C00488,Indiranagar,2023-07-10,Gold
+C00489,Electronic City,2024-12-21,Bronze
+C00490,Jayanagar,2023-12-03,Bronze
+C00491,Marathahalli,2024-09-21,Bronze
+C00492,Electronic City,2024-04-21,Silver
+C00493,Electronic City,2023-02-02,Silver
+C00494,Whitefield,2024-01-07,Bronze
+C00495,Rajajinagar,2023-11-01,Bronze
+C00496,Jayanagar,2023-05-28,Bronze
+C00497,HSR Layout,2024-02-06,Bronze
+C00498,Electronic City,2023-03-17,Gold
+C00499,Whitefield,2024-05-24,Bronze
+C00500,Jayanagar,2024-08-22,Silver
+C00501,Marathahalli,2023-03-09,Bronze
+C00502,Hebbal,2023-12-16,Gold
+C00503,BTM Layout,2024-04-23,Bronze
+C00504,Jayanagar,2023-02-15,Bronze
+C00505,Jayanagar,2023-10-12,Gold
+C00506,Rajajinagar,2023-07-08,Bronze
+C00507,Whitefield,2023-01-29,Bronze
+C00508,Malleshwaram,2024-08-09,Silver
+C00509,Jayanagar,2023-11-21,Gold
+C00510,Koramangala,2024-07-02,Bronze
+C00511,Koramangala,2024-03-04,Gold
+C00512,Malleshwaram,2024-10-01,Gold
+C00513,Koramangala,2024-12-28,Bronze
+C00514,Whitefield,2024-03-15,Bronze
+C00515,Whitefield,2023-09-15,Bronze
+C00516,Indiranagar,2023-11-05,Bronze
+C00517,Whitefield,2024-08-25,Gold
+C00518,Marathahalli,2023-11-08,Bronze
+C00519,Koramangala,2024-01-15,Bronze
+C00520,Malleshwaram,2023-05-22,Bronze
+C00521,Malleshwaram,2024-12-23,Bronze
+C00522,Whitefield,2024-04-20,Bronze
+C00523,Koramangala,2023-08-30,Bronze
+C00524,Electronic City,2024-03-03,Bronze
+C00525,Koramangala,2023-10-20,Bronze
+C00526,Whitefield,2023-04-24,Silver
+C00527,BTM Layout,2024-09-30,Silver
+C00528,Yelahanka,2024-10-08,Bronze
+C00529,Rajajinagar,2024-09-01,Silver
+C00530,Whitefield,2023-09-26,Bronze
+C00531,Marathahalli,2023-07-07,Bronze
+C00532,Marathahalli,2023-02-06,Silver
+C00533,Whitefield,2024-06-18,Gold
+C00534,Electronic City,2023-08-28,Bronze
+C00535,Koramangala,2024-10-13,Bronze
+C00536,Indiranagar,2024-09-26,Bronze
+C00537,Jayanagar,2023-04-04,Bronze
+C00538,Indiranagar,2024-10-31,Silver
+C00539,Indiranagar,2023-04-13,Silver
+C00540,Malleshwaram,2023-12-24,Bronze
+C00541,Yelahanka,2023-12-12,Bronze
+C00542,Jayanagar,2024-11-29,Gold
+C00543,Malleshwaram,2024-04-24,Silver
+C00544,Yelahanka,2024-09-30,Bronze
+C00545,Koramangala,2024-03-10,Bronze
+C00546,HSR Layout,2024-08-25,Bronze
+C00547,HSR Layout,2024-09-14,Bronze
+C00548,Koramangala,2024-09-19,Silver
+C00549,Rajajinagar,2023-10-28,Bronze
+C00550,HSR Layout,2023-10-06,Silver
+C00551,HSR Layout,2024-12-19,Bronze
+C00552,Koramangala,2024-07-06,Gold
+C00553,Indiranagar,2024-10-31,Bronze
+C00554,Hebbal,2024-02-26,Bronze
+C00555,Koramangala,2024-11-09,Silver
+C00556,Indiranagar,2024-06-09,Bronze
+C00557,Whitefield,2024-06-26,Bronze
+C00558,Jayanagar,2023-05-10,Bronze
+C00559,Electronic City,2024-02-18,Bronze
+C00560,Jayanagar,2024-06-17,Bronze
+C00561,Koramangala,2024-07-09,Bronze
+C00562,Indiranagar,2024-11-30,Silver
+C00563,Malleshwaram,2023-08-27,Silver
+C00564,Electronic City,2023-08-09,Bronze
+C00565,Electronic City,2024-12-08,Bronze
+C00566,Marathahalli,2024-12-20,Silver
+C00567,Rajajinagar,2023-05-12,Bronze
+C00568,Koramangala,2023-10-04,Silver
+C00569,Whitefield,2024-11-23,Gold
+C00570,Jayanagar,2023-05-26,Silver
+C00571,Whitefield,2024-07-25,Bronze
+C00572,Malleshwaram,2023-03-23,Bronze
+C00573,HSR Layout,2023-05-11,Bronze
+C00574,Rajajinagar,2024-07-27,Bronze
+C00575,Malleshwaram,2024-03-19,Silver
+C00576,Jayanagar,2024-02-10,Bronze
+C00577,Hebbal,2024-09-17,Silver
+C00578,Electronic City,2023-08-13,Bronze
+C00579,Malleshwaram,2024-01-03,Silver
+C00580,Whitefield,2024-03-20,Bronze
+C00581,Jayanagar,2024-06-24,Bronze
+C00582,Jayanagar,2023-08-31,Bronze
+C00583,Koramangala,2024-04-07,Bronze
+C00584,HSR Layout,2023-11-24,Bronze
+C00585,Hebbal,2024-01-31,Bronze
+C00586,Electronic City,2024-09-21,Bronze
+C00587,Indiranagar,2023-10-15,Bronze
+C00588,Whitefield,2024-05-02,Bronze
+C00589,Indiranagar,2024-11-18,Bronze
+C00590,Koramangala,2024-07-10,Bronze
+C00591,BTM Layout,2024-12-22,Gold
+C00592,HSR Layout,2024-03-01,Gold
+C00593,Whitefield,2023-07-25,Bronze
+C00594,Electronic City,2024-12-24,Gold
+C00595,Koramangala,2024-04-15,Silver
+C00596,Indiranagar,2023-06-26,Bronze
+C00597,Marathahalli,2023-08-20,Bronze
+C00598,Electronic City,2023-07-11,Bronze
+C00599,Yelahanka,2024-08-31,Silver
+C00600,Electronic City,2023-03-09,Silver
+C00601,HSR Layout,2024-06-24,Bronze
+C00602,Rajajinagar,2024-02-09,Bronze
+C00603,Hebbal,2023-02-23,Silver
+C00604,Marathahalli,2024-03-23,Bronze
+C00605,BTM Layout,2024-07-03,Bronze
+C00606,Rajajinagar,2024-06-13,Gold
+C00607,Hebbal,2024-01-21,Silver
+C00608,Koramangala,2023-09-02,Silver
+C00609,Marathahalli,2023-04-30,Bronze
+C00610,HSR Layout,2023-01-09,Silver
+C00611,Jayanagar,2023-09-20,Bronze
+C00612,Electronic City,2024-04-06,Bronze
+C00613,BTM Layout,2023-01-28,Bronze
+C00614,Yelahanka,2024-12-30,Gold
+C00615,Whitefield,2024-03-03,Gold
+C00616,Marathahalli,2023-08-04,Silver
+C00617,Marathahalli,2024-12-03,Gold
+C00618,Whitefield,2023-05-15,Gold
+C00619,Koramangala,2024-11-30,Silver
+C00620,Koramangala,2023-07-25,Bronze
+C00621,Rajajinagar,2023-10-05,Bronze
+C00622,HSR Layout,2023-11-07,Bronze
+C00623,Yelahanka,2024-12-27,Silver
+C00624,HSR Layout,2023-07-03,Gold
+C00625,Yelahanka,2024-12-11,Gold
+C00626,HSR Layout,2023-09-11,Silver
+C00627,Rajajinagar,2023-07-28,Silver
+C00628,Koramangala,2024-04-10,Gold
+C00629,Jayanagar,2024-05-21,Gold
+C00630,Rajajinagar,2023-09-09,Bronze
+C00631,BTM Layout,2023-04-08,Bronze
+C00632,Malleshwaram,2023-10-17,Bronze
+C00633,Koramangala,2024-01-30,Gold
+C00634,Whitefield,2023-01-30,Silver
+C00635,Koramangala,2023-02-27,Bronze
+C00636,Koramangala,2024-11-01,Bronze
+C00637,Marathahalli,2023-01-27,Silver
+C00638,Marathahalli,2023-10-25,Silver
+C00639,Rajajinagar,2024-07-11,Bronze
+C00640,Hebbal,2023-08-28,Silver
+C00641,Marathahalli,2023-12-28,Silver
+C00642,Rajajinagar,2023-03-05,Gold
+C00643,Koramangala,2024-08-02,Bronze
+C00644,Indiranagar,2024-04-07,Silver
+C00645,Electronic City,2024-09-13,Bronze
+C00646,Malleshwaram,2024-09-22,Silver
+C00647,Koramangala,2023-09-14,Silver
+C00648,Jayanagar,2023-01-31,Bronze
+C00649,Marathahalli,2023-09-10,Gold
+C00650,Koramangala,2023-04-17,Silver
+C00651,HSR Layout,2024-01-25,Bronze
+C00652,Hebbal,2023-04-17,Bronze
+C00653,Marathahalli,2024-11-03,Silver
+C00654,Indiranagar,2024-03-15,Bronze
+C00655,Malleshwaram,2023-07-04,Bronze
+C00656,Whitefield,2024-11-03,Bronze
+C00657,Malleshwaram,2024-07-15,Bronze
+C00658,Whitefield,2023-11-16,Bronze
+C00659,Electronic City,2023-04-17,Gold
+C00660,HSR Layout,2023-09-08,Gold
+C00661,Indiranagar,2024-03-02,Bronze
+C00662,Hebbal,2024-07-13,Bronze
+C00663,Indiranagar,2023-07-11,Silver
+C00664,Koramangala,2024-06-26,Silver
+C00665,Whitefield,2023-07-26,Silver
+C00666,Marathahalli,2023-06-30,Gold
+C00667,Rajajinagar,2023-11-23,Gold
+C00668,Yelahanka,2023-04-28,Bronze
+C00669,Whitefield,2023-10-23,Bronze
+C00670,HSR Layout,2023-09-19,Bronze
+C00671,Koramangala,2023-07-24,Silver
+C00672,Electronic City,2024-07-20,Bronze
+C00673,Yelahanka,2023-08-31,Bronze
+C00674,Marathahalli,2024-05-22,Bronze
+C00675,Electronic City,2024-06-09,Bronze
+C00676,HSR Layout,2024-05-01,Silver
+C00677,Hebbal,2023-07-16,Bronze
+C00678,Jayanagar,2024-08-28,Bronze
+C00679,Koramangala,2023-06-22,Gold
+C00680,Whitefield,2023-07-22,Silver
+C00681,Koramangala,2024-09-30,Silver
+C00682,Indiranagar,2023-09-05,Bronze
+C00683,Koramangala,2024-05-23,Bronze
+C00684,HSR Layout,2023-01-31,Bronze
+C00685,Electronic City,2024-03-24,Bronze
+C00686,Whitefield,2024-09-26,Bronze
+C00687,HSR Layout,2024-06-01,Bronze
+C00688,BTM Layout,2024-03-01,Bronze
+C00689,Rajajinagar,2024-09-11,Bronze
+C00690,Jayanagar,2023-08-06,Silver
+C00691,Whitefield,2023-10-03,Bronze
+C00692,Hebbal,2023-02-20,Bronze
+C00693,Indiranagar,2024-05-24,Bronze
+C00694,Whitefield,2024-06-12,Silver
+C00695,Hebbal,2024-07-02,Bronze
+C00696,Jayanagar,2024-06-30,Bronze
+C00697,Marathahalli,2023-04-03,Gold
+C00698,Electronic City,2024-05-01,Silver
+C00699,Electronic City,2024-07-11,Bronze
+C00700,Whitefield,2023-05-29,Silver
+C00701,Indiranagar,2023-12-14,Silver
+C00702,Whitefield,2024-10-28,Silver
+C00703,Koramangala,2023-10-30,Bronze
+C00704,Hebbal,2024-07-03,Bronze
+C00705,Whitefield,2024-01-23,Bronze
+C00706,Jayanagar,2024-04-25,Silver
+C00707,Rajajinagar,2024-04-02,Silver
+C00708,Rajajinagar,2024-04-20,Bronze
+C00709,HSR Layout,2024-07-22,Bronze
+C00710,HSR Layout,2024-10-22,Bronze
+C00711,Yelahanka,2023-08-04,Bronze
+C00712,Marathahalli,2024-11-08,Silver
+C00713,Malleshwaram,2024-04-03,Gold
+C00714,Hebbal,2024-03-10,Silver
+C00715,Rajajinagar,2023-08-28,Bronze
+C00716,Indiranagar,2023-11-01,Bronze
+C00717,Jayanagar,2024-04-20,Bronze
+C00718,Koramangala,2023-09-23,Silver
+C00719,Electronic City,2023-07-29,Silver
+C00720,BTM Layout,2024-08-20,Gold
+C00721,Jayanagar,2023-10-31,Bronze
+C00722,HSR Layout,2024-04-15,Bronze
+C00723,Koramangala,2023-01-23,Silver
+C00724,BTM Layout,2023-02-26,Bronze
+C00725,Koramangala,2024-09-11,Silver
+C00726,Koramangala,2023-04-14,Bronze
+C00727,Indiranagar,2024-08-03,Bronze
+C00728,Koramangala,2024-10-19,Bronze
+C00729,HSR Layout,2023-12-18,Bronze
+C00730,Jayanagar,2024-10-07,Bronze
+C00731,Whitefield,2023-11-08,Silver
+C00732,Koramangala,2024-11-25,Silver
+C00733,Koramangala,2023-06-23,Bronze
+C00734,Whitefield,2023-11-09,Gold
+C00735,Koramangala,2023-10-11,Silver
+C00736,Marathahalli,2024-07-26,Gold
+C00737,Indiranagar,2023-02-01,Bronze
+C00738,Whitefield,2024-08-27,Gold
+C00739,HSR Layout,2023-01-18,Silver
+C00740,HSR Layout,2023-08-19,Silver
+C00741,Koramangala,2024-03-11,Silver
+C00742,Koramangala,2023-04-17,Silver
+C00743,Hebbal,2023-12-24,Bronze
+C00744,Koramangala,2024-12-28,Bronze
+C00745,Jayanagar,2024-08-23,Bronze
+C00746,HSR Layout,2023-01-23,Bronze
+C00747,Whitefield,2024-03-07,Bronze
+C00748,HSR Layout,2024-03-12,Bronze
+C00749,Rajajinagar,2023-02-19,Silver
+C00750,Malleshwaram,2024-04-19,Bronze
+C00751,Indiranagar,2024-01-16,Silver
+C00752,Whitefield,2024-05-12,Bronze
+C00753,Indiranagar,2023-08-06,Silver
+C00754,HSR Layout,2023-07-06,Silver
+C00755,Marathahalli,2024-06-21,Silver
+C00756,Indiranagar,2024-06-10,Silver
+C00757,Whitefield,2023-04-29,Gold
+C00758,BTM Layout,2023-06-07,Bronze
+C00759,Koramangala,2024-03-04,Bronze
+C00760,HSR Layout,2024-08-28,Silver
+C00761,Marathahalli,2023-05-28,Gold
+C00762,Koramangala,2023-06-09,Silver
+C00763,Koramangala,2024-08-12,Bronze
+C00764,Koramangala,2024-05-23,Bronze
+C00765,Hebbal,2024-10-20,Bronze
+C00766,Koramangala,2024-07-25,Bronze
+C00767,Indiranagar,2024-11-26,Bronze
+C00768,Koramangala,2023-05-18,Silver
+C00769,Koramangala,2023-07-18,Bronze
+C00770,Electronic City,2023-06-23,Gold
+C00771,Indiranagar,2023-02-10,Gold
+C00772,Jayanagar,2024-07-22,Bronze
+C00773,Electronic City,2024-04-28,Silver
+C00774,Malleshwaram,2023-03-04,Gold
+C00775,Koramangala,2023-05-25,Bronze
+C00776,Malleshwaram,2023-05-20,Bronze
+C00777,Electronic City,2023-10-22,Bronze
+C00778,Indiranagar,2023-11-29,Bronze
+C00779,Rajajinagar,2023-07-30,Bronze
+C00780,Malleshwaram,2024-11-10,Bronze
+C00781,Indiranagar,2023-06-05,Silver
+C00782,Hebbal,2024-02-15,Bronze
+C00783,HSR Layout,2023-11-16,Gold
+C00784,Electronic City,2023-10-11,Gold
+C00785,Yelahanka,2024-08-25,Silver
+C00786,Whitefield,2024-12-15,Bronze
+C00787,Malleshwaram,2023-01-05,Bronze
+C00788,Whitefield,2023-12-05,Silver
+C00789,Rajajinagar,2023-03-28,Silver
+C00790,Electronic City,2023-11-13,Silver
+C00791,Indiranagar,2024-03-26,Gold
+C00792,HSR Layout,2023-10-28,Silver
+C00793,Whitefield,2023-08-14,Bronze
+C00794,Koramangala,2023-08-16,Bronze
+C00795,Koramangala,2023-08-07,Bronze
+C00796,Whitefield,2023-08-26,Bronze
+C00797,Koramangala,2023-10-01,Bronze
+C00798,Indiranagar,2024-05-17,Silver
+C00799,Marathahalli,2023-03-12,Bronze
+C00800,Marathahalli,2023-01-30,Bronze
+C00801,Marathahalli,2024-01-13,Silver
+C00802,Whitefield,2024-05-12,Silver
+C00803,Hebbal,2023-07-08,Bronze
+C00804,Electronic City,2023-05-27,Bronze
+C00805,Koramangala,2024-04-01,Silver
+C00806,Koramangala,2023-10-08,Bronze
+C00807,Marathahalli,2024-06-21,Bronze
+C00808,Indiranagar,2023-04-17,Silver
+C00809,Jayanagar,2023-03-30,Bronze
+C00810,Yelahanka,2024-02-08,Gold
+C00811,Koramangala,2023-10-14,Silver
+C00812,Koramangala,2024-06-16,Silver
+C00813,Yelahanka,2024-01-05,Silver
+C00814,Electronic City,2023-09-16,Bronze
+C00815,Koramangala,2023-04-27,Gold
+C00816,Hebbal,2023-04-30,Silver
+C00817,Hebbal,2024-07-05,Bronze
+C00818,Jayanagar,2023-06-15,Gold
+C00819,Electronic City,2024-01-02,Bronze
+C00820,Indiranagar,2024-08-20,Silver
+C00821,Koramangala,2024-10-17,Bronze
+C00822,Electronic City,2023-07-15,Bronze
+C00823,Whitefield,2023-03-22,Gold
+C00824,Marathahalli,2024-07-19,Silver
+C00825,Malleshwaram,2024-05-16,Bronze
+C00826,Koramangala,2023-08-30,Silver
+C00827,Electronic City,2024-03-09,Bronze
+C00828,Indiranagar,2023-05-18,Bronze
+C00829,Hebbal,2024-05-26,Silver
+C00830,Indiranagar,2024-06-14,Gold
+C00831,Electronic City,2023-08-07,Bronze
+C00832,Jayanagar,2023-12-09,Bronze
+C00833,HSR Layout,2023-09-01,Bronze
+C00834,Marathahalli,2023-01-23,Bronze
+C00835,Marathahalli,2023-04-03,Gold
+C00836,Jayanagar,2024-12-01,Silver
+C00837,Rajajinagar,2023-11-29,Silver
+C00838,Yelahanka,2023-04-18,Bronze
+C00839,HSR Layout,2023-02-02,Bronze
+C00840,Jayanagar,2023-09-15,Bronze
+C00841,Koramangala,2024-12-18,Silver
+C00842,Rajajinagar,2023-10-08,Bronze
+C00843,Jayanagar,2024-12-30,Bronze
+C00844,HSR Layout,2023-12-24,Bronze
+C00845,Koramangala,2024-07-11,Silver
+C00846,Hebbal,2024-07-27,Bronze
+C00847,HSR Layout,2023-01-21,Gold
+C00848,Marathahalli,2023-01-05,Silver
+C00849,Koramangala,2024-11-04,Bronze
+C00850,BTM Layout,2024-11-11,Bronze
+C00851,Indiranagar,2023-04-07,Bronze
+C00852,Indiranagar,2024-04-16,Gold
+C00853,Malleshwaram,2024-11-05,Silver
+C00854,Hebbal,2024-11-24,Gold
+C00855,Indiranagar,2023-08-05,Gold
+C00856,HSR Layout,2024-08-19,Bronze
+C00857,Marathahalli,2024-04-16,Gold
+C00858,Hebbal,2024-11-08,Silver
+C00859,Whitefield,2023-04-18,Silver
+C00860,Jayanagar,2024-03-14,Silver
+C00861,Marathahalli,2023-01-18,Gold
+C00862,Marathahalli,2023-09-18,Bronze
+C00863,Rajajinagar,2023-01-09,Silver
+C00864,Jayanagar,2023-11-20,Gold
+C00865,Koramangala,2024-08-15,Bronze
+C00866,Hebbal,2024-04-25,Silver
+C00867,Hebbal,2023-08-20,Silver
+C00868,Rajajinagar,2023-11-08,Bronze
+C00869,Koramangala,2023-09-26,Silver
+C00870,Indiranagar,2024-06-18,Gold
+C00871,Marathahalli,2023-07-14,Bronze
+C00872,Koramangala,2023-03-09,Bronze
+C00873,Yelahanka,2024-01-05,Bronze
+C00874,Whitefield,2024-08-28,Bronze
+C00875,Marathahalli,2023-12-15,Bronze
+C00876,Hebbal,2023-05-30,Bronze
+C00877,HSR Layout,2023-02-03,Bronze
+C00878,Whitefield,2024-11-20,Bronze
+C00879,Electronic City,2024-07-09,Bronze
+C00880,Electronic City,2023-04-24,Bronze
+C00881,HSR Layout,2023-02-23,Silver
+C00882,Electronic City,2023-04-05,Silver
+C00883,BTM Layout,2023-10-02,Bronze
+C00884,HSR Layout,2024-08-15,Silver
+C00885,Indiranagar,2023-04-27,Silver
+C00886,Whitefield,2024-08-20,Silver
+C00887,HSR Layout,2023-01-02,Bronze
+C00888,Koramangala,2024-06-23,Silver
+C00889,Indiranagar,2023-07-26,Bronze
+C00890,Marathahalli,2024-12-02,Bronze
+C00891,Whitefield,2023-12-14,Bronze
+C00892,BTM Layout,2023-07-17,Bronze
+C00893,Indiranagar,2023-06-27,Silver
+C00894,Koramangala,2024-08-26,Bronze
+C00895,Rajajinagar,2023-10-22,Silver
+C00896,Hebbal,2023-09-14,Silver
+C00897,Indiranagar,2024-06-21,Bronze
+C00898,Indiranagar,2024-01-28,Bronze
+C00899,Indiranagar,2024-04-29,Bronze
+C00900,Jayanagar,2023-11-22,Silver
+C00901,HSR Layout,2023-02-16,Silver
+C00902,Indiranagar,2023-01-05,Bronze
+C00903,Koramangala,2023-01-29,Gold
+C00904,HSR Layout,2024-02-24,Silver
+C00905,BTM Layout,2024-01-10,Bronze
+C00906,Electronic City,2024-06-29,Bronze
+C00907,Jayanagar,2024-10-15,Bronze
+C00908,Koramangala,2023-05-08,Bronze
+C00909,Indiranagar,2024-11-29,Bronze
+C00910,Whitefield,2024-11-11,Gold
+C00911,Rajajinagar,2024-03-25,Silver
+C00912,Hebbal,2024-01-23,Bronze
+C00913,Hebbal,2023-05-09,Silver
+C00914,Yelahanka,2023-05-11,Bronze
+C00915,Yelahanka,2023-01-14,Bronze
+C00916,BTM Layout,2024-04-16,Silver
+C00917,Koramangala,2023-11-13,Bronze
+C00918,Koramangala,2023-05-21,Bronze
+C00919,Whitefield,2023-04-08,Bronze
+C00920,Jayanagar,2023-02-16,Silver
+C00921,Koramangala,2024-04-12,Bronze
+C00922,Malleshwaram,2024-05-15,Silver
+C00923,Electronic City,2024-04-06,Gold
+C00924,Jayanagar,2023-03-22,Silver
+C00925,Indiranagar,2023-01-31,Silver
+C00926,Indiranagar,2023-03-19,Bronze
+C00927,Indiranagar,2024-07-02,Silver
+C00928,Malleshwaram,2024-06-24,Silver
+C00929,Electronic City,2023-08-04,Bronze
+C00930,Marathahalli,2023-02-10,Bronze
+C00931,Whitefield,2023-08-22,Bronze
+C00932,Whitefield,2024-08-14,Bronze
+C00933,HSR Layout,2023-04-15,Bronze
+C00934,Rajajinagar,2024-08-04,Gold
+C00935,Rajajinagar,2023-12-05,Bronze
+C00936,Indiranagar,2023-04-14,Bronze
+C00937,BTM Layout,2024-11-12,Bronze
+C00938,Koramangala,2024-01-14,Bronze
+C00939,Hebbal,2024-05-05,Gold
+C00940,Koramangala,2023-03-12,Bronze
+C00941,Indiranagar,2023-09-29,Silver
+C00942,Malleshwaram,2024-04-06,Bronze
+C00943,Indiranagar,2024-04-16,Bronze
+C00944,HSR Layout,2023-02-15,Bronze
+C00945,HSR Layout,2024-03-17,Bronze
+C00946,Indiranagar,2024-11-20,Bronze
+C00947,Marathahalli,2024-07-28,Bronze
+C00948,Malleshwaram,2023-06-01,Bronze
+C00949,Hebbal,2024-10-28,Gold
+C00950,Whitefield,2024-05-13,Gold
+C00951,Jayanagar,2023-02-11,Gold
+C00952,Indiranagar,2023-04-04,Silver
+C00953,Indiranagar,2024-11-03,Bronze
+C00954,Indiranagar,2023-06-03,Bronze
+C00955,BTM Layout,2023-03-12,Silver
+C00956,Hebbal,2023-11-26,Bronze
+C00957,Rajajinagar,2024-01-19,Gold
+C00958,Jayanagar,2024-02-23,Silver
+C00959,Jayanagar,2024-04-25,Bronze
+C00960,Jayanagar,2024-12-30,Silver
+C00961,Jayanagar,2024-07-08,Gold
+C00962,HSR Layout,2023-01-19,Silver
+C00963,Koramangala,2023-03-06,Bronze
+C00964,Koramangala,2023-01-01,Bronze
+C00965,BTM Layout,2023-10-16,Bronze
+C00966,HSR Layout,2023-09-13,Silver
+C00967,BTM Layout,2024-11-12,Gold
+C00968,Indiranagar,2023-09-25,Gold
+C00969,Jayanagar,2023-01-23,Bronze
+C00970,Indiranagar,2024-10-07,Bronze
+C00971,Indiranagar,2023-07-09,Bronze
+C00972,Koramangala,2024-10-28,Silver
+C00973,Koramangala,2024-07-19,Gold
+C00974,Hebbal,2024-10-04,Bronze
+C00975,Whitefield,2024-08-21,Bronze
+C00976,Electronic City,2023-04-15,Bronze
+C00977,HSR Layout,2024-04-02,Silver
+C00978,HSR Layout,2023-10-28,Silver
+C00979,Jayanagar,2024-04-04,Bronze
+C00980,Indiranagar,2024-06-28,Bronze
+C00981,Yelahanka,2024-01-01,Bronze
+C00982,Malleshwaram,2023-08-17,Silver
+C00983,Marathahalli,2024-10-30,Silver
+C00984,HSR Layout,2024-04-29,Silver
+C00985,Koramangala,2024-10-08,Silver
+C00986,BTM Layout,2023-06-23,Bronze
+C00987,Whitefield,2024-09-03,Bronze
+C00988,Koramangala,2023-08-25,Silver
+C00989,Whitefield,2023-12-03,Bronze
+C00990,Rajajinagar,2024-09-20,Bronze
+C00991,Electronic City,2023-09-16,Gold
+C00992,Rajajinagar,2023-07-02,Bronze
+C00993,Rajajinagar,2024-10-30,Bronze
+C00994,Indiranagar,2024-12-04,Silver
+C00995,BTM Layout,2023-08-16,Silver
+C00996,HSR Layout,2023-08-12,Gold
+C00997,Electronic City,2023-06-16,Gold
+C00998,Koramangala,2023-01-18,Bronze
+C00999,Yelahanka,2024-02-08,Bronze
+C01000,Whitefield,2023-07-06,Bronze
+C01001,Koramangala,2024-09-11,Bronze
+C01002,HSR Layout,2023-05-05,Bronze
+C01003,Koramangala,2024-04-08,Bronze
+C01004,Koramangala,2024-01-05,Silver
+C01005,Electronic City,2024-03-22,Silver
+C01006,HSR Layout,2023-03-24,Gold
+C01007,BTM Layout,2023-12-07,Bronze
+C01008,Whitefield,2024-04-02,Bronze
+C01009,Marathahalli,2023-09-06,Bronze
+C01010,HSR Layout,2024-09-30,Gold
+C01011,Electronic City,2024-01-22,Silver
+C01012,Electronic City,2023-09-22,Gold
+C01013,HSR Layout,2023-01-23,Bronze
+C01014,BTM Layout,2023-05-03,Gold
+C01015,Whitefield,2023-12-14,Gold
+C01016,Indiranagar,2023-10-20,Bronze
+C01017,Marathahalli,2024-09-28,Bronze
+C01018,Malleshwaram,2024-07-27,Bronze
+C01019,Koramangala,2023-04-27,Silver
+C01020,HSR Layout,2024-03-07,Silver
+C01021,Hebbal,2023-11-28,Bronze
+C01022,Marathahalli,2023-03-15,Silver
+C01023,Yelahanka,2024-05-01,Silver
+C01024,Jayanagar,2024-01-28,Bronze
+C01025,Electronic City,2023-03-05,Silver
+C01026,Whitefield,2023-12-08,Bronze
+C01027,BTM Layout,2024-06-18,Bronze
+C01028,Whitefield,2023-08-27,Bronze
+C01029,Marathahalli,2023-09-18,Silver
+C01030,HSR Layout,2023-03-22,Bronze
+C01031,Jayanagar,2023-05-30,Silver
+C01032,Marathahalli,2024-12-17,Gold
+C01033,Jayanagar,2024-03-29,Gold
+C01034,Hebbal,2023-05-09,Gold
+C01035,HSR Layout,2023-12-19,Silver
+C01036,Electronic City,2023-05-21,Bronze
+C01037,Whitefield,2023-11-20,Silver
+C01038,HSR Layout,2023-04-17,Bronze
+C01039,HSR Layout,2024-03-27,Silver
+C01040,Koramangala,2024-02-21,Bronze
+C01041,Koramangala,2024-04-07,Silver
+C01042,Marathahalli,2023-11-20,Bronze
+C01043,Electronic City,2023-07-28,Bronze
+C01044,Marathahalli,2023-07-02,Gold
+C01045,Koramangala,2023-06-07,Bronze
+C01046,Whitefield,2023-11-10,Silver
+C01047,Indiranagar,2023-11-26,Silver
+C01048,Rajajinagar,2024-05-06,Silver
+C01049,Hebbal,2023-02-08,Bronze
+C01050,Indiranagar,2023-07-25,Bronze
+C01051,Marathahalli,2024-09-14,Silver
+C01052,Koramangala,2024-10-30,Bronze
+C01053,Indiranagar,2024-11-10,Bronze
+C01054,Koramangala,2023-08-12,Bronze
+C01055,Whitefield,2023-04-11,Bronze
+C01056,Marathahalli,2023-05-25,Silver
+C01057,Hebbal,2023-04-07,Bronze
+C01058,Indiranagar,2024-11-27,Silver
+C01059,Jayanagar,2024-10-06,Gold
+C01060,Marathahalli,2024-08-14,Bronze
+C01061,BTM Layout,2024-06-16,Bronze
+C01062,Electronic City,2023-09-08,Silver
+C01063,Indiranagar,2023-12-14,Silver
+C01064,Electronic City,2024-09-06,Silver
+C01065,Whitefield,2024-08-17,Bronze
+C01066,Yelahanka,2024-01-14,Silver
+C01067,HSR Layout,2024-09-03,Bronze
+C01068,Marathahalli,2023-09-11,Bronze
+C01069,Koramangala,2023-10-29,Bronze
+C01070,HSR Layout,2024-09-04,Bronze
+C01071,Hebbal,2023-10-02,Bronze
+C01072,Electronic City,2024-07-03,Silver
+C01073,HSR Layout,2023-11-27,Bronze
+C01074,BTM Layout,2023-08-06,Bronze
+C01075,Malleshwaram,2023-06-09,Gold
+C01076,Whitefield,2024-03-18,Silver
+C01077,Jayanagar,2023-12-17,Bronze
+C01078,HSR Layout,2023-09-27,Bronze
+C01079,Electronic City,2024-06-26,Silver
+C01080,Whitefield,2023-01-01,Bronze
+C01081,Indiranagar,2023-03-09,Bronze
+C01082,Hebbal,2024-12-03,Bronze
+C01083,BTM Layout,2024-04-29,Bronze
+C01084,Malleshwaram,2024-02-06,Silver
+C01085,Yelahanka,2023-01-11,Bronze
+C01086,Marathahalli,2024-03-12,Silver
+C01087,Rajajinagar,2023-11-14,Gold
+C01088,Rajajinagar,2024-03-13,Silver
+C01089,HSR Layout,2023-01-30,Silver
+C01090,HSR Layout,2024-02-06,Silver
+C01091,Indiranagar,2024-02-26,Bronze
+C01092,Electronic City,2023-07-31,Silver
+C01093,Whitefield,2023-02-09,Bronze
+C01094,Indiranagar,2024-12-10,Bronze
+C01095,Electronic City,2024-06-01,Bronze
+C01096,HSR Layout,2024-03-29,Bronze
+C01097,Indiranagar,2024-07-13,Bronze
+C01098,Malleshwaram,2024-05-04,Silver
+C01099,Hebbal,2023-04-09,Gold
+C01100,Indiranagar,2023-11-28,Silver
+C01101,Koramangala,2024-10-10,Bronze
+C01102,Whitefield,2023-07-30,Bronze
+C01103,Rajajinagar,2024-12-10,Silver
+C01104,Malleshwaram,2023-02-16,Silver
+C01105,Koramangala,2023-08-30,Bronze
+C01106,Rajajinagar,2023-09-13,Bronze
+C01107,Koramangala,2024-03-26,Gold
+C01108,HSR Layout,2023-05-09,Bronze
+C01109,Yelahanka,2023-06-17,Bronze
+C01110,Indiranagar,2024-04-28,Bronze
+C01111,Koramangala,2023-07-27,Silver
+C01112,HSR Layout,2024-10-03,Bronze
+C01113,Electronic City,2024-09-27,Gold
+C01114,BTM Layout,2023-08-10,Bronze
+C01115,Yelahanka,2024-02-13,Gold
+C01116,Koramangala,2023-09-01,Bronze
+C01117,Koramangala,2023-09-09,Silver
+C01118,Rajajinagar,2024-05-04,Gold
+C01119,Indiranagar,2023-08-02,Bronze
+C01120,Hebbal,2023-04-19,Silver
+C01121,Marathahalli,2023-07-09,Bronze
+C01122,Koramangala,2024-11-09,Silver
+C01123,Malleshwaram,2023-07-09,Bronze
+C01124,Indiranagar,2023-09-23,Bronze
+C01125,HSR Layout,2024-04-04,Silver
+C01126,Jayanagar,2023-03-15,Bronze
+C01127,Jayanagar,2023-07-15,Silver
+C01128,Marathahalli,2023-05-08,Bronze
+C01129,Electronic City,2024-11-05,Silver
+C01130,Yelahanka,2024-11-11,Silver
+C01131,Yelahanka,2024-07-05,Bronze
+C01132,Jayanagar,2023-06-30,Bronze
+C01133,Koramangala,2024-03-25,Bronze
+C01134,Marathahalli,2024-04-28,Bronze
+C01135,Yelahanka,2024-09-26,Bronze
+C01136,Whitefield,2023-04-25,Bronze
+C01137,HSR Layout,2024-06-21,Bronze
+C01138,HSR Layout,2023-05-22,Bronze
+C01139,Koramangala,2024-02-20,Bronze
+C01140,Marathahalli,2024-10-03,Bronze
+C01141,Whitefield,2023-02-15,Gold
+C01142,Rajajinagar,2023-04-19,Bronze
+C01143,Malleshwaram,2024-08-16,Bronze
+C01144,Malleshwaram,2023-01-14,Bronze
+C01145,HSR Layout,2024-05-15,Silver
+C01146,Whitefield,2024-01-01,Silver
+C01147,Marathahalli,2023-09-11,Bronze
+C01148,Rajajinagar,2024-09-21,Bronze
+C01149,Jayanagar,2024-09-11,Silver
+C01150,Hebbal,2023-08-26,Bronze
+C01151,Koramangala,2023-01-04,Bronze
+C01152,Hebbal,2023-04-04,Silver
+C01153,Koramangala,2023-03-20,Bronze
+C01154,Koramangala,2024-12-18,Silver
+C01155,Jayanagar,2024-03-11,Bronze
+C01156,Koramangala,2024-05-09,Bronze
+C01157,Koramangala,2023-06-18,Bronze
+C01158,Koramangala,2024-09-13,Bronze
+C01159,HSR Layout,2024-06-11,Gold
+C01160,Rajajinagar,2024-07-03,Gold
+C01161,Koramangala,2023-12-08,Bronze
+C01162,Electronic City,2024-05-24,Bronze
+C01163,Malleshwaram,2024-02-02,Bronze
+C01164,Indiranagar,2023-10-08,Silver
+C01165,Koramangala,2024-03-09,Bronze
+C01166,Hebbal,2023-08-25,Gold
+C01167,Malleshwaram,2024-11-26,Bronze
+C01168,Jayanagar,2024-06-07,Gold
+C01169,Malleshwaram,2024-06-23,Bronze
+C01170,Koramangala,2024-06-07,Bronze
+C01171,HSR Layout,2023-11-24,Bronze
+C01172,Marathahalli,2024-11-24,Bronze
+C01173,Indiranagar,2023-06-01,Silver
+C01174,Rajajinagar,2024-02-20,Bronze
+C01175,Jayanagar,2023-02-20,Silver
+C01176,Rajajinagar,2023-08-04,Bronze
+C01177,HSR Layout,2024-02-24,Gold
+C01178,Whitefield,2023-12-24,Gold
+C01179,Indiranagar,2024-11-18,Bronze
+C01180,Indiranagar,2024-03-24,Silver
+C01181,Rajajinagar,2023-10-28,Bronze
+C01182,Koramangala,2023-11-08,Silver
+C01183,Koramangala,2024-03-22,Gold
+C01184,Indiranagar,2024-07-31,Silver
+C01185,Indiranagar,2023-07-21,Silver
+C01186,Malleshwaram,2024-03-02,Bronze
+C01187,HSR Layout,2024-02-24,Silver
+C01188,Yelahanka,2023-01-07,Silver
+C01189,Koramangala,2024-10-28,Gold
+C01190,Electronic City,2024-02-20,Bronze
+C01191,HSR Layout,2023-06-26,Bronze
+C01192,HSR Layout,2024-04-07,Bronze
+C01193,Hebbal,2024-05-09,Bronze
+C01194,Yelahanka,2024-10-30,Gold
+C01195,Hebbal,2023-01-25,Bronze
+C01196,Indiranagar,2023-10-30,Bronze
+C01197,Indiranagar,2023-05-12,Bronze
+C01198,Electronic City,2024-02-24,Bronze
+C01199,Whitefield,2024-01-02,Bronze
+C01200,Marathahalli,2023-12-13,Gold
+C01201,Jayanagar,2024-12-17,Gold
+C01202,Jayanagar,2024-01-24,Bronze
+C01203,Malleshwaram,2023-10-28,Silver
+C01204,Marathahalli,2023-02-19,Bronze
+C01205,Koramangala,2023-07-31,Bronze
+C01206,Koramangala,2024-10-17,Silver
+C01207,Electronic City,2023-11-26,Bronze
+C01208,HSR Layout,2024-10-26,Bronze
+C01209,Indiranagar,2024-01-24,Silver
+C01210,HSR Layout,2024-02-05,Bronze
+C01211,Rajajinagar,2023-11-10,Gold
+C01212,Malleshwaram,2024-02-11,Bronze
+C01213,Jayanagar,2023-02-18,Bronze
+C01214,Whitefield,2023-02-12,Silver
+C01215,Indiranagar,2023-12-14,Gold
+C01216,Jayanagar,2024-03-12,Bronze
+C01217,Whitefield,2024-02-07,Silver
+C01218,Jayanagar,2023-11-10,Silver
+C01219,Marathahalli,2023-08-03,Bronze
+C01220,Koramangala,2024-06-01,Bronze
+C01221,Koramangala,2024-03-17,Silver
+C01222,Indiranagar,2023-02-04,Bronze
+C01223,Hebbal,2023-11-27,Bronze
+C01224,Electronic City,2024-06-02,Bronze
+C01225,Indiranagar,2024-07-26,Bronze
+C01226,Hebbal,2023-07-29,Silver
+C01227,HSR Layout,2024-11-06,Bronze
+C01228,HSR Layout,2024-04-20,Bronze
+C01229,BTM Layout,2023-11-16,Silver
+C01230,Koramangala,2024-04-02,Silver
+C01231,Indiranagar,2024-09-28,Bronze
+C01232,Electronic City,2023-06-15,Gold
+C01233,Indiranagar,2023-04-20,Silver
+C01234,Marathahalli,2023-11-18,Bronze
+C01235,Indiranagar,2023-03-03,Bronze
+C01236,Koramangala,2024-09-02,Silver
+C01237,Indiranagar,2024-12-09,Silver
+C01238,HSR Layout,2024-03-18,Gold
+C01239,Indiranagar,2024-12-16,Bronze
+C01240,Koramangala,2023-02-20,Bronze
+C01241,Hebbal,2024-04-06,Bronze
+C01242,Whitefield,2023-11-20,Bronze
+C01243,Whitefield,2023-07-22,Bronze
+C01244,Koramangala,2023-08-16,Silver
+C01245,Whitefield,2024-02-02,Bronze
+C01246,Indiranagar,2024-04-13,Silver
+C01247,Electronic City,2023-04-30,Bronze
+C01248,Indiranagar,2024-03-24,Bronze
+C01249,Hebbal,2024-11-07,Bronze
+C01250,BTM Layout,2023-01-08,Silver
+C01251,Koramangala,2024-10-03,Bronze
+C01252,Koramangala,2024-03-19,Bronze
+C01253,Koramangala,2023-09-07,Bronze
+C01254,Electronic City,2024-06-20,Bronze
+C01255,Koramangala,2024-03-26,Bronze
+C01256,Malleshwaram,2024-07-15,Silver
+C01257,Rajajinagar,2023-03-01,Silver
+C01258,Malleshwaram,2023-02-13,Bronze
+C01259,Jayanagar,2024-04-13,Gold
+C01260,Yelahanka,2023-08-10,Bronze
+C01261,Koramangala,2023-06-23,Bronze
+C01262,HSR Layout,2023-11-04,Silver
+C01263,Whitefield,2024-06-13,Gold
+C01264,BTM Layout,2023-05-12,Bronze
+C01265,Electronic City,2024-12-11,Bronze
+C01266,Rajajinagar,2023-11-04,Bronze
+C01267,Indiranagar,2023-04-20,Bronze
+C01268,Yelahanka,2023-02-21,Silver
+C01269,Jayanagar,2024-09-17,Bronze
+C01270,Jayanagar,2023-03-24,Bronze
+C01271,Yelahanka,2023-11-02,Silver
+C01272,Whitefield,2024-05-03,Bronze
+C01273,HSR Layout,2024-01-10,Bronze
+C01274,Electronic City,2023-07-11,Bronze
+C01275,Koramangala,2023-03-20,Silver
+C01276,Whitefield,2024-06-03,Gold
+C01277,Indiranagar,2023-12-24,Bronze
+C01278,Koramangala,2023-02-05,Bronze
+C01279,Hebbal,2023-05-13,Bronze
+C01280,Electronic City,2024-02-15,Silver
+C01281,Whitefield,2023-05-03,Bronze
+C01282,HSR Layout,2023-10-13,Bronze
+C01283,HSR Layout,2023-04-01,Bronze
+C01284,Electronic City,2024-08-04,Bronze
+C01285,BTM Layout,2024-04-05,Silver
+C01286,BTM Layout,2024-07-26,Silver
+C01287,HSR Layout,2023-02-08,Bronze
+C01288,Whitefield,2023-10-02,Bronze
+C01289,HSR Layout,2023-07-15,Silver
+C01290,Jayanagar,2024-03-30,Bronze
+C01291,HSR Layout,2024-08-22,Bronze
+C01292,Electronic City,2023-06-16,Bronze
+C01293,Jayanagar,2024-07-15,Silver
+C01294,Whitefield,2024-02-28,Bronze
+C01295,Whitefield,2024-08-24,Silver
+C01296,Whitefield,2023-03-01,Silver
+C01297,Koramangala,2024-12-24,Silver
+C01298,Indiranagar,2023-11-14,Silver
+C01299,Marathahalli,2023-07-24,Bronze
+C01300,Whitefield,2023-05-14,Bronze
+C01301,Indiranagar,2024-12-19,Silver
+C01302,Jayanagar,2024-10-06,Bronze
+C01303,Rajajinagar,2023-04-06,Bronze
+C01304,Indiranagar,2023-11-21,Bronze
+C01305,Malleshwaram,2024-06-19,Bronze
+C01306,BTM Layout,2024-03-07,Bronze
+C01307,Electronic City,2023-05-18,Bronze
+C01308,Marathahalli,2023-09-21,Silver
+C01309,Koramangala,2023-09-26,Bronze
+C01310,BTM Layout,2023-07-30,Bronze
+C01311,HSR Layout,2024-12-02,Silver
+C01312,BTM Layout,2023-05-29,Silver
+C01313,Electronic City,2024-05-30,Bronze
+C01314,Koramangala,2024-10-27,Bronze
+C01315,Koramangala,2024-08-03,Silver
+C01316,Marathahalli,2024-08-06,Bronze
+C01317,Jayanagar,2023-04-26,Gold
+C01318,Koramangala,2023-04-08,Silver
+C01319,Marathahalli,2024-07-25,Silver
+C01320,Malleshwaram,2024-06-29,Silver
+C01321,Jayanagar,2024-06-25,Silver
+C01322,HSR Layout,2023-11-02,Bronze
+C01323,Koramangala,2024-01-18,Silver
+C01324,Rajajinagar,2023-01-12,Gold
+C01325,Whitefield,2023-08-01,Bronze
+C01326,Hebbal,2024-01-21,Bronze
+C01327,Whitefield,2023-04-02,Bronze
+C01328,Jayanagar,2023-04-05,Gold
+C01329,Indiranagar,2023-02-03,Silver
+C01330,Indiranagar,2023-06-03,Bronze
+C01331,Rajajinagar,2024-12-25,Silver
+C01332,Jayanagar,2024-05-23,Bronze
+C01333,Jayanagar,2024-11-23,Silver
+C01334,BTM Layout,2023-07-07,Bronze
+C01335,BTM Layout,2024-03-13,Bronze
+C01336,Malleshwaram,2024-10-13,Silver
+C01337,Indiranagar,2023-09-14,Bronze
+C01338,Electronic City,2024-04-24,Silver
+C01339,Hebbal,2024-05-20,Gold
+C01340,Whitefield,2024-08-30,Bronze
+C01341,Koramangala,2024-12-08,Gold
+C01342,Malleshwaram,2024-03-25,Bronze
+C01343,HSR Layout,2024-03-01,Silver
+C01344,Jayanagar,2024-09-26,Bronze
+C01345,Yelahanka,2024-05-14,Bronze
+C01346,Electronic City,2023-09-22,Bronze
+C01347,HSR Layout,2024-04-05,Bronze
+C01348,Whitefield,2024-02-05,Bronze
+C01349,HSR Layout,2023-06-16,Bronze
+C01350,Koramangala,2024-01-12,Bronze
+C01351,Rajajinagar,2024-03-31,Silver
+C01352,Malleshwaram,2024-10-21,Silver
+C01353,Whitefield,2024-02-28,Bronze
+C01354,Whitefield,2023-05-01,Silver
+C01355,Hebbal,2024-12-21,Gold
+C01356,Koramangala,2024-02-26,Bronze
+C01357,Jayanagar,2023-07-29,Bronze
+C01358,HSR Layout,2024-07-04,Silver
+C01359,Marathahalli,2023-10-08,Silver
+C01360,Indiranagar,2023-09-28,Bronze
+C01361,Marathahalli,2024-09-04,Bronze
+C01362,Whitefield,2024-09-25,Silver
+C01363,Electronic City,2024-01-18,Silver
+C01364,Koramangala,2023-09-30,Bronze
+C01365,HSR Layout,2024-09-22,Bronze
+C01366,Jayanagar,2023-05-07,Silver
+C01367,Indiranagar,2024-06-29,Bronze
+C01368,Koramangala,2024-03-02,Silver
+C01369,Indiranagar,2024-09-15,Bronze
+C01370,Whitefield,2023-11-04,Bronze
+C01371,Koramangala,2024-08-30,Silver
+C01372,BTM Layout,2023-01-12,Bronze
+C01373,HSR Layout,2024-07-07,Bronze
+C01374,Rajajinagar,2023-02-20,Bronze
+C01375,Yelahanka,2024-04-13,Silver
+C01376,Koramangala,2023-05-23,Gold
+C01377,Electronic City,2024-12-04,Bronze
+C01378,Hebbal,2024-07-15,Bronze
+C01379,Electronic City,2023-03-18,Silver
+C01380,HSR Layout,2024-10-13,Silver
+C01381,HSR Layout,2023-07-03,Bronze
+C01382,Koramangala,2024-02-03,Silver
+C01383,Jayanagar,2023-03-04,Bronze
+C01384,Yelahanka,2023-03-19,Silver
+C01385,BTM Layout,2023-06-26,Bronze
+C01386,Koramangala,2024-01-26,Gold
+C01387,Marathahalli,2024-02-01,Bronze
+C01388,Whitefield,2024-09-16,Bronze
+C01389,Hebbal,2023-05-01,Bronze
+C01390,Koramangala,2024-07-01,Bronze
+C01391,BTM Layout,2023-01-05,Bronze
+C01392,Malleshwaram,2023-08-01,Bronze
+C01393,Koramangala,2023-05-08,Silver
+C01394,Koramangala,2023-04-01,Silver
+C01395,Malleshwaram,2024-03-02,Gold
+C01396,Koramangala,2024-10-19,Bronze
+C01397,Jayanagar,2024-05-01,Bronze
+C01398,Hebbal,2024-09-15,Silver
+C01399,Jayanagar,2024-03-07,Bronze
+C01400,HSR Layout,2023-02-09,Bronze
+C01401,HSR Layout,2023-09-10,Gold
+C01402,Koramangala,2024-08-24,Bronze
+C01403,BTM Layout,2023-02-02,Silver
+C01404,Whitefield,2023-03-12,Bronze
+C01405,Indiranagar,2024-08-31,Bronze
+C01406,Whitefield,2023-02-16,Silver
+C01407,BTM Layout,2024-12-01,Bronze
+C01408,Koramangala,2024-07-07,Bronze
+C01409,Hebbal,2024-04-30,Silver
+C01410,Marathahalli,2024-01-27,Silver
+C01411,Malleshwaram,2023-03-07,Bronze
+C01412,Yelahanka,2023-10-30,Bronze
+C01413,Malleshwaram,2024-08-12,Bronze
+C01414,BTM Layout,2024-10-21,Bronze
+C01415,Koramangala,2023-11-23,Gold
+C01416,Rajajinagar,2024-09-04,Gold
+C01417,Jayanagar,2024-07-20,Gold
+C01418,Jayanagar,2023-02-12,Silver
+C01419,Hebbal,2024-03-28,Bronze
+C01420,Yelahanka,2024-03-25,Bronze
+C01421,Marathahalli,2024-02-01,Silver
+C01422,HSR Layout,2024-07-17,Bronze
+C01423,HSR Layout,2024-10-11,Silver
+C01424,Whitefield,2024-02-06,Bronze
+C01425,Whitefield,2023-08-22,Bronze
+C01426,HSR Layout,2024-12-18,Bronze
+C01427,Koramangala,2024-12-04,Bronze
+C01428,Koramangala,2024-05-15,Bronze
+C01429,Rajajinagar,2024-04-12,Bronze
+C01430,HSR Layout,2023-03-18,Bronze
+C01431,BTM Layout,2023-10-21,Silver
+C01432,Electronic City,2023-05-25,Bronze
+C01433,Koramangala,2024-01-11,Silver
+C01434,Koramangala,2024-08-26,Bronze
+C01435,Indiranagar,2023-06-13,Silver
+C01436,Yelahanka,2024-12-28,Bronze
+C01437,Indiranagar,2023-04-05,Bronze
+C01438,Jayanagar,2023-03-13,Silver
+C01439,BTM Layout,2024-12-12,Silver
+C01440,Yelahanka,2023-03-15,Bronze
+C01441,Indiranagar,2024-06-20,Silver
+C01442,Koramangala,2024-07-11,Silver
+C01443,Koramangala,2023-08-29,Silver
+C01444,Koramangala,2023-02-16,Silver
+C01445,Indiranagar,2023-08-14,Bronze
+C01446,Jayanagar,2023-02-20,Bronze
+C01447,Hebbal,2024-05-05,Silver
+C01448,Jayanagar,2024-10-10,Silver
+C01449,Electronic City,2024-12-28,Gold
+C01450,Indiranagar,2024-08-07,Silver
+C01451,Rajajinagar,2024-07-19,Gold
+C01452,Electronic City,2024-10-05,Bronze
+C01453,Hebbal,2024-07-16,Bronze
+C01454,BTM Layout,2024-04-19,Silver
+C01455,Whitefield,2024-12-28,Bronze
+C01456,Koramangala,2023-08-24,Bronze
+C01457,Indiranagar,2023-10-29,Bronze
+C01458,HSR Layout,2024-10-23,Bronze
+C01459,BTM Layout,2023-08-16,Bronze
+C01460,Whitefield,2023-08-07,Bronze
+C01461,Rajajinagar,2023-04-22,Bronze
+C01462,Jayanagar,2023-07-21,Bronze
+C01463,Indiranagar,2024-03-09,Bronze
+C01464,Whitefield,2024-10-09,Bronze
+C01465,Electronic City,2023-04-10,Bronze
+C01466,Marathahalli,2024-05-12,Bronze
+C01467,HSR Layout,2024-07-13,Silver
+C01468,Indiranagar,2024-10-15,Bronze
+C01469,Marathahalli,2024-07-01,Silver
+C01470,Indiranagar,2023-04-24,Bronze
+C01471,BTM Layout,2023-12-23,Silver
+C01472,Indiranagar,2024-11-26,Bronze
+C01473,Koramangala,2024-10-25,Silver
+C01474,Jayanagar,2024-03-23,Bronze
+C01475,Jayanagar,2024-12-04,Bronze
+C01476,Jayanagar,2024-05-02,Bronze
+C01477,HSR Layout,2023-02-17,Bronze
+C01478,Yelahanka,2024-10-29,Gold
+C01479,HSR Layout,2023-05-03,Bronze
+C01480,HSR Layout,2023-10-05,Bronze
+C01481,HSR Layout,2023-06-23,Bronze
+C01482,Koramangala,2024-06-09,Silver
+C01483,Electronic City,2023-01-22,Bronze
+C01484,Indiranagar,2024-04-12,Silver
+C01485,Electronic City,2024-09-22,Silver
+C01486,Koramangala,2024-07-29,Silver
+C01487,Yelahanka,2023-08-13,Silver
+C01488,HSR Layout,2024-10-16,Bronze
+C01489,Hebbal,2023-09-22,Bronze
+C01490,HSR Layout,2024-05-11,Bronze
+C01491,Koramangala,2024-01-05,Bronze
+C01492,Malleshwaram,2023-02-19,Bronze
+C01493,Electronic City,2023-01-03,Bronze
+C01494,Rajajinagar,2023-05-14,Silver
+C01495,HSR Layout,2024-11-13,Silver
+C01496,Electronic City,2024-11-27,Gold
+C01497,Malleshwaram,2023-10-27,Silver
+C01498,Electronic City,2024-12-08,Bronze
+C01499,Whitefield,2023-02-06,Silver
+C01500,Marathahalli,2024-12-07,Silver
+C01501,Marathahalli,2023-06-18,Bronze
+C01502,BTM Layout,2023-01-27,Gold
+C01503,Whitefield,2024-07-07,Gold
+C01504,HSR Layout,2023-10-07,Gold
+C01505,Malleshwaram,2023-08-02,Bronze
+C01506,Jayanagar,2024-07-08,Bronze
+C01507,Marathahalli,2023-09-01,Gold
+C01508,HSR Layout,2024-07-03,Gold
+C01509,Indiranagar,2023-05-23,Silver
+C01510,Marathahalli,2023-03-04,Bronze
+C01511,Koramangala,2023-08-26,Gold
+C01512,Indiranagar,2024-03-20,Gold
+C01513,Electronic City,2023-06-14,Silver
+C01514,Marathahalli,2023-04-15,Silver
+C01515,Hebbal,2024-06-30,Silver
+C01516,Indiranagar,2023-12-27,Bronze
+C01517,Koramangala,2023-11-11,Bronze
+C01518,BTM Layout,2023-06-24,Gold
+C01519,Koramangala,2023-01-13,Silver
+C01520,Indiranagar,2023-02-08,Bronze
+C01521,Whitefield,2024-05-12,Bronze
+C01522,Jayanagar,2023-02-28,Bronze
+C01523,Hebbal,2023-06-30,Bronze
+C01524,Rajajinagar,2024-10-26,Bronze
+C01525,Marathahalli,2023-09-09,Bronze
+C01526,Indiranagar,2024-06-27,Bronze
+C01527,Whitefield,2023-09-08,Gold
+C01528,HSR Layout,2024-11-11,Bronze
+C01529,Koramangala,2024-08-22,Silver
+C01530,Indiranagar,2023-12-10,Silver
+C01531,Whitefield,2024-05-14,Bronze
+C01532,Koramangala,2023-10-29,Bronze
+C01533,Jayanagar,2024-11-20,Bronze
+C01534,Marathahalli,2023-09-19,Bronze
+C01535,Koramangala,2024-09-02,Bronze
+C01536,HSR Layout,2024-03-25,Bronze
+C01537,Rajajinagar,2024-04-14,Bronze
+C01538,Marathahalli,2023-09-14,Gold
+C01539,Malleshwaram,2024-08-30,Silver
+C01540,HSR Layout,2024-06-28,Silver
+C01541,Malleshwaram,2024-08-18,Silver
+C01542,Indiranagar,2024-08-07,Bronze
+C01543,Whitefield,2023-04-26,Silver
+C01544,Indiranagar,2024-10-01,Gold
+C01545,HSR Layout,2024-09-06,Silver
+C01546,HSR Layout,2023-06-27,Gold
+C01547,Indiranagar,2024-12-17,Silver
+C01548,Rajajinagar,2024-01-20,Bronze
+C01549,Whitefield,2023-08-23,Bronze
+C01550,Indiranagar,2023-06-13,Silver
+C01551,Koramangala,2023-09-24,Silver
+C01552,HSR Layout,2023-01-28,Gold
+C01553,Whitefield,2024-05-19,Gold
+C01554,Whitefield,2024-05-31,Silver
+C01555,Indiranagar,2024-05-02,Silver
+C01556,Rajajinagar,2024-02-05,Silver
+C01557,BTM Layout,2023-09-22,Bronze
+C01558,Jayanagar,2024-06-12,Bronze
+C01559,Electronic City,2024-09-28,Gold
+C01560,Hebbal,2023-03-05,Bronze
+C01561,Yelahanka,2023-10-07,Silver
+C01562,Electronic City,2024-12-27,Bronze
+C01563,Hebbal,2024-09-21,Silver
+C01564,Hebbal,2024-12-26,Bronze
+C01565,Rajajinagar,2023-05-14,Bronze
+C01566,HSR Layout,2023-12-06,Gold
+C01567,Koramangala,2023-04-06,Bronze
+C01568,Koramangala,2024-09-24,Silver
+C01569,HSR Layout,2024-01-14,Bronze
+C01570,Jayanagar,2023-06-27,Bronze
+C01571,HSR Layout,2023-03-07,Silver
+C01572,Jayanagar,2024-06-22,Silver
+C01573,Jayanagar,2024-08-15,Bronze
+C01574,Malleshwaram,2024-10-03,Silver
+C01575,Koramangala,2024-12-10,Bronze
+C01576,Indiranagar,2024-08-17,Gold
+C01577,Rajajinagar,2024-07-28,Bronze
+C01578,Malleshwaram,2024-08-15,Gold
+C01579,Yelahanka,2024-12-30,Silver
+C01580,Hebbal,2023-12-05,Bronze
+C01581,Hebbal,2024-07-07,Bronze
+C01582,Whitefield,2024-08-21,Bronze
+C01583,HSR Layout,2023-03-26,Silver
+C01584,Indiranagar,2024-05-19,Silver
+C01585,Electronic City,2023-09-05,Silver
+C01586,BTM Layout,2023-04-07,Bronze
+C01587,Whitefield,2023-05-05,Bronze
+C01588,Jayanagar,2023-03-25,Silver
+C01589,Whitefield,2024-10-17,Bronze
+C01590,Indiranagar,2024-07-17,Bronze
+C01591,Indiranagar,2023-03-16,Bronze
+C01592,Koramangala,2024-04-01,Bronze
+C01593,BTM Layout,2024-04-27,Bronze
+C01594,HSR Layout,2024-01-15,Silver
+C01595,Malleshwaram,2024-03-18,Bronze
+C01596,Marathahalli,2024-10-24,Gold
+C01597,Indiranagar,2024-01-14,Silver
+C01598,Indiranagar,2024-04-26,Bronze
+C01599,Malleshwaram,2024-02-21,Bronze
+C01600,Indiranagar,2023-10-17,Bronze
+C01601,Hebbal,2024-10-12,Bronze
+C01602,Koramangala,2023-10-30,Silver
+C01603,Marathahalli,2024-08-06,Silver
+C01604,Malleshwaram,2024-03-17,Gold
+C01605,Indiranagar,2024-05-15,Silver
+C01606,Indiranagar,2024-07-09,Bronze
+C01607,BTM Layout,2024-06-21,Bronze
+C01608,Indiranagar,2024-02-16,Bronze
+C01609,HSR Layout,2024-03-25,Bronze
+C01610,HSR Layout,2024-01-07,Gold
+C01611,Indiranagar,2023-09-05,Silver
+C01612,Rajajinagar,2024-06-14,Gold
+C01613,Rajajinagar,2024-10-03,Bronze
+C01614,Whitefield,2024-05-29,Bronze
+C01615,Malleshwaram,2024-07-17,Silver
+C01616,Indiranagar,2024-08-29,Silver
+C01617,Koramangala,2023-09-26,Silver
+C01618,Electronic City,2023-02-15,Bronze
+C01619,Yelahanka,2023-09-04,Bronze
+C01620,Koramangala,2024-07-05,Silver
+C01621,Indiranagar,2024-08-18,Bronze
+C01622,Jayanagar,2024-01-11,Gold
+C01623,Rajajinagar,2024-07-22,Bronze
+C01624,Koramangala,2023-02-24,Bronze
+C01625,HSR Layout,2024-04-15,Bronze
+C01626,Marathahalli,2024-05-10,Silver
+C01627,Whitefield,2024-01-06,Bronze
+C01628,Indiranagar,2024-06-07,Silver
+C01629,Indiranagar,2023-12-25,Bronze
+C01630,HSR Layout,2024-01-18,Bronze
+C01631,HSR Layout,2024-03-16,Bronze
+C01632,Hebbal,2024-08-02,Silver
+C01633,Electronic City,2023-07-01,Bronze
+C01634,Marathahalli,2023-08-08,Bronze
+C01635,Yelahanka,2023-11-02,Gold
+C01636,HSR Layout,2023-05-28,Bronze
+C01637,HSR Layout,2023-09-01,Bronze
+C01638,BTM Layout,2023-09-14,Bronze
+C01639,Indiranagar,2023-08-18,Silver
+C01640,Marathahalli,2023-10-27,Bronze
+C01641,Rajajinagar,2024-01-04,Bronze
+C01642,Koramangala,2024-05-23,Silver
+C01643,HSR Layout,2023-08-10,Silver
+C01644,Indiranagar,2024-09-09,Bronze
+C01645,Indiranagar,2023-12-16,Bronze
+C01646,HSR Layout,2024-06-10,Gold
+C01647,Whitefield,2023-03-25,Bronze
+C01648,Rajajinagar,2023-05-08,Bronze
+C01649,Hebbal,2023-11-28,Bronze
+C01650,Rajajinagar,2023-09-25,Gold
+C01651,Indiranagar,2023-12-29,Bronze
+C01652,Indiranagar,2023-04-26,Silver
+C01653,Indiranagar,2023-12-12,Bronze
+C01654,Koramangala,2024-05-16,Silver
+C01655,BTM Layout,2024-06-15,Bronze
+C01656,HSR Layout,2023-07-01,Bronze
+C01657,Indiranagar,2023-09-09,Bronze
+C01658,Malleshwaram,2024-01-19,Gold
+C01659,HSR Layout,2024-01-14,Silver
+C01660,Koramangala,2024-08-01,Gold
+C01661,Indiranagar,2023-10-12,Silver
+C01662,Electronic City,2024-05-04,Silver
+C01663,Rajajinagar,2024-10-07,Silver
+C01664,Indiranagar,2023-08-06,Silver
+C01665,Hebbal,2024-08-23,Bronze
+C01666,Malleshwaram,2023-08-31,Bronze
+C01667,Malleshwaram,2023-09-02,Bronze
+C01668,Indiranagar,2024-04-21,Bronze
+C01669,Koramangala,2024-03-29,Bronze
+C01670,Hebbal,2024-02-06,Silver
+C01671,Whitefield,2023-06-18,Silver
+C01672,Electronic City,2023-03-12,Bronze
+C01673,Rajajinagar,2024-10-25,Gold
+C01674,Koramangala,2024-09-30,Bronze
+C01675,Rajajinagar,2024-10-09,Gold
+C01676,BTM Layout,2024-01-10,Bronze
+C01677,Marathahalli,2024-10-07,Bronze
+C01678,HSR Layout,2023-12-12,Bronze
+C01679,Hebbal,2023-02-25,Gold
+C01680,Jayanagar,2023-05-25,Silver
+C01681,Marathahalli,2023-07-18,Bronze
+C01682,Malleshwaram,2023-10-03,Bronze
+C01683,Marathahalli,2024-11-16,Silver
+C01684,Whitefield,2023-08-31,Bronze
+C01685,Koramangala,2024-03-23,Bronze
+C01686,Indiranagar,2023-07-17,Bronze
+C01687,Jayanagar,2024-04-14,Silver
+C01688,Jayanagar,2024-02-19,Silver
+C01689,Electronic City,2023-04-20,Silver
+C01690,HSR Layout,2023-12-04,Silver
+C01691,Rajajinagar,2023-03-18,Silver
+C01692,Hebbal,2024-10-11,Silver
+C01693,Indiranagar,2024-05-29,Bronze
+C01694,Marathahalli,2024-11-18,Bronze
+C01695,Marathahalli,2024-10-01,Gold
+C01696,Jayanagar,2023-06-10,Bronze
+C01697,Indiranagar,2024-05-31,Bronze
+C01698,Rajajinagar,2023-03-15,Gold
+C01699,BTM Layout,2024-12-02,Silver
+C01700,Marathahalli,2024-07-27,Silver
+C01701,Hebbal,2024-05-11,Bronze
+C01702,Yelahanka,2024-12-27,Silver
+C01703,Whitefield,2024-09-10,Bronze
+C01704,Electronic City,2024-09-22,Silver
+C01705,HSR Layout,2023-03-15,Bronze
+C01706,Yelahanka,2023-01-18,Bronze
+C01707,Koramangala,2024-12-02,Silver
+C01708,HSR Layout,2023-07-03,Bronze
+C01709,Hebbal,2023-11-08,Gold
+C01710,Whitefield,2023-02-01,Silver
+C01711,Rajajinagar,2024-03-30,Silver
+C01712,Whitefield,2024-08-22,Silver
+C01713,Yelahanka,2024-09-06,Bronze
+C01714,Hebbal,2024-02-29,Silver
+C01715,Whitefield,2024-04-27,Bronze
+C01716,Rajajinagar,2024-01-11,Silver
+C01717,Whitefield,2023-11-22,Gold
+C01718,Electronic City,2024-02-09,Silver
+C01719,Electronic City,2024-11-14,Gold
+C01720,Malleshwaram,2023-07-04,Bronze
+C01721,Koramangala,2023-12-10,Silver
+C01722,Indiranagar,2024-03-15,Silver
+C01723,Marathahalli,2024-02-21,Bronze
+C01724,Jayanagar,2023-01-23,Bronze
+C01725,Jayanagar,2023-07-29,Bronze
+C01726,Koramangala,2024-04-16,Bronze
+C01727,Whitefield,2024-05-21,Bronze
+C01728,Hebbal,2024-06-20,Bronze
+C01729,Koramangala,2024-12-24,Gold
+C01730,HSR Layout,2024-05-06,Silver
+C01731,BTM Layout,2024-02-28,Silver
+C01732,Koramangala,2023-08-31,Silver
+C01733,Marathahalli,2023-09-28,Gold
+C01734,Indiranagar,2024-08-26,Silver
+C01735,Hebbal,2023-12-09,Gold
+C01736,Marathahalli,2024-06-06,Gold
+C01737,Hebbal,2023-04-01,Bronze
+C01738,Indiranagar,2023-04-04,Bronze
+C01739,Jayanagar,2023-06-07,Silver
+C01740,Rajajinagar,2023-05-23,Bronze
+C01741,Indiranagar,2024-03-19,Silver
+C01742,Indiranagar,2024-04-10,Gold
+C01743,Koramangala,2024-02-12,Bronze
+C01744,BTM Layout,2023-07-31,Silver
+C01745,Marathahalli,2024-02-25,Bronze
+C01746,Electronic City,2023-03-29,Bronze
+C01747,Marathahalli,2023-12-12,Bronze
+C01748,Jayanagar,2023-04-24,Bronze
+C01749,HSR Layout,2023-02-26,Gold
+C01750,HSR Layout,2023-05-01,Bronze
+C01751,Electronic City,2023-03-23,Silver
+C01752,Indiranagar,2023-12-15,Silver
+C01753,Hebbal,2024-02-03,Silver
+C01754,Malleshwaram,2024-03-19,Bronze
+C01755,Whitefield,2023-11-17,Gold
+C01756,Electronic City,2023-05-09,Silver
+C01757,Koramangala,2023-01-16,Bronze
+C01758,Yelahanka,2024-06-04,Bronze
+C01759,Hebbal,2024-12-18,Silver
+C01760,BTM Layout,2023-07-25,Gold
+C01761,Whitefield,2023-05-30,Bronze
+C01762,Indiranagar,2023-08-16,Silver
+C01763,Indiranagar,2023-06-06,Silver
+C01764,Koramangala,2023-06-13,Bronze
+C01765,Koramangala,2023-12-28,Gold
+C01766,Koramangala,2024-07-27,Silver
+C01767,Yelahanka,2024-06-03,Bronze
+C01768,Koramangala,2024-12-01,Gold
+C01769,Koramangala,2023-09-18,Gold
+C01770,Malleshwaram,2023-12-26,Bronze
+C01771,Electronic City,2023-10-05,Silver
+C01772,Rajajinagar,2023-01-31,Bronze
+C01773,Electronic City,2023-10-11,Silver
+C01774,Hebbal,2023-07-10,Bronze
+C01775,Electronic City,2023-12-16,Bronze
+C01776,Jayanagar,2023-04-26,Bronze
+C01777,Marathahalli,2024-06-25,Silver
+C01778,HSR Layout,2024-09-07,Bronze
+C01779,Whitefield,2024-12-02,Bronze
+C01780,HSR Layout,2023-03-03,Bronze
+C01781,Indiranagar,2023-03-27,Gold
+C01782,Rajajinagar,2024-12-06,Bronze
+C01783,Indiranagar,2024-09-11,Gold
+C01784,Koramangala,2024-03-05,Bronze
+C01785,Indiranagar,2023-08-23,Gold
+C01786,Malleshwaram,2024-01-13,Bronze
+C01787,Whitefield,2024-01-27,Silver
+C01788,Marathahalli,2024-09-10,Silver
+C01789,Malleshwaram,2024-01-22,Bronze
+C01790,Koramangala,2023-01-21,Silver
+C01791,Rajajinagar,2024-05-25,Bronze
+C01792,Whitefield,2024-07-21,Bronze
+C01793,Indiranagar,2023-08-06,Silver
+C01794,Marathahalli,2023-03-27,Silver
+C01795,Hebbal,2023-04-14,Silver
+C01796,Whitefield,2024-09-05,Gold
+C01797,Jayanagar,2023-11-23,Gold
+C01798,Whitefield,2024-01-22,Silver
+C01799,Jayanagar,2024-12-02,Bronze
+C01800,Electronic City,2023-02-14,Gold
+C01801,Electronic City,2023-05-31,Gold
+C01802,Electronic City,2024-08-31,Gold
+C01803,Koramangala,2024-01-30,Bronze
+C01804,Marathahalli,2023-01-20,Silver
+C01805,Marathahalli,2024-05-28,Bronze
+C01806,Marathahalli,2023-04-12,Bronze
+C01807,Koramangala,2024-07-24,Bronze
+C01808,HSR Layout,2024-08-05,Bronze
+C01809,HSR Layout,2024-08-24,Silver
+C01810,Koramangala,2023-12-06,Bronze
+C01811,Indiranagar,2023-07-15,Silver
+C01812,HSR Layout,2024-10-05,Bronze
+C01813,Marathahalli,2024-02-12,Silver
+C01814,Indiranagar,2024-04-08,Bronze
+C01815,Malleshwaram,2023-04-10,Gold
+C01816,Jayanagar,2024-03-31,Bronze
+C01817,Rajajinagar,2024-02-28,Gold
+C01818,HSR Layout,2023-08-02,Silver
+C01819,Jayanagar,2024-07-13,Gold
+C01820,Electronic City,2023-04-08,Silver
+C01821,BTM Layout,2024-06-09,Bronze
+C01822,Jayanagar,2024-12-02,Gold
+C01823,Jayanagar,2024-02-19,Bronze
+C01824,Electronic City,2023-03-18,Gold
+C01825,Marathahalli,2024-02-08,Silver
+C01826,Koramangala,2024-01-22,Bronze
+C01827,Jayanagar,2024-02-08,Bronze
+C01828,HSR Layout,2023-07-18,Gold
+C01829,BTM Layout,2024-04-02,Silver
+C01830,Jayanagar,2023-07-12,Bronze
+C01831,HSR Layout,2024-02-12,Gold
+C01832,BTM Layout,2024-03-10,Bronze
+C01833,HSR Layout,2024-04-16,Bronze
+C01834,Indiranagar,2024-08-05,Bronze
+C01835,Indiranagar,2024-10-06,Bronze
+C01836,Koramangala,2024-07-21,Bronze
+C01837,Koramangala,2024-08-03,Silver
+C01838,HSR Layout,2024-09-26,Bronze
+C01839,Rajajinagar,2023-06-27,Gold
+C01840,Marathahalli,2023-08-02,Silver
+C01841,Koramangala,2024-01-25,Bronze
+C01842,Jayanagar,2023-12-06,Bronze
+C01843,Koramangala,2024-05-27,Bronze
+C01844,BTM Layout,2023-01-07,Bronze
+C01845,Indiranagar,2023-04-12,Silver
+C01846,Electronic City,2024-06-29,Bronze
+C01847,Whitefield,2024-08-23,Bronze
+C01848,Electronic City,2023-08-09,Bronze
+C01849,HSR Layout,2023-08-15,Bronze
+C01850,Rajajinagar,2024-02-14,Silver
+C01851,Indiranagar,2023-12-15,Silver
+C01852,Hebbal,2023-05-04,Bronze
+C01853,Jayanagar,2024-01-01,Bronze
+C01854,Rajajinagar,2024-08-21,Bronze
+C01855,Malleshwaram,2024-06-16,Silver
+C01856,Yelahanka,2024-08-19,Bronze
+C01857,Indiranagar,2024-04-14,Gold
+C01858,Whitefield,2024-10-02,Gold
+C01859,Indiranagar,2023-07-02,Silver
+C01860,Indiranagar,2023-02-03,Gold
+C01861,Electronic City,2023-03-25,Silver
+C01862,Yelahanka,2024-12-25,Bronze
+C01863,Yelahanka,2024-04-12,Silver
+C01864,Jayanagar,2023-06-30,Silver
+C01865,Electronic City,2024-09-15,Bronze
+C01866,Malleshwaram,2023-08-14,Silver
+C01867,BTM Layout,2024-03-12,Silver
+C01868,Indiranagar,2023-07-02,Gold
+C01869,Jayanagar,2023-03-11,Gold
+C01870,Malleshwaram,2023-07-15,Bronze
+C01871,Whitefield,2023-06-16,Bronze
+C01872,HSR Layout,2024-02-08,Bronze
+C01873,Yelahanka,2023-01-16,Silver
+C01874,Yelahanka,2023-06-25,Bronze
+C01875,Hebbal,2024-02-19,Bronze
+C01876,Rajajinagar,2023-10-15,Bronze
+C01877,Indiranagar,2024-04-09,Silver
+C01878,Whitefield,2024-04-23,Bronze
+C01879,Jayanagar,2024-12-05,Bronze
+C01880,Jayanagar,2024-09-02,Gold
+C01881,Jayanagar,2023-06-16,Silver
+C01882,Electronic City,2024-05-20,Silver
+C01883,HSR Layout,2024-04-02,Bronze
+C01884,Marathahalli,2024-03-09,Bronze
+C01885,Whitefield,2024-08-06,Silver
+C01886,Whitefield,2023-04-18,Silver
+C01887,Koramangala,2023-10-01,Silver
+C01888,Indiranagar,2024-08-18,Bronze
+C01889,Malleshwaram,2024-10-13,Silver
+C01890,HSR Layout,2023-01-28,Silver
+C01891,Indiranagar,2023-12-11,Bronze
+C01892,Rajajinagar,2023-07-12,Bronze
+C01893,Jayanagar,2023-05-03,Bronze
+C01894,Koramangala,2023-02-11,Gold
+C01895,Whitefield,2024-01-28,Bronze
+C01896,Indiranagar,2024-05-02,Bronze
+C01897,Electronic City,2024-01-23,Silver
+C01898,Indiranagar,2023-09-26,Gold
+C01899,Koramangala,2024-07-17,Gold
+C01900,Koramangala,2024-04-20,Silver
+C01901,Electronic City,2024-10-25,Silver
+C01902,Koramangala,2023-09-11,Bronze
+C01903,Malleshwaram,2023-06-24,Bronze
+C01904,Koramangala,2023-11-29,Silver
+C01905,Electronic City,2024-01-06,Bronze
+C01906,HSR Layout,2023-12-01,Bronze
+C01907,HSR Layout,2024-08-30,Silver
+C01908,Koramangala,2023-02-03,Gold
+C01909,Rajajinagar,2024-01-21,Bronze
+C01910,Hebbal,2023-11-11,Gold
+C01911,Koramangala,2023-06-03,Bronze
+C01912,Indiranagar,2024-04-12,Bronze
+C01913,Hebbal,2024-08-07,Silver
+C01914,Jayanagar,2024-02-03,Silver
+C01915,Koramangala,2023-03-04,Bronze
+C01916,Indiranagar,2023-02-24,Gold
+C01917,Electronic City,2023-11-04,Silver
+C01918,Marathahalli,2024-05-02,Silver
+C01919,Electronic City,2023-08-17,Silver
+C01920,BTM Layout,2023-08-14,Bronze
+C01921,Jayanagar,2024-09-19,Bronze
+C01922,Whitefield,2023-01-11,Bronze
+C01923,HSR Layout,2023-02-28,Silver
+C01924,Whitefield,2023-04-24,Bronze
+C01925,Indiranagar,2024-12-19,Gold
+C01926,Koramangala,2023-12-30,Silver
+C01927,Whitefield,2023-04-26,Gold
+C01928,Marathahalli,2023-08-15,Gold
+C01929,Koramangala,2024-12-08,Gold
+C01930,HSR Layout,2024-05-21,Bronze
+C01931,Electronic City,2023-06-13,Bronze
+C01932,Electronic City,2023-06-25,Bronze
+C01933,Rajajinagar,2023-02-24,Bronze
+C01934,Malleshwaram,2024-07-18,Silver
+C01935,Marathahalli,2023-04-11,Bronze
+C01936,Koramangala,2023-07-29,Bronze
+C01937,HSR Layout,2023-09-12,Silver
+C01938,Electronic City,2024-03-29,Gold
+C01939,Indiranagar,2024-03-18,Silver
+C01940,Koramangala,2024-08-06,Bronze
+C01941,Indiranagar,2023-08-06,Bronze
+C01942,HSR Layout,2023-10-09,Bronze
+C01943,HSR Layout,2023-10-11,Bronze
+C01944,Indiranagar,2023-02-04,Gold
+C01945,Malleshwaram,2024-06-22,Bronze
+C01946,BTM Layout,2024-01-26,Bronze
+C01947,Indiranagar,2023-12-14,Gold
+C01948,BTM Layout,2024-12-27,Bronze
+C01949,Koramangala,2023-05-11,Bronze
+C01950,BTM Layout,2024-12-08,Gold
+C01951,BTM Layout,2024-05-11,Bronze
+C01952,Koramangala,2023-06-11,Gold
+C01953,Rajajinagar,2024-05-10,Silver
+C01954,Yelahanka,2024-07-05,Silver
+C01955,Hebbal,2023-09-22,Silver
+C01956,Yelahanka,2023-09-09,Silver
+C01957,Jayanagar,2024-09-01,Bronze
+C01958,Koramangala,2023-04-27,Bronze
+C01959,Malleshwaram,2023-01-10,Silver
+C01960,Electronic City,2024-05-01,Silver
+C01961,Electronic City,2024-10-23,Bronze
+C01962,HSR Layout,2024-01-01,Silver
+C01963,Electronic City,2023-04-09,Bronze
+C01964,Koramangala,2024-01-29,Silver
+C01965,Marathahalli,2023-07-03,Bronze
+C01966,Koramangala,2024-08-26,Bronze
+C01967,Marathahalli,2024-03-22,Bronze
+C01968,Malleshwaram,2023-09-03,Gold
+C01969,HSR Layout,2024-03-31,Bronze
+C01970,Jayanagar,2024-05-01,Silver
+C01971,Whitefield,2024-05-10,Gold
+C01972,BTM Layout,2023-09-25,Bronze
+C01973,Marathahalli,2024-02-21,Silver
+C01974,Whitefield,2023-02-01,Bronze
+C01975,Indiranagar,2023-10-22,Silver
+C01976,Indiranagar,2023-10-03,Gold
+C01977,HSR Layout,2024-01-26,Bronze
+C01978,BTM Layout,2024-11-24,Silver
+C01979,Marathahalli,2024-11-27,Bronze
+C01980,Indiranagar,2023-12-19,Bronze
+C01981,Malleshwaram,2024-04-16,Silver
+C01982,Whitefield,2023-03-21,Bronze
+C01983,Malleshwaram,2023-12-19,Bronze
+C01984,Indiranagar,2024-05-17,Bronze
+C01985,Electronic City,2024-05-13,Bronze
+C01986,BTM Layout,2024-12-04,Bronze
+C01987,Indiranagar,2023-12-07,Silver
+C01988,Marathahalli,2024-10-24,Bronze
+C01989,Yelahanka,2024-12-15,Bronze
+C01990,Koramangala,2024-02-22,Gold
+C01991,Koramangala,2023-03-08,Gold
+C01992,Marathahalli,2023-10-02,Gold
+C01993,Whitefield,2024-07-12,Bronze
+C01994,Koramangala,2024-02-28,Silver
+C01995,HSR Layout,2024-11-14,Silver
+C01996,Rajajinagar,2024-08-18,Silver
+C01997,Whitefield,2023-02-16,Silver
+C01998,Whitefield,2024-09-20,Bronze
+C01999,Malleshwaram,2023-09-18,Silver
+C02000,Jayanagar,2024-08-20,Silver
+C02001,Malleshwaram,2024-01-06,Silver
+C02002,HSR Layout,2023-11-29,Bronze
+C02003,BTM Layout,2023-02-22,Bronze
+C02004,Electronic City,2023-03-28,Bronze
+C02005,Koramangala,2024-03-10,Bronze
+C02006,Hebbal,2024-02-20,Bronze
+C02007,HSR Layout,2024-02-10,Bronze
+C02008,Koramangala,2023-04-25,Bronze
+C02009,Koramangala,2024-01-08,Gold
+C02010,Marathahalli,2023-02-14,Silver
+C02011,Koramangala,2023-04-16,Silver
+C02012,Whitefield,2023-12-31,Bronze
+C02013,Koramangala,2024-03-26,Bronze
+C02014,HSR Layout,2024-04-23,Gold
+C02015,HSR Layout,2024-12-17,Bronze
+C02016,Jayanagar,2024-09-15,Bronze
+C02017,Indiranagar,2023-10-05,Gold
+C02018,Koramangala,2024-07-25,Gold
+C02019,Electronic City,2023-03-11,Bronze
+C02020,Whitefield,2024-09-17,Bronze
+C02021,Electronic City,2023-10-10,Bronze
+C02022,Koramangala,2024-07-08,Bronze
+C02023,Koramangala,2024-12-09,Silver
+C02024,Indiranagar,2024-05-28,Bronze
+C02025,HSR Layout,2024-11-02,Bronze
+C02026,HSR Layout,2023-01-08,Silver
+C02027,Malleshwaram,2023-05-05,Silver
+C02028,Whitefield,2024-04-02,Bronze
+C02029,Jayanagar,2024-01-30,Gold
+C02030,Electronic City,2023-03-29,Gold
+C02031,Koramangala,2024-06-08,Silver
+C02032,Jayanagar,2023-02-12,Bronze
+C02033,Whitefield,2024-12-24,Bronze
+C02034,HSR Layout,2023-04-25,Gold
+C02035,Koramangala,2023-11-22,Gold
+C02036,Rajajinagar,2024-08-24,Bronze
+C02037,BTM Layout,2024-01-11,Bronze
+C02038,Koramangala,2024-06-27,Silver
+C02039,Electronic City,2024-05-28,Silver
+C02040,Rajajinagar,2024-11-23,Gold
+C02041,Whitefield,2023-12-05,Bronze
+C02042,Rajajinagar,2024-12-15,Bronze
+C02043,Electronic City,2024-01-13,Bronze
+C02044,BTM Layout,2024-10-14,Silver
+C02045,Yelahanka,2024-06-18,Bronze
+C02046,Koramangala,2023-04-08,Bronze
+C02047,HSR Layout,2024-04-14,Bronze
+C02048,Jayanagar,2024-10-03,Silver
+C02049,Koramangala,2023-04-04,Silver
+C02050,Whitefield,2024-09-04,Bronze
+C02051,Yelahanka,2023-03-18,Silver
+C02052,Koramangala,2024-09-27,Bronze
+C02053,HSR Layout,2024-07-29,Silver
+C02054,Malleshwaram,2023-04-21,Silver
+C02055,Whitefield,2024-06-14,Silver
+C02056,HSR Layout,2023-03-27,Silver
+C02057,Yelahanka,2024-02-19,Gold
+C02058,HSR Layout,2024-11-05,Bronze
+C02059,Koramangala,2023-05-31,Bronze
+C02060,Koramangala,2023-05-07,Silver
+C02061,BTM Layout,2023-11-05,Bronze
+C02062,Indiranagar,2023-09-27,Bronze
+C02063,Jayanagar,2023-02-05,Bronze
+C02064,Koramangala,2023-11-29,Silver
+C02065,HSR Layout,2023-07-09,Silver
+C02066,BTM Layout,2023-04-01,Bronze
+C02067,Jayanagar,2023-07-21,Silver
+C02068,Yelahanka,2023-01-16,Silver
+C02069,Indiranagar,2024-10-29,Bronze
+C02070,Jayanagar,2024-12-26,Bronze
+C02071,Malleshwaram,2023-09-26,Silver
+C02072,HSR Layout,2024-10-01,Gold
+C02073,Indiranagar,2023-12-03,Silver
+C02074,Malleshwaram,2024-10-28,Gold
+C02075,Whitefield,2023-05-07,Bronze
+C02076,Jayanagar,2023-07-27,Bronze
+C02077,Yelahanka,2024-06-24,Silver
+C02078,Indiranagar,2023-06-10,Silver
+C02079,Whitefield,2024-08-24,Bronze
+C02080,Koramangala,2023-11-07,Bronze
+C02081,HSR Layout,2023-10-22,Bronze
+C02082,Indiranagar,2023-11-27,Bronze
+C02083,Marathahalli,2024-08-05,Silver
+C02084,Indiranagar,2023-01-05,Silver
+C02085,Marathahalli,2024-07-02,Silver
+C02086,Indiranagar,2024-07-22,Bronze
+C02087,Whitefield,2024-08-22,Bronze
+C02088,Whitefield,2024-12-28,Bronze
+C02089,Marathahalli,2024-07-25,Gold
+C02090,HSR Layout,2024-01-21,Bronze
+C02091,Whitefield,2023-12-07,Bronze
+C02092,Malleshwaram,2023-10-11,Silver
+C02093,Electronic City,2024-08-26,Bronze
+C02094,Indiranagar,2023-10-14,Silver
+C02095,Hebbal,2024-02-23,Silver
+C02096,Whitefield,2023-03-12,Bronze
+C02097,Koramangala,2023-08-20,Bronze
+C02098,Jayanagar,2023-07-14,Bronze
+C02099,Koramangala,2023-11-14,Silver
+C02100,Indiranagar,2024-01-02,Bronze
+C02101,Marathahalli,2024-06-07,Bronze
+C02102,Koramangala,2023-11-12,Gold
+C02103,Rajajinagar,2023-04-20,Bronze
+C02104,BTM Layout,2024-02-02,Bronze
+C02105,Electronic City,2023-02-09,Silver
+C02106,Marathahalli,2024-09-11,Silver
+C02107,Marathahalli,2024-07-16,Bronze
+C02108,Yelahanka,2023-06-14,Silver
+C02109,Whitefield,2023-07-12,Bronze
+C02110,Indiranagar,2023-01-21,Silver
+C02111,Jayanagar,2023-09-24,Silver
+C02112,Jayanagar,2023-01-28,Bronze
+C02113,Indiranagar,2024-11-14,Bronze
+C02114,Electronic City,2023-04-08,Bronze
+C02115,Koramangala,2024-04-26,Bronze
+C02116,BTM Layout,2024-02-21,Bronze
+C02117,Indiranagar,2023-06-22,Gold
+C02118,Koramangala,2024-08-12,Bronze
+C02119,Koramangala,2023-03-21,Silver
+C02120,Indiranagar,2024-10-09,Bronze
+C02121,Indiranagar,2024-06-24,Bronze
+C02122,Koramangala,2024-04-08,Bronze
+C02123,Indiranagar,2024-10-04,Silver
+C02124,Indiranagar,2023-10-22,Bronze
+C02125,Whitefield,2023-07-25,Silver
+C02126,Whitefield,2023-04-23,Bronze
+C02127,Whitefield,2024-11-05,Silver
+C02128,Whitefield,2023-10-21,Silver
+C02129,Koramangala,2024-08-28,Bronze
+C02130,Koramangala,2023-08-31,Gold
+C02131,Indiranagar,2024-11-28,Silver
+C02132,Rajajinagar,2024-09-27,Silver
+C02133,Yelahanka,2023-08-13,Bronze
+C02134,BTM Layout,2023-12-22,Bronze
+C02135,Jayanagar,2024-08-02,Silver
+C02136,Jayanagar,2023-06-15,Silver
+C02137,Whitefield,2023-01-18,Silver
+C02138,Rajajinagar,2023-07-30,Silver
+C02139,Rajajinagar,2024-03-07,Gold
+C02140,Malleshwaram,2023-04-10,Silver
+C02141,Hebbal,2023-09-01,Bronze
+C02142,HSR Layout,2024-11-01,Silver
+C02143,Rajajinagar,2023-02-24,Bronze
+C02144,Rajajinagar,2023-02-06,Bronze
+C02145,Whitefield,2023-11-06,Silver
+C02146,BTM Layout,2023-01-10,Bronze
+C02147,Koramangala,2023-01-21,Bronze
+C02148,Yelahanka,2023-05-14,Bronze
+C02149,Rajajinagar,2023-03-16,Gold
+C02150,Koramangala,2024-08-14,Silver
+C02151,Electronic City,2023-03-31,Gold
+C02152,Koramangala,2024-01-18,Bronze
+C02153,Rajajinagar,2024-05-29,Bronze
+C02154,Rajajinagar,2024-04-01,Bronze
+C02155,Electronic City,2024-04-22,Bronze
+C02156,Malleshwaram,2023-09-19,Bronze
+C02157,Koramangala,2024-10-10,Bronze
+C02158,Indiranagar,2023-02-20,Gold
+C02159,HSR Layout,2023-03-20,Silver
+C02160,Koramangala,2024-09-16,Bronze
+C02161,HSR Layout,2023-02-19,Bronze
+C02162,Indiranagar,2023-05-21,Bronze
+C02163,HSR Layout,2023-05-07,Bronze
+C02164,HSR Layout,2023-01-25,Bronze
+C02165,Hebbal,2023-03-27,Bronze
+C02166,Indiranagar,2024-02-23,Silver
+C02167,Hebbal,2024-04-27,Bronze
+C02168,HSR Layout,2023-03-02,Silver
+C02169,Whitefield,2024-11-18,Bronze
+C02170,Jayanagar,2023-03-11,Bronze
+C02171,HSR Layout,2024-05-16,Silver
+C02172,Indiranagar,2024-08-07,Bronze
+C02173,Jayanagar,2024-01-16,Bronze
+C02174,Koramangala,2023-12-25,Silver
+C02175,Whitefield,2023-03-21,Bronze
+C02176,Jayanagar,2023-06-26,Bronze
+C02177,HSR Layout,2024-09-12,Silver
+C02178,Malleshwaram,2023-09-12,Bronze
+C02179,Indiranagar,2023-01-26,Silver
+C02180,BTM Layout,2024-06-16,Bronze
+C02181,Rajajinagar,2024-05-14,Silver
+C02182,BTM Layout,2023-02-18,Silver
+C02183,Malleshwaram,2023-02-07,Bronze
+C02184,Koramangala,2023-03-27,Bronze
+C02185,Jayanagar,2023-02-07,Bronze
+C02186,Indiranagar,2024-03-25,Gold
+C02187,Malleshwaram,2023-04-07,Gold
+C02188,Electronic City,2024-03-19,Bronze
+C02189,Indiranagar,2023-05-09,Silver
+C02190,BTM Layout,2024-12-10,Silver
+C02191,Koramangala,2024-06-13,Gold
+C02192,Jayanagar,2023-10-01,Bronze
+C02193,Marathahalli,2023-11-09,Gold
+C02194,Koramangala,2023-02-17,Gold
+C02195,Electronic City,2023-02-10,Bronze
+C02196,Malleshwaram,2024-01-28,Bronze
+C02197,Koramangala,2023-01-17,Bronze
+C02198,Jayanagar,2024-04-10,Bronze
+C02199,Indiranagar,2023-10-07,Bronze
+C02200,Marathahalli,2023-04-12,Bronze
+C02201,Koramangala,2024-01-27,Bronze
+C02202,BTM Layout,2024-02-08,Gold
+C02203,Hebbal,2024-06-28,Bronze
+C02204,Indiranagar,2023-05-25,Gold
+C02205,Whitefield,2024-02-04,Bronze
+C02206,Electronic City,2024-09-08,Silver
+C02207,Marathahalli,2023-07-17,Silver
+C02208,HSR Layout,2024-09-01,Gold
+C02209,Koramangala,2024-06-12,Bronze
+C02210,Koramangala,2023-11-10,Bronze
+C02211,Yelahanka,2024-10-06,Bronze
+C02212,HSR Layout,2024-12-06,Bronze
+C02213,Hebbal,2023-06-22,Bronze
+C02214,HSR Layout,2024-12-16,Bronze
+C02215,BTM Layout,2023-01-02,Bronze
+C02216,Koramangala,2023-04-05,Bronze
+C02217,Koramangala,2023-02-01,Bronze
+C02218,BTM Layout,2023-09-26,Silver
+C02219,BTM Layout,2024-11-14,Bronze
+C02220,Whitefield,2024-03-14,Silver
+C02221,Whitefield,2024-03-26,Bronze
+C02222,HSR Layout,2023-03-03,Silver
+C02223,HSR Layout,2024-01-12,Bronze
+C02224,Indiranagar,2023-10-07,Silver
+C02225,Hebbal,2023-12-16,Silver
+C02226,Indiranagar,2023-07-10,Silver
+C02227,Marathahalli,2023-05-28,Bronze
+C02228,Koramangala,2024-11-25,Gold
+C02229,Koramangala,2024-02-12,Bronze
+C02230,Electronic City,2023-10-28,Bronze
+C02231,Whitefield,2023-02-23,Bronze
+C02232,Electronic City,2024-07-10,Gold
+C02233,Koramangala,2023-12-11,Bronze
+C02234,BTM Layout,2023-10-10,Bronze
+C02235,Marathahalli,2024-05-01,Gold
+C02236,Hebbal,2023-04-07,Gold
+C02237,Koramangala,2024-01-25,Bronze
+C02238,Whitefield,2024-09-22,Gold
+C02239,Whitefield,2023-12-05,Silver
+C02240,Jayanagar,2023-01-01,Bronze
+C02241,Whitefield,2023-06-17,Bronze
+C02242,Koramangala,2023-02-10,Silver
+C02243,Whitefield,2024-01-01,Bronze
+C02244,Indiranagar,2023-09-24,Silver
+C02245,Whitefield,2023-04-07,Bronze
+C02246,Indiranagar,2024-05-16,Bronze
+C02247,Indiranagar,2023-05-09,Silver
+C02248,Electronic City,2023-09-07,Bronze
+C02249,Whitefield,2024-12-22,Bronze
+C02250,Whitefield,2023-02-18,Silver
+C02251,Jayanagar,2023-06-30,Silver
+C02252,Rajajinagar,2023-08-21,Silver
+C02253,Whitefield,2024-01-07,Gold
+C02254,Electronic City,2023-06-28,Bronze
+C02255,BTM Layout,2024-12-09,Bronze
+C02256,Jayanagar,2023-01-04,Silver
+C02257,Hebbal,2024-11-23,Bronze
+C02258,Rajajinagar,2024-01-26,Silver
+C02259,Koramangala,2023-01-28,Silver
+C02260,HSR Layout,2023-03-27,Silver
+C02261,Marathahalli,2023-03-17,Bronze
+C02262,Yelahanka,2023-07-29,Silver
+C02263,HSR Layout,2023-09-01,Bronze
+C02264,Koramangala,2024-04-13,Silver
+C02265,Jayanagar,2023-08-16,Silver
+C02266,Koramangala,2024-06-13,Bronze
+C02267,Rajajinagar,2023-08-03,Gold
+C02268,Jayanagar,2023-07-12,Bronze
+C02269,Marathahalli,2023-07-21,Bronze
+C02270,Hebbal,2023-08-29,Bronze
+C02271,Electronic City,2024-09-03,Silver
+C02272,Electronic City,2023-06-30,Gold
+C02273,Rajajinagar,2023-07-19,Bronze
+C02274,Malleshwaram,2024-11-29,Gold
+C02275,Hebbal,2024-04-22,Bronze
+C02276,Koramangala,2023-05-20,Silver
+C02277,Jayanagar,2024-09-25,Bronze
+C02278,Indiranagar,2023-05-14,Bronze
+C02279,Hebbal,2023-04-29,Silver
+C02280,Electronic City,2023-11-21,Bronze
+C02281,HSR Layout,2024-05-19,Gold
+C02282,Indiranagar,2023-05-19,Bronze
+C02283,Whitefield,2024-07-03,Bronze
+C02284,Marathahalli,2023-04-25,Bronze
+C02285,Indiranagar,2024-07-24,Silver
+C02286,Koramangala,2023-03-11,Silver
+C02287,Hebbal,2023-12-06,Silver
+C02288,Rajajinagar,2024-04-12,Silver
+C02289,Indiranagar,2023-07-13,Silver
+C02290,Whitefield,2024-03-22,Silver
+C02291,Yelahanka,2024-05-17,Gold
+C02292,Marathahalli,2024-04-19,Silver
+C02293,Electronic City,2023-10-17,Gold
+C02294,Whitefield,2024-07-18,Gold
+C02295,Whitefield,2024-06-18,Silver
+C02296,Koramangala,2023-08-27,Bronze
+C02297,Marathahalli,2024-06-19,Gold
+C02298,Koramangala,2024-11-01,Gold
+C02299,Koramangala,2024-08-19,Silver
+C02300,Marathahalli,2024-06-19,Bronze
+C02301,BTM Layout,2024-07-13,Gold
+C02302,Rajajinagar,2024-08-10,Silver
+C02303,HSR Layout,2023-07-31,Bronze
+C02304,HSR Layout,2024-06-10,Gold
+C02305,HSR Layout,2023-05-26,Bronze
+C02306,Whitefield,2023-09-19,Silver
+C02307,Jayanagar,2024-11-13,Bronze
+C02308,HSR Layout,2023-07-26,Bronze
+C02309,Electronic City,2024-09-07,Bronze
+C02310,Hebbal,2023-11-05,Bronze
+C02311,Yelahanka,2023-06-03,Silver
+C02312,Koramangala,2023-03-12,Silver
+C02313,Whitefield,2024-02-05,Gold
+C02314,Indiranagar,2023-11-26,Silver
+C02315,Whitefield,2024-01-09,Gold
+C02316,Whitefield,2023-02-01,Bronze
+C02317,Indiranagar,2023-07-15,Silver
+C02318,Rajajinagar,2023-01-03,Silver
+C02319,Jayanagar,2023-08-09,Bronze
+C02320,Hebbal,2024-11-10,Silver
+C02321,Koramangala,2023-04-22,Bronze
+C02322,Koramangala,2024-05-18,Bronze
+C02323,HSR Layout,2023-01-05,Silver
+C02324,Koramangala,2024-02-15,Bronze
+C02325,Indiranagar,2024-11-03,Silver
+C02326,Yelahanka,2023-09-07,Gold
+C02327,Indiranagar,2023-05-24,Silver
+C02328,Indiranagar,2024-02-21,Bronze
+C02329,Electronic City,2023-07-23,Gold
+C02330,Jayanagar,2024-10-12,Bronze
+C02331,Electronic City,2024-09-11,Bronze
+C02332,Whitefield,2024-04-21,Bronze
+C02333,Malleshwaram,2024-04-11,Silver
+C02334,Koramangala,2024-03-15,Silver
+C02335,HSR Layout,2024-06-20,Bronze
+C02336,Marathahalli,2023-12-02,Bronze
+C02337,Hebbal,2024-12-08,Bronze
+C02338,Whitefield,2023-09-10,Bronze
+C02339,Jayanagar,2023-01-07,Bronze
+C02340,Koramangala,2024-05-24,Silver
+C02341,Indiranagar,2024-04-28,Silver
+C02342,Koramangala,2024-12-17,Silver
+C02343,Marathahalli,2023-10-16,Bronze
+C02344,Whitefield,2023-11-07,Gold
+C02345,Marathahalli,2024-02-15,Silver
+C02346,Koramangala,2023-10-14,Silver
+C02347,Hebbal,2024-07-26,Silver
+C02348,Malleshwaram,2023-11-09,Bronze
+C02349,Koramangala,2024-07-26,Bronze
+C02350,Koramangala,2023-11-07,Silver
+C02351,Koramangala,2023-06-14,Bronze
+C02352,Malleshwaram,2024-12-24,Bronze
+C02353,Indiranagar,2024-01-20,Bronze
+C02354,Jayanagar,2024-05-30,Silver
+C02355,HSR Layout,2024-03-07,Bronze
+C02356,Rajajinagar,2023-09-20,Bronze
+C02357,HSR Layout,2024-12-10,Gold
+C02358,Jayanagar,2023-09-29,Bronze
+C02359,Yelahanka,2024-12-25,Bronze
+C02360,Koramangala,2023-11-11,Silver
+C02361,Malleshwaram,2023-01-17,Bronze
+C02362,Koramangala,2023-01-27,Gold
+C02363,HSR Layout,2024-12-11,Gold
+C02364,Hebbal,2024-01-21,Bronze
+C02365,Marathahalli,2023-10-10,Gold
+C02366,Marathahalli,2024-08-15,Bronze
+C02367,Indiranagar,2024-03-26,Silver
+C02368,HSR Layout,2024-04-27,Gold
+C02369,Whitefield,2024-05-15,Bronze
+C02370,Jayanagar,2023-05-25,Bronze
+C02371,HSR Layout,2023-03-06,Silver
+C02372,Whitefield,2024-06-15,Silver
+C02373,Whitefield,2023-01-16,Gold
+C02374,Indiranagar,2024-06-09,Bronze
+C02375,Whitefield,2023-04-05,Bronze
+C02376,Koramangala,2023-07-11,Silver
+C02377,Hebbal,2024-05-31,Bronze
+C02378,Electronic City,2024-03-30,Gold
+C02379,Koramangala,2024-07-24,Bronze
+C02380,Marathahalli,2024-03-21,Gold
+C02381,Malleshwaram,2023-02-04,Bronze
+C02382,Indiranagar,2024-09-05,Silver
+C02383,Koramangala,2023-06-07,Gold
+C02384,Koramangala,2023-04-10,Bronze
+C02385,Koramangala,2024-10-03,Silver
+C02386,Rajajinagar,2023-05-23,Bronze
+C02387,Yelahanka,2024-01-27,Bronze
+C02388,Koramangala,2023-12-21,Silver
+C02389,Marathahalli,2024-07-15,Bronze
+C02390,Koramangala,2023-02-02,Gold
+C02391,Electronic City,2023-03-19,Silver
+C02392,Rajajinagar,2023-10-31,Bronze
+C02393,Whitefield,2023-12-12,Bronze
+C02394,Koramangala,2024-07-29,Silver
+C02395,Electronic City,2024-03-18,Silver
+C02396,Yelahanka,2023-04-19,Bronze
+C02397,Indiranagar,2024-12-15,Bronze
+C02398,Indiranagar,2023-12-02,Bronze
+C02399,Koramangala,2024-12-05,Silver
+C02400,Jayanagar,2024-12-23,Bronze
+C02401,Electronic City,2023-02-07,Silver
+C02402,Rajajinagar,2024-01-05,Gold
+C02403,Rajajinagar,2023-11-05,Silver
+C02404,Hebbal,2023-12-30,Bronze
+C02405,Rajajinagar,2023-08-15,Gold
+C02406,Indiranagar,2024-02-12,Silver
+C02407,Jayanagar,2023-12-26,Bronze
+C02408,Whitefield,2023-05-16,Bronze
+C02409,Whitefield,2023-07-30,Bronze
+C02410,BTM Layout,2023-04-18,Bronze
+C02411,Marathahalli,2024-09-07,Silver
+C02412,Yelahanka,2024-05-09,Gold
+C02413,HSR Layout,2023-10-10,Bronze
+C02414,Jayanagar,2023-10-16,Bronze
+C02415,HSR Layout,2023-02-27,Bronze
+C02416,Koramangala,2023-07-31,Bronze
+C02417,Indiranagar,2024-11-05,Bronze
+C02418,Jayanagar,2023-01-23,Bronze
+C02419,Koramangala,2023-04-17,Bronze
+C02420,BTM Layout,2024-09-09,Bronze
+C02421,Koramangala,2024-01-15,Bronze
+C02422,Indiranagar,2023-01-24,Bronze
+C02423,Rajajinagar,2023-12-24,Bronze
+C02424,Koramangala,2024-07-01,Bronze
+C02425,Hebbal,2023-09-09,Bronze
+C02426,Marathahalli,2023-10-06,Silver
+C02427,Koramangala,2024-04-05,Silver
+C02428,Marathahalli,2024-03-13,Bronze
+C02429,Electronic City,2024-10-21,Bronze
+C02430,Rajajinagar,2023-06-30,Silver
+C02431,Malleshwaram,2023-07-21,Bronze
+C02432,Marathahalli,2023-04-24,Silver
+C02433,Electronic City,2024-04-30,Silver
+C02434,Whitefield,2024-01-25,Bronze
+C02435,Marathahalli,2023-09-11,Silver
+C02436,BTM Layout,2024-05-22,Gold
+C02437,Electronic City,2023-10-02,Bronze
+C02438,Marathahalli,2023-05-23,Bronze
+C02439,HSR Layout,2024-01-30,Bronze
+C02440,Rajajinagar,2023-11-15,Bronze
+C02441,Yelahanka,2023-10-23,Gold
+C02442,Indiranagar,2023-11-21,Bronze
+C02443,Indiranagar,2024-10-29,Gold
+C02444,Jayanagar,2023-06-07,Gold
+C02445,HSR Layout,2023-07-21,Bronze
+C02446,Electronic City,2024-02-17,Bronze
+C02447,Koramangala,2023-02-04,Gold
+C02448,HSR Layout,2023-04-17,Silver
+C02449,Electronic City,2024-02-18,Bronze
+C02450,Electronic City,2024-01-08,Bronze
+C02451,Electronic City,2024-04-21,Bronze
+C02452,Marathahalli,2023-03-24,Bronze
+C02453,Electronic City,2024-09-15,Gold
+C02454,Rajajinagar,2023-12-21,Silver
+C02455,Electronic City,2023-04-24,Bronze
+C02456,Jayanagar,2023-08-16,Bronze
+C02457,Electronic City,2023-06-16,Silver
+C02458,Koramangala,2023-11-27,Bronze
+C02459,Indiranagar,2023-12-09,Silver
+C02460,Jayanagar,2023-11-13,Silver
+C02461,Hebbal,2023-12-03,Bronze
+C02462,Marathahalli,2024-10-24,Bronze
+C02463,Koramangala,2024-12-01,Bronze
+C02464,Electronic City,2023-12-24,Bronze
+C02465,Indiranagar,2024-12-04,Bronze
+C02466,Marathahalli,2024-08-20,Gold
+C02467,Malleshwaram,2024-08-21,Bronze
+C02468,Electronic City,2023-06-14,Gold
+C02469,Electronic City,2023-11-17,Silver
+C02470,Whitefield,2023-09-15,Silver
+C02471,HSR Layout,2023-03-12,Gold
+C02472,Hebbal,2023-02-24,Silver
+C02473,Marathahalli,2024-03-30,Bronze
+C02474,Jayanagar,2023-11-04,Bronze
+C02475,Whitefield,2024-08-25,Silver
+C02476,Koramangala,2024-05-03,Bronze
+C02477,Koramangala,2023-03-04,Silver
+C02478,Indiranagar,2024-09-03,Bronze
+C02479,Whitefield,2023-12-29,Gold
+C02480,BTM Layout,2024-02-18,Silver
+C02481,Jayanagar,2024-12-05,Bronze
+C02482,Indiranagar,2024-04-12,Bronze
+C02483,Koramangala,2023-01-17,Bronze
+C02484,Whitefield,2023-05-10,Silver
+C02485,Malleshwaram,2023-11-08,Bronze
+C02486,Whitefield,2023-01-28,Silver
+C02487,Rajajinagar,2023-05-03,Bronze
+C02488,Rajajinagar,2024-07-31,Silver
+C02489,Koramangala,2023-04-15,Silver
+C02490,Electronic City,2023-05-02,Bronze
+C02491,BTM Layout,2024-01-04,Silver
+C02492,HSR Layout,2023-03-08,Silver
+C02493,Koramangala,2023-07-06,Silver
+C02494,BTM Layout,2024-11-15,Silver
+C02495,Hebbal,2024-04-05,Silver
+C02496,Jayanagar,2024-12-04,Bronze
+C02497,Jayanagar,2023-09-16,Bronze
+C02498,Indiranagar,2024-03-25,Bronze
+C02499,Malleshwaram,2023-06-24,Gold
+C02500,Jayanagar,2023-10-04,Silver
+C02501,Koramangala,2023-05-08,Bronze
+C02502,Marathahalli,2024-08-31,Bronze
+C02503,BTM Layout,2023-05-15,Silver
+C02504,Malleshwaram,2023-05-30,Gold
+C02505,Indiranagar,2023-12-05,Gold
+C02506,Koramangala,2023-11-10,Bronze
+C02507,BTM Layout,2023-08-18,Bronze
+C02508,BTM Layout,2023-09-18,Silver
+C02509,Jayanagar,2023-08-04,Gold
+C02510,Electronic City,2024-10-28,Bronze
+C02511,HSR Layout,2024-02-28,Bronze
+C02512,HSR Layout,2024-11-02,Bronze
+C02513,Koramangala,2024-12-21,Gold
+C02514,Koramangala,2024-04-20,Bronze
+C02515,Indiranagar,2024-08-25,Gold
+C02516,Malleshwaram,2023-03-22,Silver
+C02517,Koramangala,2024-11-24,Silver
+C02518,Indiranagar,2023-12-19,Gold
+C02519,Jayanagar,2024-06-04,Silver
+C02520,Indiranagar,2023-06-29,Bronze
+C02521,Indiranagar,2023-03-11,Gold
+C02522,Jayanagar,2024-10-07,Silver
+C02523,Whitefield,2023-11-25,Bronze
+C02524,Electronic City,2023-04-12,Silver
+C02525,Hebbal,2024-04-25,Bronze
+C02526,Koramangala,2023-02-09,Bronze
+C02527,Hebbal,2023-11-25,Gold
+C02528,Hebbal,2024-05-29,Bronze
+C02529,Malleshwaram,2024-06-09,Bronze
+C02530,Electronic City,2023-11-27,Bronze
+C02531,Electronic City,2023-09-28,Silver
+C02532,Electronic City,2024-09-04,Silver
+C02533,Marathahalli,2023-05-15,Bronze
+C02534,Koramangala,2023-02-24,Bronze
+C02535,BTM Layout,2023-04-25,Bronze
+C02536,Electronic City,2024-08-07,Gold
+C02537,Rajajinagar,2023-12-10,Bronze
+C02538,Whitefield,2023-01-28,Gold
+C02539,Koramangala,2023-05-04,Silver
+C02540,Jayanagar,2023-01-21,Bronze
+C02541,Jayanagar,2024-08-17,Bronze
+C02542,HSR Layout,2023-12-03,Bronze
+C02543,Whitefield,2023-02-19,Bronze
+C02544,Indiranagar,2023-06-11,Silver
+C02545,Jayanagar,2024-03-26,Silver
+C02546,Whitefield,2024-03-09,Silver
+C02547,BTM Layout,2024-08-21,Bronze
+C02548,Indiranagar,2023-01-19,Bronze
+C02549,Whitefield,2023-02-20,Silver
+C02550,Whitefield,2023-01-26,Bronze
+C02551,Jayanagar,2023-10-15,Gold
+C02552,Jayanagar,2024-06-14,Bronze
+C02553,Electronic City,2024-04-28,Bronze
+C02554,BTM Layout,2023-06-03,Bronze
+C02555,Whitefield,2024-04-24,Gold
+C02556,Marathahalli,2024-04-24,Gold
+C02557,Koramangala,2023-05-20,Gold
+C02558,Indiranagar,2024-07-01,Bronze
+C02559,HSR Layout,2023-11-05,Bronze
+C02560,Koramangala,2023-02-13,Silver
+C02561,Electronic City,2023-10-13,Bronze
+C02562,Marathahalli,2024-07-15,Silver
+C02563,Marathahalli,2024-05-23,Bronze
+C02564,Jayanagar,2023-07-15,Bronze
+C02565,Electronic City,2024-07-06,Bronze
+C02566,HSR Layout,2023-10-12,Silver
+C02567,Koramangala,2023-12-02,Bronze
+C02568,Koramangala,2023-03-05,Bronze
+C02569,Electronic City,2024-12-28,Bronze
+C02570,Yelahanka,2024-09-04,Gold
+C02571,Koramangala,2023-05-23,Silver
+C02572,Jayanagar,2024-02-14,Bronze
+C02573,Rajajinagar,2024-07-23,Bronze
+C02574,Malleshwaram,2024-01-04,Silver
+C02575,Jayanagar,2023-06-03,Bronze
+C02576,Electronic City,2024-12-08,Silver
+C02577,Marathahalli,2023-07-16,Bronze
+C02578,Malleshwaram,2023-09-02,Bronze
+C02579,Koramangala,2023-09-29,Bronze
+C02580,BTM Layout,2024-10-12,Silver
+C02581,Koramangala,2024-01-01,Bronze
+C02582,Malleshwaram,2024-06-09,Bronze
+C02583,Koramangala,2024-10-19,Bronze
+C02584,Indiranagar,2024-11-08,Bronze
+C02585,Koramangala,2024-09-17,Bronze
+C02586,HSR Layout,2024-10-24,Gold
+C02587,Whitefield,2024-11-23,Bronze
+C02588,Indiranagar,2024-12-24,Bronze
+C02589,HSR Layout,2024-04-14,Bronze
+C02590,HSR Layout,2023-04-07,Bronze
+C02591,Rajajinagar,2023-03-24,Silver
+C02592,Hebbal,2024-08-04,Bronze
+C02593,Electronic City,2023-08-19,Silver
+C02594,Koramangala,2024-08-10,Silver
+C02595,Whitefield,2024-11-13,Bronze
+C02596,Hebbal,2024-04-15,Bronze
+C02597,Koramangala,2024-07-11,Bronze
+C02598,HSR Layout,2023-07-23,Silver
+C02599,BTM Layout,2023-11-14,Bronze
+C02600,BTM Layout,2024-12-05,Bronze
+C02601,HSR Layout,2024-08-19,Silver
+C02602,Marathahalli,2023-05-30,Bronze
+C02603,HSR Layout,2024-11-14,Bronze
+C02604,Rajajinagar,2023-12-31,Silver
+C02605,Koramangala,2024-09-08,Gold
+C02606,Koramangala,2024-01-16,Silver
+C02607,Electronic City,2024-03-16,Silver
+C02608,Indiranagar,2023-04-29,Bronze
+C02609,Marathahalli,2023-09-05,Gold
+C02610,Whitefield,2024-06-11,Bronze
+C02611,Hebbal,2024-09-06,Silver
+C02612,Malleshwaram,2023-03-06,Bronze
+C02613,Jayanagar,2023-02-26,Silver
+C02614,Rajajinagar,2024-05-20,Bronze
+C02615,Indiranagar,2023-11-23,Gold
+C02616,Jayanagar,2024-09-11,Bronze
+C02617,Indiranagar,2023-02-19,Silver
+C02618,Hebbal,2023-09-13,Silver
+C02619,Malleshwaram,2023-01-26,Gold
+C02620,Hebbal,2024-06-01,Bronze
+C02621,Hebbal,2024-09-18,Silver
+C02622,BTM Layout,2023-04-25,Bronze
+C02623,Indiranagar,2023-08-25,Bronze
+C02624,BTM Layout,2024-09-09,Silver
+C02625,Electronic City,2023-01-31,Gold
+C02626,HSR Layout,2024-11-25,Gold
+C02627,Jayanagar,2024-10-09,Silver
+C02628,Whitefield,2023-04-22,Silver
+C02629,Whitefield,2023-04-12,Bronze
+C02630,Indiranagar,2024-05-20,Gold
+C02631,Koramangala,2023-01-08,Silver
+C02632,Jayanagar,2024-01-05,Silver
+C02633,Hebbal,2023-02-18,Gold
+C02634,Electronic City,2024-01-23,Silver
+C02635,Jayanagar,2023-09-13,Bronze
+C02636,HSR Layout,2024-05-30,Silver
+C02637,HSR Layout,2024-10-04,Bronze
+C02638,Indiranagar,2023-12-23,Bronze
+C02639,Malleshwaram,2024-04-13,Bronze
+C02640,Indiranagar,2024-03-14,Gold
+C02641,Marathahalli,2024-12-19,Silver
+C02642,Rajajinagar,2023-06-18,Bronze
+C02643,Electronic City,2023-06-24,Silver
+C02644,Hebbal,2023-10-04,Bronze
+C02645,Whitefield,2024-06-21,Silver
+C02646,Hebbal,2024-09-23,Gold
+C02647,Marathahalli,2023-07-22,Bronze
+C02648,Rajajinagar,2023-03-22,Bronze
+C02649,Marathahalli,2024-03-20,Bronze
+C02650,Malleshwaram,2024-03-12,Gold
+C02651,Yelahanka,2023-10-01,Gold
+C02652,HSR Layout,2023-05-15,Silver
+C02653,Malleshwaram,2024-09-12,Silver
+C02654,Marathahalli,2024-09-09,Gold
+C02655,HSR Layout,2024-06-29,Bronze
+C02656,BTM Layout,2024-02-27,Gold
+C02657,HSR Layout,2023-07-10,Bronze
+C02658,Jayanagar,2023-10-22,Bronze
+C02659,Koramangala,2023-02-19,Bronze
+C02660,Indiranagar,2023-07-02,Gold
+C02661,Malleshwaram,2023-11-25,Bronze
+C02662,HSR Layout,2023-11-15,Silver
+C02663,HSR Layout,2023-02-28,Gold
+C02664,Indiranagar,2024-11-30,Silver
+C02665,Jayanagar,2023-07-15,Bronze
+C02666,Rajajinagar,2024-01-07,Bronze
+C02667,Hebbal,2023-12-06,Silver
+C02668,Koramangala,2023-12-09,Bronze
+C02669,Electronic City,2024-09-08,Silver
+C02670,HSR Layout,2024-06-28,Gold
+C02671,Electronic City,2024-09-25,Bronze
+C02672,HSR Layout,2023-10-04,Silver
+C02673,HSR Layout,2023-07-13,Silver
+C02674,HSR Layout,2023-11-09,Gold
+C02675,Electronic City,2024-02-14,Bronze
+C02676,Jayanagar,2023-09-03,Silver
+C02677,HSR Layout,2023-12-02,Gold
+C02678,Malleshwaram,2023-04-21,Bronze
+C02679,Marathahalli,2024-03-02,Bronze
+C02680,Whitefield,2024-06-05,Bronze
+C02681,Rajajinagar,2024-01-20,Silver
+C02682,Malleshwaram,2024-09-29,Bronze
+C02683,Koramangala,2024-12-27,Gold
+C02684,Electronic City,2024-10-23,Gold
+C02685,Whitefield,2023-03-09,Bronze
+C02686,Marathahalli,2024-10-04,Silver
+C02687,Indiranagar,2023-09-01,Bronze
+C02688,Marathahalli,2023-11-26,Bronze
+C02689,Indiranagar,2023-10-28,Bronze
+C02690,Jayanagar,2023-07-27,Bronze
+C02691,BTM Layout,2024-10-02,Bronze
+C02692,Whitefield,2024-04-10,Silver
+C02693,Hebbal,2024-12-06,Bronze
+C02694,Yelahanka,2024-11-27,Bronze
+C02695,Hebbal,2023-11-03,Bronze
+C02696,Indiranagar,2024-06-14,Silver
+C02697,Malleshwaram,2024-01-02,Bronze
+C02698,Koramangala,2023-12-28,Bronze
+C02699,HSR Layout,2024-06-23,Bronze
+C02700,Hebbal,2024-05-17,Silver
+C02701,Marathahalli,2024-10-27,Bronze
+C02702,Jayanagar,2024-07-17,Silver
+C02703,Whitefield,2024-03-30,Bronze
+C02704,Malleshwaram,2024-11-02,Silver
+C02705,Marathahalli,2023-03-16,Silver
+C02706,HSR Layout,2024-07-11,Gold
+C02707,Hebbal,2023-10-14,Bronze
+C02708,Indiranagar,2023-11-13,Silver
+C02709,Indiranagar,2024-07-24,Silver
+C02710,Electronic City,2023-07-19,Bronze
+C02711,Yelahanka,2024-10-07,Bronze
+C02712,Indiranagar,2023-12-31,Gold
+C02713,Indiranagar,2023-09-12,Silver
+C02714,Koramangala,2023-08-28,Bronze
+C02715,Hebbal,2023-11-04,Bronze
+C02716,Indiranagar,2024-11-19,Bronze
+C02717,Jayanagar,2023-03-16,Silver
+C02718,Yelahanka,2024-01-06,Silver
+C02719,Koramangala,2024-09-01,Bronze
+C02720,Jayanagar,2023-12-11,Bronze
+C02721,Jayanagar,2024-02-18,Gold
+C02722,Rajajinagar,2023-09-12,Bronze
+C02723,Whitefield,2023-04-10,Bronze
+C02724,HSR Layout,2024-04-11,Bronze
+C02725,Indiranagar,2024-11-02,Gold
+C02726,Marathahalli,2024-01-15,Bronze
+C02727,Rajajinagar,2023-11-12,Bronze
+C02728,Koramangala,2023-04-05,Silver
+C02729,HSR Layout,2024-11-20,Bronze
+C02730,Hebbal,2024-09-26,Bronze
+C02731,Koramangala,2024-10-20,Bronze
+C02732,Whitefield,2023-09-20,Bronze
+C02733,Jayanagar,2024-04-01,Bronze
+C02734,Whitefield,2023-11-12,Silver
+C02735,Indiranagar,2023-06-21,Gold
+C02736,HSR Layout,2023-05-31,Gold
+C02737,Indiranagar,2023-10-08,Gold
+C02738,Jayanagar,2024-02-08,Bronze
+C02739,Marathahalli,2023-03-31,Silver
+C02740,Electronic City,2024-05-27,Bronze
+C02741,Koramangala,2023-12-01,Bronze
+C02742,Malleshwaram,2024-10-05,Bronze
+C02743,Indiranagar,2023-07-23,Bronze
+C02744,Rajajinagar,2023-02-07,Bronze
+C02745,Whitefield,2023-08-16,Bronze
+C02746,Rajajinagar,2024-12-11,Gold
+C02747,Indiranagar,2023-08-24,Silver
+C02748,Indiranagar,2024-05-28,Bronze
+C02749,Jayanagar,2024-09-07,Silver
+C02750,Koramangala,2023-07-27,Bronze
+C02751,Indiranagar,2024-04-14,Silver
+C02752,Marathahalli,2023-05-30,Gold
+C02753,Malleshwaram,2023-09-22,Bronze
+C02754,Koramangala,2023-08-05,Silver
+C02755,Hebbal,2024-05-05,Gold
+C02756,Rajajinagar,2024-10-01,Silver
+C02757,Hebbal,2023-07-04,Bronze
+C02758,Marathahalli,2023-08-01,Silver
+C02759,Marathahalli,2024-08-22,Bronze
+C02760,Jayanagar,2023-12-04,Silver
+C02761,Electronic City,2024-01-10,Bronze
+C02762,Hebbal,2024-05-30,Bronze
+C02763,Koramangala,2023-04-11,Gold
+C02764,Whitefield,2024-09-28,Gold
+C02765,Koramangala,2023-09-24,Silver
+C02766,BTM Layout,2024-04-25,Bronze
+C02767,HSR Layout,2023-11-12,Silver
+C02768,Marathahalli,2024-07-03,Silver
+C02769,Malleshwaram,2024-03-22,Bronze
+C02770,Yelahanka,2023-05-07,Bronze
+C02771,Indiranagar,2023-05-18,Bronze
+C02772,Rajajinagar,2024-10-02,Bronze
+C02773,Hebbal,2024-01-15,Bronze
+C02774,Koramangala,2023-07-21,Silver
+C02775,Rajajinagar,2023-04-15,Gold
+C02776,Whitefield,2023-04-04,Bronze
+C02777,Electronic City,2024-11-02,Bronze
+C02778,Jayanagar,2024-12-13,Bronze
+C02779,Indiranagar,2023-10-15,Bronze
+C02780,Koramangala,2023-05-28,Silver
+C02781,Koramangala,2023-11-02,Bronze
+C02782,Koramangala,2023-04-10,Bronze
+C02783,Electronic City,2024-02-06,Silver
+C02784,Whitefield,2024-04-01,Silver
+C02785,Indiranagar,2024-12-20,Bronze
+C02786,Marathahalli,2023-08-21,Silver
+C02787,Marathahalli,2023-05-25,Silver
+C02788,Jayanagar,2023-04-08,Silver
+C02789,BTM Layout,2023-10-03,Gold
+C02790,Whitefield,2024-03-14,Bronze
+C02791,Malleshwaram,2023-02-18,Silver
+C02792,Koramangala,2024-07-08,Bronze
+C02793,Marathahalli,2023-12-02,Gold
+C02794,Yelahanka,2024-08-02,Silver
+C02795,Malleshwaram,2023-12-05,Bronze
+C02796,Electronic City,2023-04-24,Silver
+C02797,Electronic City,2023-01-16,Silver
+C02798,Whitefield,2024-02-11,Silver
+C02799,Marathahalli,2024-01-29,Gold
+C02800,Rajajinagar,2024-08-16,Silver
+C02801,Yelahanka,2024-10-02,Bronze
+C02802,Jayanagar,2023-04-28,Bronze
+C02803,Koramangala,2023-08-18,Bronze
+C02804,Electronic City,2023-06-01,Silver
+C02805,Koramangala,2023-03-19,Silver
+C02806,Indiranagar,2023-01-02,Bronze
+C02807,Whitefield,2023-03-02,Gold
+C02808,Marathahalli,2024-01-18,Bronze
+C02809,Indiranagar,2023-04-21,Silver
+C02810,Indiranagar,2023-05-23,Bronze
+C02811,Koramangala,2023-03-28,Silver
+C02812,Hebbal,2024-06-12,Gold
+C02813,Marathahalli,2024-04-09,Bronze
+C02814,Koramangala,2024-12-03,Bronze
+C02815,Koramangala,2023-03-23,Bronze
+C02816,Jayanagar,2023-06-02,Bronze
+C02817,Whitefield,2023-11-29,Silver
+C02818,Electronic City,2024-04-18,Silver
+C02819,HSR Layout,2023-04-05,Gold
+C02820,BTM Layout,2023-06-04,Bronze
+C02821,Whitefield,2023-11-04,Gold
+C02822,Marathahalli,2023-01-14,Silver
+C02823,Koramangala,2023-10-16,Silver
+C02824,BTM Layout,2024-07-07,Bronze
+C02825,Yelahanka,2024-01-20,Silver
+C02826,Marathahalli,2023-11-13,Bronze
+C02827,HSR Layout,2023-12-23,Silver
+C02828,Indiranagar,2024-11-22,Silver
+C02829,Malleshwaram,2024-01-15,Bronze
+C02830,Marathahalli,2024-01-26,Bronze
+C02831,Indiranagar,2024-11-10,Bronze
+C02832,HSR Layout,2023-04-25,Bronze
+C02833,HSR Layout,2023-03-12,Bronze
+C02834,Malleshwaram,2023-11-25,Bronze
+C02835,Marathahalli,2023-08-21,Bronze
+C02836,Electronic City,2023-05-29,Silver
+C02837,Electronic City,2023-03-29,Bronze
+C02838,Indiranagar,2024-10-02,Silver
+C02839,Whitefield,2024-03-24,Bronze
+C02840,Koramangala,2024-05-19,Bronze
+C02841,Rajajinagar,2023-03-28,Bronze
+C02842,HSR Layout,2023-09-07,Gold
+C02843,HSR Layout,2024-03-29,Silver
+C02844,Indiranagar,2024-01-21,Silver
+C02845,Indiranagar,2024-05-22,Bronze
+C02846,Electronic City,2024-05-03,Bronze
+C02847,Indiranagar,2023-10-29,Bronze
+C02848,Koramangala,2024-07-25,Silver
+C02849,Rajajinagar,2023-07-09,Gold
+C02850,Whitefield,2023-02-28,Bronze
+C02851,Whitefield,2024-10-28,Bronze
+C02852,HSR Layout,2023-01-17,Silver
+C02853,Malleshwaram,2023-07-27,Bronze
+C02854,Whitefield,2023-03-25,Bronze
+C02855,Rajajinagar,2023-06-19,Silver
+C02856,BTM Layout,2023-10-16,Bronze
+C02857,Marathahalli,2023-04-05,Silver
+C02858,HSR Layout,2023-12-07,Silver
+C02859,Marathahalli,2024-11-07,Bronze
+C02860,HSR Layout,2023-04-10,Gold
+C02861,HSR Layout,2024-11-07,Bronze
+C02862,Jayanagar,2023-10-28,Silver
+C02863,Whitefield,2024-03-08,Bronze
+C02864,Koramangala,2023-11-19,Bronze
+C02865,HSR Layout,2023-08-20,Silver
+C02866,Koramangala,2023-03-21,Bronze
+C02867,HSR Layout,2024-03-09,Gold
+C02868,Jayanagar,2024-10-31,Bronze
+C02869,BTM Layout,2024-01-16,Bronze
+C02870,Koramangala,2024-03-13,Silver
+C02871,Electronic City,2024-04-14,Bronze
+C02872,HSR Layout,2023-10-11,Bronze
+C02873,Koramangala,2023-03-30,Bronze
+C02874,Indiranagar,2024-01-06,Bronze
+C02875,Koramangala,2024-09-26,Bronze
+C02876,Indiranagar,2023-08-18,Bronze
+C02877,Indiranagar,2024-09-28,Bronze
+C02878,HSR Layout,2024-09-15,Bronze
+C02879,Jayanagar,2023-06-28,Silver
+C02880,Koramangala,2024-02-24,Silver
+C02881,Indiranagar,2024-06-29,Bronze
+C02882,Koramangala,2023-12-28,Bronze
+C02883,Jayanagar,2024-05-25,Silver
+C02884,Whitefield,2024-10-26,Bronze
+C02885,Jayanagar,2024-04-02,Bronze
+C02886,Indiranagar,2024-09-03,Bronze
+C02887,Koramangala,2024-08-07,Bronze
+C02888,BTM Layout,2024-08-16,Silver
+C02889,Koramangala,2024-09-14,Bronze
+C02890,Koramangala,2023-06-14,Bronze
+C02891,Koramangala,2023-01-14,Bronze
+C02892,Yelahanka,2023-04-22,Bronze
+C02893,Electronic City,2023-07-02,Bronze
+C02894,Electronic City,2024-05-18,Bronze
+C02895,Yelahanka,2024-01-08,Silver
+C02896,Koramangala,2023-12-09,Bronze
+C02897,Yelahanka,2023-01-07,Bronze
+C02898,Indiranagar,2024-05-14,Bronze
+C02899,Electronic City,2023-09-23,Bronze
+C02900,HSR Layout,2024-07-09,Bronze
+C02901,Whitefield,2023-03-24,Bronze
+C02902,BTM Layout,2023-08-04,Bronze
+C02903,Koramangala,2023-02-09,Bronze
+C02904,Yelahanka,2023-07-27,Silver
+C02905,Whitefield,2024-11-05,Gold
+C02906,Electronic City,2023-12-25,Bronze
+C02907,BTM Layout,2023-11-17,Gold
+C02908,Koramangala,2023-07-19,Bronze
+C02909,BTM Layout,2023-07-13,Silver
+C02910,Jayanagar,2024-05-02,Bronze
+C02911,Marathahalli,2024-12-20,Bronze
+C02912,Koramangala,2024-06-29,Silver
+C02913,Jayanagar,2024-06-22,Bronze
+C02914,Marathahalli,2023-12-11,Bronze
+C02915,HSR Layout,2023-03-14,Bronze
+C02916,Koramangala,2024-06-12,Bronze
+C02917,Indiranagar,2024-08-13,Bronze
+C02918,Malleshwaram,2024-01-08,Bronze
+C02919,Koramangala,2023-03-08,Silver
+C02920,Marathahalli,2024-06-04,Bronze
+C02921,Yelahanka,2024-11-03,Bronze
+C02922,Koramangala,2023-06-14,Gold
+C02923,Indiranagar,2023-04-27,Bronze
+C02924,Marathahalli,2024-06-23,Silver
+C02925,Koramangala,2023-08-31,Bronze
+C02926,Electronic City,2024-06-06,Bronze
+C02927,Marathahalli,2024-05-28,Silver
+C02928,Electronic City,2023-07-14,Bronze
+C02929,Whitefield,2023-01-31,Gold
+C02930,Marathahalli,2024-02-10,Bronze
+C02931,Electronic City,2023-10-25,Bronze
+C02932,Indiranagar,2024-09-16,Bronze
+C02933,Jayanagar,2023-09-19,Bronze
+C02934,Hebbal,2023-07-02,Bronze
+C02935,Marathahalli,2024-09-19,Gold
+C02936,HSR Layout,2024-06-21,Silver
+C02937,Whitefield,2024-03-27,Gold
+C02938,Koramangala,2024-11-27,Gold
+C02939,Indiranagar,2024-07-25,Bronze
+C02940,Koramangala,2024-09-24,Silver
+C02941,Yelahanka,2024-08-06,Bronze
+C02942,Indiranagar,2023-10-21,Bronze
+C02943,Malleshwaram,2023-02-15,Silver
+C02944,Indiranagar,2024-03-19,Silver
+C02945,Whitefield,2024-07-12,Bronze
+C02946,HSR Layout,2024-12-24,Bronze
+C02947,Whitefield,2024-05-12,Silver
+C02948,Rajajinagar,2024-02-19,Bronze
+C02949,BTM Layout,2024-02-25,Bronze
+C02950,Hebbal,2023-03-25,Bronze
+C02951,Koramangala,2023-01-06,Bronze
+C02952,Rajajinagar,2023-02-03,Bronze
+C02953,Koramangala,2024-10-22,Silver
+C02954,Hebbal,2024-07-30,Bronze
+C02955,Jayanagar,2023-07-09,Bronze
+C02956,Whitefield,2023-11-06,Bronze
+C02957,Koramangala,2023-12-20,Bronze
+C02958,Koramangala,2023-06-30,Bronze
+C02959,Indiranagar,2023-11-05,Bronze
+C02960,Hebbal,2023-09-11,Bronze
+C02961,Rajajinagar,2024-05-22,Bronze
+C02962,BTM Layout,2024-07-06,Gold
+C02963,Koramangala,2023-03-13,Bronze
+C02964,Electronic City,2023-12-06,Bronze
+C02965,Indiranagar,2024-12-24,Gold
+C02966,Jayanagar,2024-09-26,Silver
+C02967,Whitefield,2024-08-02,Bronze
+C02968,Whitefield,2024-06-20,Bronze
+C02969,Electronic City,2023-01-04,Silver
+C02970,Indiranagar,2024-12-12,Silver
+C02971,HSR Layout,2024-06-20,Bronze
+C02972,Electronic City,2024-10-10,Silver
+C02973,Koramangala,2024-10-25,Bronze
+C02974,BTM Layout,2023-07-05,Bronze
+C02975,Jayanagar,2023-01-11,Silver
+C02976,Malleshwaram,2024-04-26,Bronze
+C02977,Electronic City,2023-12-02,Silver
+C02978,Marathahalli,2023-01-15,Silver
+C02979,Marathahalli,2023-07-17,Bronze
+C02980,Hebbal,2024-12-24,Silver
+C02981,Electronic City,2023-09-23,Bronze
+C02982,Indiranagar,2023-07-10,Bronze
+C02983,Koramangala,2024-04-22,Bronze
+C02984,Electronic City,2024-04-30,Silver
+C02985,Koramangala,2023-08-31,Bronze
+C02986,Indiranagar,2024-09-11,Silver
+C02987,Koramangala,2024-02-28,Bronze
+C02988,Jayanagar,2023-04-28,Bronze
+C02989,Indiranagar,2023-08-26,Bronze
+C02990,Electronic City,2024-09-10,Silver
+C02991,Rajajinagar,2023-03-07,Bronze
+C02992,Malleshwaram,2023-01-09,Bronze
+C02993,Whitefield,2024-04-24,Bronze
+C02994,Jayanagar,2023-11-19,Silver
+C02995,Jayanagar,2023-07-04,Silver
+C02996,HSR Layout,2023-12-11,Silver
+C02997,Electronic City,2023-05-15,Bronze
+C02998,Indiranagar,2023-10-01,Bronze
+C02999,Yelahanka,2023-06-20,Bronze
+C03000,Koramangala,2024-03-04,Silver
+C03001,Malleshwaram,2024-05-06,Silver
+C03002,Electronic City,2024-10-29,Bronze
+C03003,Indiranagar,2023-02-19,Gold
+C03004,Marathahalli,2023-08-27,Bronze
+C03005,Koramangala,2023-07-13,Bronze
+C03006,Rajajinagar,2024-02-27,Bronze
+C03007,Electronic City,2024-01-25,Bronze
+C03008,Koramangala,2024-10-02,Silver
+C03009,Koramangala,2024-11-01,Silver
+C03010,Rajajinagar,2024-07-18,Bronze
+C03011,Whitefield,2023-05-26,Silver
+C03012,Hebbal,2023-01-30,Gold
+C03013,Rajajinagar,2024-10-18,Bronze
+C03014,Marathahalli,2024-11-19,Bronze
+C03015,Indiranagar,2023-07-02,Bronze
+C03016,Marathahalli,2023-02-04,Bronze
+C03017,BTM Layout,2024-05-11,Bronze
+C03018,Koramangala,2024-03-05,Bronze
+C03019,Whitefield,2024-10-10,Bronze
+C03020,Indiranagar,2024-02-25,Gold
+C03021,HSR Layout,2024-07-09,Silver
+C03022,Marathahalli,2024-07-28,Silver
+C03023,HSR Layout,2023-01-08,Gold
+C03024,Electronic City,2023-04-19,Silver
+C03025,Whitefield,2024-07-23,Silver
+C03026,Koramangala,2023-05-11,Bronze
+C03027,Indiranagar,2023-05-31,Silver
+C03028,Malleshwaram,2024-07-03,Bronze
+C03029,Electronic City,2023-05-30,Silver
+C03030,Whitefield,2023-04-20,Bronze
+C03031,Rajajinagar,2023-01-10,Bronze
+C03032,Koramangala,2023-12-09,Silver
+C03033,Indiranagar,2024-04-09,Bronze
+C03034,Indiranagar,2024-06-18,Silver
+C03035,Yelahanka,2024-10-23,Bronze
+C03036,Marathahalli,2024-04-20,Silver
+C03037,Electronic City,2024-07-06,Bronze
+C03038,Koramangala,2023-06-03,Bronze
+C03039,Indiranagar,2023-09-06,Gold
+C03040,Electronic City,2023-08-10,Bronze
+C03041,Whitefield,2023-02-17,Bronze
+C03042,BTM Layout,2024-12-08,Silver
+C03043,Rajajinagar,2023-06-26,Bronze
+C03044,HSR Layout,2023-11-24,Silver
+C03045,Marathahalli,2023-09-18,Silver
+C03046,Yelahanka,2023-02-02,Silver
+C03047,HSR Layout,2024-10-21,Bronze
+C03048,Electronic City,2023-06-10,Silver
+C03049,Hebbal,2023-03-15,Gold
+C03050,Indiranagar,2023-09-07,Bronze
+C03051,Hebbal,2023-04-15,Gold
+C03052,Koramangala,2024-12-30,Bronze
+C03053,Electronic City,2023-05-18,Bronze
+C03054,Rajajinagar,2023-08-09,Bronze
+C03055,Electronic City,2023-07-17,Gold
+C03056,Jayanagar,2023-01-20,Bronze
+C03057,Electronic City,2023-01-10,Silver
+C03058,Koramangala,2024-01-10,Silver
+C03059,Indiranagar,2023-06-19,Bronze
+C03060,Indiranagar,2023-03-03,Gold
+C03061,Electronic City,2023-08-01,Bronze
+C03062,HSR Layout,2023-07-20,Gold
+C03063,Indiranagar,2023-11-06,Bronze
+C03064,Hebbal,2024-12-25,Silver
+C03065,Whitefield,2023-08-13,Silver
+C03066,HSR Layout,2024-05-29,Silver
+C03067,HSR Layout,2024-07-14,Bronze
+C03068,Indiranagar,2023-02-06,Bronze
+C03069,Marathahalli,2024-01-01,Bronze
+C03070,HSR Layout,2023-11-24,Bronze
+C03071,Koramangala,2024-01-06,Bronze
+C03072,BTM Layout,2023-05-06,Bronze
+C03073,Malleshwaram,2023-12-06,Bronze
+C03074,Marathahalli,2023-03-31,Silver
+C03075,Hebbal,2024-11-21,Bronze
+C03076,Hebbal,2024-03-04,Bronze
+C03077,Whitefield,2023-01-26,Bronze
+C03078,Electronic City,2024-01-05,Bronze
+C03079,Electronic City,2024-11-07,Bronze
+C03080,Indiranagar,2024-06-26,Gold
+C03081,Indiranagar,2023-07-19,Bronze
+C03082,Koramangala,2024-10-13,Bronze
+C03083,Electronic City,2023-05-16,Silver
+C03084,Rajajinagar,2023-06-30,Silver
+C03085,Rajajinagar,2023-04-24,Silver
+C03086,Whitefield,2024-11-04,Silver
+C03087,Indiranagar,2024-06-07,Silver
+C03088,HSR Layout,2024-01-14,Bronze
+C03089,Jayanagar,2024-05-02,Gold
+C03090,Hebbal,2023-07-08,Silver
+C03091,Hebbal,2023-02-21,Bronze
+C03092,Hebbal,2024-09-09,Gold
+C03093,Malleshwaram,2024-12-04,Bronze
+C03094,BTM Layout,2023-01-26,Bronze
+C03095,HSR Layout,2023-02-07,Silver
+C03096,Koramangala,2024-02-13,Bronze
+C03097,Koramangala,2023-02-01,Silver
+C03098,HSR Layout,2024-06-10,Gold
+C03099,Indiranagar,2024-11-21,Silver
+C03100,Indiranagar,2023-07-24,Silver
+C03101,BTM Layout,2023-08-03,Silver
+C03102,Indiranagar,2024-09-22,Bronze
+C03103,BTM Layout,2023-09-18,Gold
+C03104,Rajajinagar,2023-06-25,Silver
+C03105,Electronic City,2023-03-03,Gold
+C03106,Marathahalli,2024-09-05,Bronze
+C03107,Whitefield,2024-11-06,Silver
+C03108,Electronic City,2023-02-27,Bronze
+C03109,Indiranagar,2024-08-09,Silver
+C03110,BTM Layout,2023-04-27,Gold
+C03111,Whitefield,2023-04-12,Bronze
+C03112,Indiranagar,2023-10-06,Bronze
+C03113,Marathahalli,2023-11-15,Silver
+C03114,Electronic City,2024-09-15,Silver
+C03115,HSR Layout,2024-05-25,Bronze
+C03116,Electronic City,2023-04-16,Bronze
+C03117,Koramangala,2024-03-02,Bronze
+C03118,Marathahalli,2024-10-01,Gold
+C03119,Indiranagar,2024-04-28,Bronze
+C03120,Indiranagar,2023-06-17,Silver
+C03121,Indiranagar,2023-04-05,Bronze
+C03122,Whitefield,2023-11-27,Bronze
+C03123,Whitefield,2023-12-11,Bronze
+C03124,HSR Layout,2023-09-15,Silver
+C03125,Indiranagar,2023-03-21,Gold
+C03126,Indiranagar,2023-03-28,Silver
+C03127,Jayanagar,2024-01-22,Silver
+C03128,Koramangala,2024-11-20,Gold
+C03129,Marathahalli,2024-03-12,Silver
+C03130,BTM Layout,2023-11-16,Bronze
+C03131,HSR Layout,2024-11-10,Silver
+C03132,Hebbal,2024-05-18,Silver
+C03133,Koramangala,2024-06-08,Silver
+C03134,Koramangala,2024-02-24,Bronze
+C03135,Marathahalli,2024-07-10,Bronze
+C03136,Rajajinagar,2024-01-02,Bronze
+C03137,Malleshwaram,2024-03-30,Silver
+C03138,Koramangala,2024-03-26,Silver
+C03139,Rajajinagar,2024-07-03,Gold
+C03140,Whitefield,2024-10-17,Bronze
+C03141,Whitefield,2023-08-03,Silver
+C03142,Indiranagar,2024-05-25,Bronze
+C03143,Yelahanka,2023-01-24,Silver
+C03144,Koramangala,2024-01-24,Bronze
+C03145,Malleshwaram,2024-10-18,Silver
+C03146,Electronic City,2024-04-15,Bronze
+C03147,Marathahalli,2023-07-15,Bronze
+C03148,Marathahalli,2024-03-18,Bronze
+C03149,Malleshwaram,2023-09-19,Bronze
+C03150,Indiranagar,2023-11-13,Bronze
+C03151,Koramangala,2023-06-16,Bronze
+C03152,Electronic City,2024-04-01,Bronze
+C03153,Whitefield,2023-05-25,Bronze
+C03154,Koramangala,2023-11-20,Bronze
+C03155,Indiranagar,2024-11-16,Gold
+C03156,Whitefield,2024-07-07,Silver
+C03157,Koramangala,2023-10-30,Bronze
+C03158,Koramangala,2024-12-08,Bronze
+C03159,Hebbal,2023-01-11,Bronze
+C03160,Whitefield,2024-12-01,Silver
+C03161,Yelahanka,2023-09-15,Gold
+C03162,BTM Layout,2024-08-22,Silver
+C03163,Koramangala,2024-11-22,Bronze
+C03164,Marathahalli,2024-03-15,Bronze
+C03165,Electronic City,2024-03-21,Silver
+C03166,Marathahalli,2024-07-01,Bronze
+C03167,Koramangala,2023-06-25,Bronze
+C03168,Indiranagar,2023-05-10,Bronze
+C03169,Koramangala,2023-09-08,Bronze
+C03170,Electronic City,2023-12-16,Bronze
+C03171,Yelahanka,2024-06-26,Gold
+C03172,Marathahalli,2023-07-07,Bronze
+C03173,Marathahalli,2024-02-17,Bronze
+C03174,Yelahanka,2023-01-03,Bronze
+C03175,Marathahalli,2023-01-23,Bronze
+C03176,Koramangala,2024-12-06,Bronze
+C03177,Hebbal,2024-09-12,Bronze
+C03178,Whitefield,2024-09-22,Bronze
+C03179,Koramangala,2023-08-28,Silver
+C03180,Jayanagar,2024-01-10,Bronze
+C03181,BTM Layout,2024-05-07,Gold
+C03182,Indiranagar,2023-07-05,Bronze
+C03183,Jayanagar,2024-06-27,Gold
+C03184,Indiranagar,2024-05-20,Bronze
+C03185,Koramangala,2023-10-25,Bronze
+C03186,Koramangala,2023-11-14,Silver
+C03187,Marathahalli,2023-08-13,Gold
+C03188,Hebbal,2024-08-09,Gold
+C03189,Koramangala,2024-12-21,Bronze
+C03190,Whitefield,2024-12-30,Gold
+C03191,Indiranagar,2024-07-17,Bronze
+C03192,Koramangala,2023-09-12,Bronze
+C03193,Jayanagar,2024-07-24,Gold
+C03194,Marathahalli,2023-06-28,Silver
+C03195,Electronic City,2024-10-16,Bronze
+C03196,Whitefield,2023-07-15,Bronze
+C03197,Jayanagar,2023-10-22,Bronze
+C03198,Koramangala,2023-03-10,Bronze
+C03199,Koramangala,2023-03-01,Gold
+C03200,BTM Layout,2023-10-15,Bronze
+C03201,Rajajinagar,2024-02-06,Silver
+C03202,BTM Layout,2023-01-13,Bronze
+C03203,Hebbal,2024-09-09,Bronze
+C03204,Electronic City,2023-03-25,Bronze
+C03205,BTM Layout,2024-12-29,Bronze
+C03206,HSR Layout,2023-07-18,Silver
+C03207,Koramangala,2023-10-04,Bronze
+C03208,Koramangala,2023-04-27,Silver
+C03209,Koramangala,2024-08-24,Gold
+C03210,Koramangala,2024-06-18,Bronze
+C03211,Whitefield,2023-02-27,Silver
+C03212,Marathahalli,2023-03-19,Silver
+C03213,Rajajinagar,2024-03-20,Bronze
+C03214,Electronic City,2024-09-24,Bronze
+C03215,Koramangala,2023-03-22,Silver
+C03216,Marathahalli,2023-06-11,Silver
+C03217,Whitefield,2024-02-03,Bronze
+C03218,Koramangala,2023-03-21,Silver
+C03219,Whitefield,2023-08-11,Bronze
+C03220,Whitefield,2023-01-08,Bronze
+C03221,Indiranagar,2023-12-31,Silver
+C03222,Malleshwaram,2024-06-06,Bronze
+C03223,Rajajinagar,2023-10-28,Bronze
+C03224,Marathahalli,2023-07-07,Silver
+C03225,Koramangala,2023-11-06,Bronze
+C03226,Rajajinagar,2024-01-07,Bronze
+C03227,Marathahalli,2023-05-01,Bronze
+C03228,Indiranagar,2023-03-23,Bronze
+C03229,Electronic City,2023-05-13,Bronze
+C03230,HSR Layout,2024-12-20,Bronze
+C03231,HSR Layout,2024-06-11,Bronze
+C03232,Koramangala,2023-04-02,Bronze
+C03233,Jayanagar,2023-08-08,Bronze
+C03234,Koramangala,2023-10-28,Bronze
+C03235,Indiranagar,2023-05-13,Gold
+C03236,Koramangala,2024-09-13,Gold
+C03237,BTM Layout,2024-11-17,Silver
+C03238,Whitefield,2023-06-28,Bronze
+C03239,Whitefield,2023-01-13,Bronze
+C03240,Whitefield,2023-07-14,Bronze
+C03241,Hebbal,2024-03-01,Gold
+C03242,Jayanagar,2024-08-13,Silver
+C03243,Hebbal,2023-09-05,Silver
+C03244,Whitefield,2023-07-19,Bronze
+C03245,Koramangala,2023-07-01,Bronze
+C03246,Jayanagar,2023-01-03,Gold
+C03247,Whitefield,2023-01-11,Bronze
+C03248,Rajajinagar,2023-11-09,Bronze
+C03249,Hebbal,2024-03-26,Bronze
+C03250,HSR Layout,2023-01-10,Gold
+C03251,Yelahanka,2023-05-27,Bronze
+C03252,Jayanagar,2024-10-26,Gold
+C03253,Indiranagar,2024-12-23,Silver
+C03254,HSR Layout,2024-04-13,Bronze
+C03255,Koramangala,2024-01-16,Bronze
+C03256,Rajajinagar,2024-03-01,Silver
+C03257,Koramangala,2023-09-28,Silver
+C03258,Whitefield,2023-05-28,Silver
+C03259,Jayanagar,2023-10-02,Bronze
+C03260,Koramangala,2024-05-25,Silver
+C03261,Koramangala,2024-04-28,Gold
+C03262,Marathahalli,2024-05-09,Bronze
+C03263,Koramangala,2024-03-20,Gold
+C03264,HSR Layout,2023-02-14,Bronze
+C03265,Whitefield,2024-04-02,Silver
+C03266,Indiranagar,2024-10-05,Silver
+C03267,Indiranagar,2024-04-18,Silver
+C03268,Rajajinagar,2024-02-27,Bronze
+C03269,BTM Layout,2023-06-13,Bronze
+C03270,Koramangala,2024-08-01,Bronze
+C03271,BTM Layout,2023-11-26,Gold
+C03272,Electronic City,2023-07-11,Bronze
+C03273,Electronic City,2023-12-24,Bronze
+C03274,Marathahalli,2023-03-31,Silver
+C03275,Marathahalli,2024-11-07,Silver
+C03276,Malleshwaram,2024-05-27,Bronze
+C03277,HSR Layout,2023-08-27,Silver
+C03278,Jayanagar,2024-08-02,Bronze
+C03279,Whitefield,2023-02-09,Bronze
+C03280,Koramangala,2023-10-09,Gold
+C03281,Marathahalli,2024-04-20,Bronze
+C03282,Koramangala,2023-01-18,Bronze
+C03283,Indiranagar,2024-06-01,Gold
+C03284,Koramangala,2024-08-20,Bronze
+C03285,Indiranagar,2024-03-09,Silver
+C03286,Electronic City,2023-05-31,Bronze
+C03287,Electronic City,2024-06-30,Gold
+C03288,HSR Layout,2023-09-05,Silver
+C03289,Koramangala,2024-06-21,Silver
+C03290,HSR Layout,2024-04-03,Bronze
+C03291,Whitefield,2023-03-10,Bronze
+C03292,Marathahalli,2023-03-14,Silver
+C03293,Electronic City,2023-01-12,Silver
+C03294,Jayanagar,2023-02-22,Silver
+C03295,HSR Layout,2023-08-07,Bronze
+C03296,BTM Layout,2023-01-19,Bronze
+C03297,Rajajinagar,2024-11-16,Bronze
+C03298,Jayanagar,2024-10-31,Silver
+C03299,HSR Layout,2023-05-07,Bronze
+C03300,Koramangala,2023-08-16,Gold
+C03301,BTM Layout,2024-06-25,Silver
+C03302,Whitefield,2024-04-27,Bronze
+C03303,Indiranagar,2024-02-29,Bronze
+C03304,Yelahanka,2024-12-23,Bronze
+C03305,Marathahalli,2024-04-04,Bronze
+C03306,Koramangala,2024-05-03,Silver
+C03307,Koramangala,2024-01-02,Bronze
+C03308,Koramangala,2024-01-19,Silver
+C03309,Electronic City,2023-08-01,Bronze
+C03310,Koramangala,2024-01-16,Gold
+C03311,BTM Layout,2024-11-01,Bronze
+C03312,BTM Layout,2023-10-03,Bronze
+C03313,Jayanagar,2023-04-08,Bronze
+C03314,Electronic City,2024-03-13,Silver
+C03315,Whitefield,2024-07-27,Gold
+C03316,Koramangala,2024-11-30,Bronze
+C03317,Marathahalli,2024-01-31,Bronze
+C03318,Koramangala,2024-07-29,Silver
+C03319,Koramangala,2023-07-02,Silver
+C03320,Whitefield,2023-11-06,Bronze
+C03321,Koramangala,2023-11-02,Silver
+C03322,HSR Layout,2023-08-31,Bronze
+C03323,Marathahalli,2024-06-06,Gold
+C03324,Rajajinagar,2024-10-06,Bronze
+C03325,Electronic City,2023-08-27,Silver
+C03326,Malleshwaram,2023-04-10,Bronze
+C03327,HSR Layout,2024-08-25,Bronze
+C03328,Malleshwaram,2024-09-12,Bronze
+C03329,Jayanagar,2024-11-13,Bronze
+C03330,Indiranagar,2023-07-06,Silver
+C03331,BTM Layout,2024-06-08,Gold
+C03332,Indiranagar,2024-06-06,Bronze
+C03333,Koramangala,2024-07-30,Bronze
+C03334,Indiranagar,2024-08-11,Gold
+C03335,Whitefield,2024-11-26,Bronze
+C03336,Whitefield,2023-12-15,Gold
+C03337,Jayanagar,2023-02-25,Gold
+C03338,Hebbal,2023-05-21,Silver
+C03339,Whitefield,2024-10-09,Gold
+C03340,Jayanagar,2024-09-08,Bronze
+C03341,Whitefield,2023-01-09,Bronze
+C03342,Malleshwaram,2023-09-26,Bronze
+C03343,Koramangala,2023-06-28,Bronze
+C03344,Koramangala,2023-08-23,Bronze
+C03345,Jayanagar,2024-04-11,Silver
+C03346,Marathahalli,2024-01-08,Gold
+C03347,Rajajinagar,2023-12-18,Bronze
+C03348,Electronic City,2023-11-14,Gold
+C03349,Rajajinagar,2024-04-13,Silver
+C03350,HSR Layout,2024-05-13,Gold
+C03351,Koramangala,2023-02-01,Silver
+C03352,Koramangala,2023-04-11,Bronze
+C03353,Koramangala,2023-09-07,Bronze
+C03354,Whitefield,2023-11-15,Bronze
+C03355,Jayanagar,2024-12-28,Bronze
+C03356,Whitefield,2024-10-12,Silver
+C03357,Jayanagar,2024-04-18,Bronze
+C03358,HSR Layout,2023-01-27,Silver
+C03359,Marathahalli,2023-03-15,Gold
+C03360,Marathahalli,2023-11-30,Gold
+C03361,Whitefield,2024-03-04,Bronze
+C03362,Whitefield,2024-04-27,Bronze
+C03363,Electronic City,2023-04-14,Silver
+C03364,Electronic City,2024-10-10,Bronze
+C03365,Whitefield,2023-12-27,Gold
+C03366,Whitefield,2024-03-09,Silver
+C03367,Marathahalli,2023-01-29,Bronze
+C03368,Electronic City,2024-08-24,Silver
+C03369,Koramangala,2024-02-01,Bronze
+C03370,HSR Layout,2023-06-12,Gold
+C03371,Hebbal,2023-08-21,Gold
+C03372,Koramangala,2023-09-15,Silver
+C03373,Malleshwaram,2023-01-20,Bronze
+C03374,Indiranagar,2024-11-18,Silver
+C03375,Jayanagar,2024-08-09,Bronze
+C03376,HSR Layout,2024-10-08,Bronze
+C03377,Koramangala,2023-09-16,Bronze
+C03378,Hebbal,2024-02-12,Bronze
+C03379,HSR Layout,2023-12-01,Bronze
+C03380,BTM Layout,2023-12-14,Bronze
+C03381,Whitefield,2024-03-05,Bronze
+C03382,Hebbal,2023-11-26,Gold
+C03383,BTM Layout,2024-07-18,Bronze
+C03384,Jayanagar,2023-02-12,Silver
+C03385,Indiranagar,2023-05-21,Bronze
+C03386,Marathahalli,2024-10-13,Silver
+C03387,Jayanagar,2024-10-06,Bronze
+C03388,BTM Layout,2024-08-20,Bronze
+C03389,HSR Layout,2023-09-27,Gold
+C03390,Indiranagar,2023-11-30,Bronze
+C03391,Koramangala,2023-01-19,Bronze
+C03392,Marathahalli,2023-07-23,Bronze
+C03393,Yelahanka,2024-06-14,Silver
+C03394,Koramangala,2023-09-08,Gold
+C03395,Marathahalli,2023-12-17,Bronze
+C03396,BTM Layout,2023-03-31,Bronze
+C03397,Koramangala,2023-12-29,Bronze
+C03398,Koramangala,2024-06-10,Gold
+C03399,Marathahalli,2024-02-22,Silver
+C03400,Electronic City,2024-02-11,Bronze
+C03401,Koramangala,2024-10-29,Silver
+C03402,Malleshwaram,2023-06-20,Bronze
+C03403,Jayanagar,2023-08-07,Gold
+C03404,Hebbal,2024-03-30,Silver
+C03405,Hebbal,2023-12-17,Bronze
+C03406,Malleshwaram,2024-12-15,Bronze
+C03407,Jayanagar,2023-02-13,Bronze
+C03408,Indiranagar,2023-03-31,Bronze
+C03409,Jayanagar,2023-09-07,Silver
+C03410,Koramangala,2023-12-01,Bronze
+C03411,Electronic City,2024-10-12,Gold
+C03412,Koramangala,2023-12-27,Silver
+C03413,Jayanagar,2023-11-16,Bronze
+C03414,Koramangala,2023-05-02,Bronze
+C03415,Whitefield,2023-11-14,Bronze
+C03416,Indiranagar,2024-01-24,Gold
+C03417,Electronic City,2024-03-02,Bronze
+C03418,Rajajinagar,2024-03-18,Bronze
+C03419,Koramangala,2023-11-10,Silver
+C03420,Malleshwaram,2023-04-25,Silver
+C03421,Hebbal,2023-04-22,Gold
+C03422,Whitefield,2023-04-23,Silver
+C03423,Electronic City,2024-03-27,Bronze
+C03424,HSR Layout,2024-09-17,Bronze
+C03425,Koramangala,2024-10-06,Silver
+C03426,Jayanagar,2023-08-16,Bronze
+C03427,Koramangala,2023-02-28,Silver
+C03428,Hebbal,2024-04-05,Silver
+C03429,BTM Layout,2023-01-29,Silver
+C03430,Malleshwaram,2024-04-02,Bronze
+C03431,Jayanagar,2023-10-07,Silver
+C03432,Jayanagar,2024-09-04,Bronze
+C03433,Yelahanka,2024-04-01,Bronze
+C03434,Indiranagar,2024-06-24,Bronze
+C03435,Koramangala,2023-10-24,Bronze
+C03436,Jayanagar,2024-09-05,Bronze
+C03437,Whitefield,2024-01-19,Silver
+C03438,Whitefield,2024-04-01,Bronze
+C03439,Koramangala,2023-09-21,Gold
+C03440,Electronic City,2023-11-25,Bronze
+C03441,Indiranagar,2024-09-05,Silver
+C03442,Indiranagar,2023-10-15,Bronze
+C03443,Koramangala,2023-01-16,Gold
+C03444,Whitefield,2023-10-04,Silver
+C03445,Hebbal,2023-10-14,Bronze
+C03446,Whitefield,2023-11-02,Silver
+C03447,Marathahalli,2023-02-21,Silver
+C03448,Rajajinagar,2023-04-05,Bronze
+C03449,Whitefield,2023-08-25,Silver
+C03450,Malleshwaram,2023-11-06,Gold
+C03451,Marathahalli,2023-01-22,Bronze
+C03452,Jayanagar,2023-10-12,Bronze
+C03453,Koramangala,2023-08-22,Bronze
+C03454,Koramangala,2023-01-26,Gold
+C03455,Yelahanka,2023-07-02,Bronze
+C03456,Rajajinagar,2023-07-20,Bronze
+C03457,BTM Layout,2023-04-15,Silver
+C03458,Hebbal,2024-07-02,Silver
+C03459,Koramangala,2023-02-22,Bronze
+C03460,Rajajinagar,2024-02-26,Bronze
+C03461,HSR Layout,2024-04-30,Bronze
+C03462,Rajajinagar,2024-08-11,Silver
+C03463,Koramangala,2024-02-03,Bronze
+C03464,Whitefield,2024-02-01,Bronze
+C03465,Rajajinagar,2024-07-09,Bronze
+C03466,Rajajinagar,2024-09-15,Bronze
+C03467,Electronic City,2023-06-03,Bronze
+C03468,Whitefield,2024-08-04,Gold
+C03469,Whitefield,2023-12-04,Silver
+C03470,BTM Layout,2023-03-13,Silver
+C03471,HSR Layout,2024-03-23,Silver
+C03472,HSR Layout,2024-12-14,Bronze
+C03473,Jayanagar,2023-04-13,Silver
+C03474,HSR Layout,2023-01-11,Bronze
+C03475,Jayanagar,2024-10-31,Gold
+C03476,HSR Layout,2024-03-11,Bronze
+C03477,Malleshwaram,2023-06-09,Bronze
+C03478,Hebbal,2024-08-01,Silver
+C03479,BTM Layout,2023-10-15,Bronze
+C03480,Jayanagar,2023-08-31,Bronze
+C03481,HSR Layout,2023-07-31,Silver
+C03482,Marathahalli,2024-03-12,Bronze
+C03483,Malleshwaram,2023-04-09,Silver
+C03484,Jayanagar,2023-09-22,Bronze
+C03485,Marathahalli,2023-08-11,Gold
+C03486,Marathahalli,2023-02-14,Bronze
+C03487,Marathahalli,2024-07-11,Bronze
+C03488,Marathahalli,2023-01-07,Silver
+C03489,Indiranagar,2024-12-01,Bronze
+C03490,Jayanagar,2023-03-11,Silver
+C03491,Electronic City,2023-09-19,Silver
+C03492,Koramangala,2023-03-13,Bronze
+C03493,Malleshwaram,2023-09-25,Bronze
+C03494,Electronic City,2024-03-21,Silver
+C03495,Koramangala,2023-03-05,Bronze
+C03496,Malleshwaram,2024-01-19,Silver
+C03497,Marathahalli,2024-07-17,Bronze
+C03498,Rajajinagar,2023-11-29,Gold
+C03499,HSR Layout,2023-03-24,Silver
+C03500,Malleshwaram,2024-05-20,Bronze
+C03501,HSR Layout,2023-05-17,Silver
+C03502,Electronic City,2023-01-13,Silver
+C03503,Koramangala,2023-11-15,Gold
+C03504,Electronic City,2023-07-17,Bronze
+C03505,Marathahalli,2023-01-21,Silver
+C03506,Jayanagar,2024-07-21,Bronze
+C03507,Jayanagar,2024-03-13,Bronze
+C03508,Rajajinagar,2024-10-26,Silver
+C03509,Marathahalli,2023-12-17,Silver
+C03510,Indiranagar,2023-11-16,Gold
+C03511,BTM Layout,2024-09-07,Silver
+C03512,Marathahalli,2023-03-01,Bronze
+C03513,Yelahanka,2023-09-22,Silver
+C03514,Yelahanka,2024-08-06,Bronze
+C03515,Hebbal,2023-08-02,Silver
+C03516,Rajajinagar,2024-10-08,Silver
+C03517,Electronic City,2023-07-27,Bronze
+C03518,Indiranagar,2023-10-29,Silver
+C03519,Jayanagar,2024-10-17,Silver
+C03520,Rajajinagar,2023-06-27,Silver
+C03521,Jayanagar,2024-12-07,Silver
+C03522,Hebbal,2023-02-02,Gold
+C03523,Koramangala,2023-07-14,Silver
+C03524,Whitefield,2024-03-07,Bronze
+C03525,Jayanagar,2024-03-09,Silver
+C03526,HSR Layout,2024-10-26,Bronze
+C03527,Koramangala,2024-12-01,Silver
+C03528,Koramangala,2024-05-09,Silver
+C03529,Malleshwaram,2024-04-26,Silver
+C03530,HSR Layout,2023-08-20,Silver
+C03531,Koramangala,2024-08-11,Gold
+C03532,Koramangala,2024-04-14,Bronze
+C03533,HSR Layout,2023-01-18,Gold
+C03534,Indiranagar,2024-08-30,Bronze
+C03535,Marathahalli,2023-09-20,Silver
+C03536,Rajajinagar,2023-12-14,Bronze
+C03537,Indiranagar,2023-12-21,Bronze
+C03538,Electronic City,2024-08-21,Bronze
+C03539,Koramangala,2023-07-15,Gold
+C03540,Whitefield,2023-10-14,Bronze
+C03541,Hebbal,2023-01-29,Silver
+C03542,Jayanagar,2023-09-12,Bronze
+C03543,Hebbal,2023-03-06,Silver
+C03544,Indiranagar,2024-03-01,Bronze
+C03545,Whitefield,2024-10-14,Bronze
+C03546,HSR Layout,2023-12-06,Bronze
+C03547,HSR Layout,2024-10-27,Gold
+C03548,Yelahanka,2024-12-14,Gold
+C03549,Koramangala,2023-02-09,Bronze
+C03550,Malleshwaram,2024-01-12,Gold
+C03551,Hebbal,2024-01-21,Bronze
+C03552,Jayanagar,2023-10-09,Bronze
+C03553,Whitefield,2024-08-29,Bronze
+C03554,Jayanagar,2023-10-16,Silver
+C03555,Whitefield,2023-02-10,Bronze
+C03556,Rajajinagar,2024-02-04,Silver
+C03557,Jayanagar,2023-05-28,Bronze
+C03558,BTM Layout,2023-09-17,Bronze
+C03559,Electronic City,2024-01-02,Bronze
+C03560,Jayanagar,2024-06-11,Bronze
+C03561,Marathahalli,2023-07-23,Bronze
+C03562,Jayanagar,2023-10-05,Bronze
+C03563,Hebbal,2023-02-19,Bronze
+C03564,Indiranagar,2023-10-08,Bronze
+C03565,Yelahanka,2024-02-28,Bronze
+C03566,Malleshwaram,2024-03-26,Bronze
+C03567,Hebbal,2023-08-03,Bronze
+C03568,HSR Layout,2023-02-14,Silver
+C03569,Malleshwaram,2024-02-26,Bronze
+C03570,Whitefield,2024-04-23,Bronze
+C03571,Rajajinagar,2023-03-04,Bronze
+C03572,Koramangala,2024-01-04,Bronze
+C03573,Whitefield,2023-03-11,Bronze
+C03574,HSR Layout,2023-11-27,Silver
+C03575,Whitefield,2024-04-12,Silver
+C03576,Whitefield,2024-06-09,Bronze
+C03577,Malleshwaram,2024-06-05,Bronze
+C03578,Indiranagar,2024-07-07,Bronze
+C03579,Marathahalli,2023-06-26,Silver
+C03580,Koramangala,2024-09-09,Silver
+C03581,Rajajinagar,2023-09-13,Bronze
+C03582,Rajajinagar,2023-10-01,Bronze
+C03583,HSR Layout,2024-07-28,Bronze
+C03584,Marathahalli,2023-08-27,Silver
+C03585,Hebbal,2023-02-24,Bronze
+C03586,Rajajinagar,2024-06-05,Silver
+C03587,HSR Layout,2024-04-28,Bronze
+C03588,HSR Layout,2024-02-29,Bronze
+C03589,Rajajinagar,2023-04-15,Bronze
+C03590,Whitefield,2024-04-06,Gold
+C03591,Rajajinagar,2023-05-25,Bronze
+C03592,Whitefield,2024-02-10,Bronze
+C03593,Rajajinagar,2024-01-06,Bronze
+C03594,Koramangala,2024-07-18,Gold
+C03595,Koramangala,2024-12-13,Bronze
+C03596,Yelahanka,2023-05-19,Bronze
+C03597,Hebbal,2023-03-25,Gold
+C03598,Hebbal,2024-02-10,Bronze
+C03599,BTM Layout,2024-11-25,Gold
+C03600,HSR Layout,2023-04-26,Bronze
+C03601,Whitefield,2023-12-22,Bronze
+C03602,Koramangala,2023-10-25,Gold
+C03603,Jayanagar,2023-08-21,Silver
+C03604,Indiranagar,2024-04-29,Silver
+C03605,BTM Layout,2023-08-04,Silver
+C03606,Koramangala,2023-12-26,Bronze
+C03607,Koramangala,2024-09-09,Silver
+C03608,Indiranagar,2023-10-05,Gold
+C03609,Indiranagar,2023-01-16,Silver
+C03610,Indiranagar,2024-10-08,Silver
+C03611,Electronic City,2023-07-20,Bronze
+C03612,Whitefield,2024-07-18,Silver
+C03613,Electronic City,2024-07-10,Silver
+C03614,Hebbal,2024-01-20,Bronze
+C03615,Electronic City,2023-03-06,Silver
+C03616,Marathahalli,2024-11-24,Bronze
+C03617,Whitefield,2024-05-12,Silver
+C03618,Koramangala,2023-11-06,Bronze
+C03619,Whitefield,2024-09-15,Silver
+C03620,BTM Layout,2024-07-29,Silver
+C03621,Electronic City,2024-07-09,Gold
+C03622,Indiranagar,2023-05-03,Silver
+C03623,HSR Layout,2024-04-06,Bronze
+C03624,Malleshwaram,2023-07-28,Gold
+C03625,Marathahalli,2023-02-27,Gold
+C03626,Jayanagar,2023-09-04,Silver
+C03627,Hebbal,2023-03-17,Bronze
+C03628,Marathahalli,2023-03-19,Gold
+C03629,Electronic City,2024-06-14,Bronze
+C03630,Indiranagar,2024-01-02,Silver
+C03631,Koramangala,2023-10-18,Bronze
+C03632,BTM Layout,2023-05-21,Silver
+C03633,Electronic City,2024-07-16,Bronze
+C03634,HSR Layout,2024-04-07,Gold
+C03635,Electronic City,2024-03-03,Bronze
+C03636,Koramangala,2023-05-19,Bronze
+C03637,Malleshwaram,2023-04-01,Bronze
+C03638,Indiranagar,2023-04-01,Silver
+C03639,Rajajinagar,2023-01-19,Silver
+C03640,Jayanagar,2024-12-08,Silver
+C03641,Indiranagar,2023-09-26,Silver
+C03642,Koramangala,2024-04-25,Gold
+C03643,Malleshwaram,2024-12-18,Gold
+C03644,Indiranagar,2024-11-14,Bronze
+C03645,Koramangala,2023-08-23,Silver
+C03646,Rajajinagar,2023-12-24,Bronze
+C03647,Whitefield,2023-12-05,Gold
+C03648,Whitefield,2023-01-25,Bronze
+C03649,Indiranagar,2024-07-14,Bronze
+C03650,Malleshwaram,2024-02-24,Silver
+C03651,Whitefield,2023-09-29,Silver
+C03652,Indiranagar,2024-02-12,Silver
+C03653,Whitefield,2024-06-20,Gold
+C03654,Indiranagar,2023-01-11,Silver
+C03655,Whitefield,2024-04-16,Silver
+C03656,Koramangala,2024-09-20,Gold
+C03657,Koramangala,2024-06-14,Bronze
+C03658,HSR Layout,2024-03-28,Bronze
+C03659,Hebbal,2023-03-08,Gold
+C03660,Koramangala,2024-06-27,Bronze
+C03661,Indiranagar,2024-07-01,Silver
+C03662,Hebbal,2023-12-27,Gold
+C03663,Hebbal,2024-03-01,Bronze
+C03664,Marathahalli,2024-03-27,Gold
+C03665,Indiranagar,2023-03-30,Silver
+C03666,HSR Layout,2023-07-07,Gold
+C03667,Indiranagar,2024-08-01,Bronze
+C03668,Koramangala,2024-12-11,Bronze
+C03669,Whitefield,2023-07-17,Bronze
+C03670,Electronic City,2023-10-20,Bronze
+C03671,Whitefield,2024-10-30,Gold
+C03672,Electronic City,2023-04-29,Silver
+C03673,Whitefield,2023-07-10,Bronze
+C03674,Whitefield,2023-02-10,Silver
+C03675,Rajajinagar,2023-06-21,Bronze
+C03676,Hebbal,2024-04-09,Bronze
+C03677,Whitefield,2023-09-12,Silver
+C03678,Electronic City,2024-12-18,Gold
+C03679,Indiranagar,2024-10-12,Bronze
+C03680,Koramangala,2024-10-15,Silver
+C03681,Marathahalli,2024-06-14,Silver
+C03682,Indiranagar,2024-05-27,Bronze
+C03683,HSR Layout,2024-01-08,Bronze
+C03684,HSR Layout,2024-12-24,Bronze
+C03685,Indiranagar,2023-03-11,Bronze
+C03686,Koramangala,2024-06-11,Bronze
+C03687,Whitefield,2023-04-13,Gold
+C03688,BTM Layout,2023-09-05,Bronze
+C03689,Electronic City,2023-07-06,Silver
+C03690,Whitefield,2024-03-14,Bronze
+C03691,Koramangala,2024-07-28,Bronze
+C03692,Electronic City,2023-02-28,Bronze
+C03693,Koramangala,2024-03-15,Silver
+C03694,Jayanagar,2023-06-11,Silver
+C03695,Rajajinagar,2023-02-26,Bronze
+C03696,HSR Layout,2023-11-01,Silver
+C03697,Whitefield,2024-02-29,Bronze
+C03698,Koramangala,2023-05-28,Silver
+C03699,Koramangala,2023-10-12,Silver
+C03700,HSR Layout,2024-11-27,Silver
+C03701,Hebbal,2023-09-11,Bronze
+C03702,Indiranagar,2024-12-27,Bronze
+C03703,Electronic City,2024-08-31,Silver
+C03704,Marathahalli,2023-09-28,Silver
+C03705,Koramangala,2024-02-26,Bronze
+C03706,Koramangala,2024-06-01,Silver
+C03707,Whitefield,2023-12-06,Bronze
+C03708,Marathahalli,2023-10-25,Gold
+C03709,HSR Layout,2023-08-29,Gold
+C03710,Marathahalli,2023-04-12,Silver
+C03711,Hebbal,2023-01-19,Silver
+C03712,Rajajinagar,2023-09-03,Bronze
+C03713,Yelahanka,2024-08-03,Bronze
+C03714,Rajajinagar,2023-06-20,Bronze
+C03715,Malleshwaram,2023-05-12,Bronze
+C03716,Malleshwaram,2023-08-28,Bronze
+C03717,Marathahalli,2024-03-13,Silver
+C03718,Rajajinagar,2023-06-06,Silver
+C03719,BTM Layout,2023-06-10,Silver
+C03720,HSR Layout,2023-03-24,Silver
+C03721,Electronic City,2023-08-31,Bronze
+C03722,Jayanagar,2023-06-08,Gold
+C03723,Malleshwaram,2024-08-29,Bronze
+C03724,HSR Layout,2024-10-23,Bronze
+C03725,Malleshwaram,2023-09-28,Bronze
+C03726,Rajajinagar,2023-03-04,Bronze
+C03727,BTM Layout,2023-03-05,Gold
+C03728,Indiranagar,2023-08-26,Silver
+C03729,Marathahalli,2023-12-05,Silver
+C03730,Rajajinagar,2024-01-21,Bronze
+C03731,BTM Layout,2023-08-11,Gold
+C03732,Hebbal,2023-09-16,Bronze
+C03733,Electronic City,2023-07-27,Bronze
+C03734,Electronic City,2024-01-13,Bronze
+C03735,Indiranagar,2024-05-23,Bronze
+C03736,Yelahanka,2023-02-01,Silver
+C03737,Indiranagar,2023-12-16,Bronze
+C03738,Marathahalli,2024-04-18,Bronze
+C03739,Rajajinagar,2024-05-05,Silver
+C03740,HSR Layout,2024-02-16,Bronze
+C03741,Indiranagar,2024-01-19,Silver
+C03742,Indiranagar,2024-05-12,Gold
+C03743,Malleshwaram,2023-10-04,Bronze
+C03744,Jayanagar,2024-02-19,Bronze
+C03745,Koramangala,2023-08-22,Silver
+C03746,Marathahalli,2023-11-16,Bronze
+C03747,Indiranagar,2023-04-01,Silver
+C03748,Hebbal,2023-09-13,Silver
+C03749,Whitefield,2023-04-14,Bronze
+C03750,Indiranagar,2023-06-15,Bronze
+C03751,Koramangala,2023-11-03,Gold
+C03752,Jayanagar,2024-01-01,Gold
+C03753,HSR Layout,2024-11-18,Bronze
+C03754,Rajajinagar,2023-01-20,Bronze
+C03755,HSR Layout,2024-10-17,Bronze
+C03756,Whitefield,2023-08-28,Bronze
+C03757,Indiranagar,2024-06-12,Bronze
+C03758,Indiranagar,2024-05-09,Gold
+C03759,BTM Layout,2024-12-09,Silver
+C03760,Indiranagar,2023-03-21,Bronze
+C03761,Yelahanka,2024-12-07,Bronze
+C03762,Whitefield,2023-02-15,Bronze
+C03763,Koramangala,2024-10-02,Bronze
+C03764,Indiranagar,2024-04-21,Silver
+C03765,Koramangala,2023-12-18,Silver
+C03766,Rajajinagar,2023-10-18,Gold
+C03767,Jayanagar,2023-03-10,Bronze
+C03768,Whitefield,2024-08-08,Bronze
+C03769,Marathahalli,2024-06-15,Bronze
+C03770,Electronic City,2024-11-15,Silver
+C03771,BTM Layout,2024-06-17,Bronze
+C03772,BTM Layout,2024-11-29,Bronze
+C03773,Marathahalli,2024-10-09,Silver
+C03774,Malleshwaram,2023-11-07,Bronze
+C03775,Rajajinagar,2024-05-28,Bronze
+C03776,Jayanagar,2023-07-12,Bronze
+C03777,Marathahalli,2024-08-03,Silver
+C03778,Koramangala,2024-03-20,Bronze
+C03779,Rajajinagar,2023-11-18,Bronze
+C03780,BTM Layout,2024-04-03,Bronze
+C03781,Koramangala,2023-07-22,Bronze
+C03782,Malleshwaram,2024-03-30,Bronze
+C03783,BTM Layout,2023-12-13,Bronze
+C03784,Indiranagar,2023-08-23,Bronze
+C03785,Jayanagar,2024-12-13,Silver
+C03786,BTM Layout,2023-02-16,Bronze
+C03787,BTM Layout,2024-07-07,Bronze
+C03788,Koramangala,2023-06-03,Gold
+C03789,Whitefield,2023-06-12,Silver
+C03790,Marathahalli,2023-04-23,Silver
+C03791,Indiranagar,2023-03-16,Bronze
+C03792,Whitefield,2023-04-01,Gold
+C03793,Koramangala,2024-08-30,Bronze
+C03794,Koramangala,2024-11-07,Gold
+C03795,Jayanagar,2024-03-02,Bronze
+C03796,Electronic City,2023-01-11,Bronze
+C03797,Electronic City,2024-09-23,Bronze
+C03798,Rajajinagar,2024-03-15,Silver
+C03799,HSR Layout,2024-01-16,Bronze
+C03800,Indiranagar,2024-11-22,Bronze
+C03801,Koramangala,2023-10-27,Silver
+C03802,Indiranagar,2023-09-20,Bronze
+C03803,Whitefield,2024-07-23,Silver
+C03804,Indiranagar,2024-01-20,Bronze
+C03805,Koramangala,2024-06-07,Bronze
+C03806,Koramangala,2024-05-22,Bronze
+C03807,Marathahalli,2024-09-04,Silver
+C03808,Electronic City,2023-08-20,Bronze
+C03809,BTM Layout,2023-02-22,Silver
+C03810,Rajajinagar,2023-12-15,Gold
+C03811,Jayanagar,2024-04-17,Silver
+C03812,Koramangala,2024-08-19,Silver
+C03813,Jayanagar,2023-07-14,Silver
+C03814,Koramangala,2024-06-28,Silver
+C03815,HSR Layout,2024-08-30,Gold
+C03816,HSR Layout,2024-08-13,Bronze
+C03817,HSR Layout,2024-08-12,Bronze
+C03818,Indiranagar,2024-12-21,Gold
+C03819,Marathahalli,2024-04-27,Bronze
+C03820,Malleshwaram,2023-09-28,Silver
+C03821,Rajajinagar,2023-11-15,Bronze
+C03822,Electronic City,2024-06-29,Silver
+C03823,Jayanagar,2023-06-22,Bronze
+C03824,Koramangala,2024-03-16,Bronze
+C03825,Marathahalli,2024-02-23,Bronze
+C03826,Jayanagar,2024-05-01,Bronze
+C03827,Indiranagar,2023-11-04,Bronze
+C03828,Whitefield,2024-06-24,Bronze
+C03829,BTM Layout,2023-02-22,Bronze
+C03830,Electronic City,2024-07-01,Bronze
+C03831,HSR Layout,2024-08-15,Bronze
+C03832,Electronic City,2024-10-08,Silver
+C03833,HSR Layout,2024-11-04,Bronze
+C03834,HSR Layout,2023-09-13,Bronze
+C03835,Whitefield,2023-02-03,Gold
+C03836,HSR Layout,2024-04-22,Gold
+C03837,Marathahalli,2023-03-07,Bronze
+C03838,Koramangala,2023-07-24,Silver
+C03839,Rajajinagar,2024-05-27,Bronze
+C03840,Whitefield,2024-03-10,Silver
+C03841,Marathahalli,2024-03-18,Bronze
+C03842,Electronic City,2024-07-02,Bronze
+C03843,Electronic City,2023-05-01,Bronze
+C03844,Electronic City,2024-07-31,Bronze
+C03845,BTM Layout,2024-03-04,Bronze
+C03846,Jayanagar,2023-11-03,Silver
+C03847,Marathahalli,2023-12-05,Bronze
+C03848,Marathahalli,2024-01-07,Bronze
+C03849,Indiranagar,2024-02-06,Bronze
+C03850,Whitefield,2023-09-01,Bronze
+C03851,HSR Layout,2023-06-12,Silver
+C03852,Indiranagar,2023-05-04,Bronze
+C03853,Whitefield,2023-09-06,Bronze
+C03854,HSR Layout,2023-07-10,Gold
+C03855,Electronic City,2024-01-12,Bronze
+C03856,Indiranagar,2024-10-27,Silver
+C03857,Rajajinagar,2023-03-20,Bronze
+C03858,HSR Layout,2023-08-14,Bronze
+C03859,Marathahalli,2023-02-05,Bronze
+C03860,Koramangala,2024-12-12,Gold
+C03861,HSR Layout,2024-05-26,Bronze
+C03862,Koramangala,2023-06-26,Silver
+C03863,Marathahalli,2023-10-30,Gold
+C03864,Whitefield,2024-06-11,Bronze
+C03865,BTM Layout,2024-11-30,Silver
+C03866,Whitefield,2024-02-23,Silver
+C03867,Jayanagar,2023-07-17,Silver
+C03868,Indiranagar,2024-05-23,Bronze
+C03869,Electronic City,2024-05-15,Silver
+C03870,HSR Layout,2024-04-15,Bronze
+C03871,Whitefield,2023-02-03,Bronze
+C03872,Indiranagar,2024-05-30,Silver
+C03873,Koramangala,2023-01-15,Bronze
+C03874,Koramangala,2024-10-23,Bronze
+C03875,Yelahanka,2024-10-05,Bronze
+C03876,HSR Layout,2024-02-16,Silver
+C03877,Koramangala,2024-04-16,Silver
+C03878,BTM Layout,2023-02-19,Bronze
+C03879,Koramangala,2024-09-30,Silver
+C03880,HSR Layout,2023-07-17,Bronze
+C03881,Marathahalli,2023-07-11,Silver
+C03882,Hebbal,2024-05-31,Bronze
+C03883,Marathahalli,2024-11-16,Silver
+C03884,HSR Layout,2023-12-27,Bronze
+C03885,Yelahanka,2024-01-06,Bronze
+C03886,Koramangala,2024-02-05,Bronze
+C03887,Yelahanka,2023-08-01,Bronze
+C03888,Malleshwaram,2024-03-11,Bronze
+C03889,BTM Layout,2024-12-02,Gold
+C03890,Indiranagar,2023-10-07,Gold
+C03891,Koramangala,2024-07-18,Bronze
+C03892,Marathahalli,2024-07-18,Bronze
+C03893,Jayanagar,2024-09-13,Silver
+C03894,Jayanagar,2024-06-12,Bronze
+C03895,BTM Layout,2024-11-03,Bronze
+C03896,Electronic City,2024-06-05,Bronze
+C03897,Whitefield,2024-12-13,Gold
+C03898,HSR Layout,2024-06-06,Silver
+C03899,Koramangala,2024-09-02,Silver
+C03900,Indiranagar,2024-10-11,Bronze
+C03901,Koramangala,2024-12-18,Bronze
+C03902,Malleshwaram,2024-03-10,Gold
+C03903,Marathahalli,2024-06-02,Bronze
+C03904,Jayanagar,2024-12-06,Bronze
+C03905,Whitefield,2023-10-05,Silver
+C03906,Marathahalli,2023-03-29,Silver
+C03907,Malleshwaram,2024-10-07,Gold
+C03908,Hebbal,2024-04-06,Bronze
+C03909,Jayanagar,2023-11-09,Gold
+C03910,Malleshwaram,2024-06-07,Bronze
+C03911,Jayanagar,2023-01-24,Gold
+C03912,HSR Layout,2023-12-15,Bronze
+C03913,Hebbal,2023-07-13,Silver
+C03914,Whitefield,2023-07-30,Bronze
+C03915,HSR Layout,2024-12-08,Bronze
+C03916,Whitefield,2024-02-06,Gold
+C03917,Jayanagar,2023-04-13,Bronze
+C03918,Jayanagar,2023-09-24,Bronze
+C03919,Marathahalli,2023-06-27,Bronze
+C03920,HSR Layout,2024-10-25,Silver
+C03921,Indiranagar,2023-08-01,Bronze
+C03922,Hebbal,2023-09-18,Bronze
+C03923,Whitefield,2023-09-01,Bronze
+C03924,BTM Layout,2023-05-09,Bronze
+C03925,Indiranagar,2024-07-23,Bronze
+C03926,Jayanagar,2024-02-25,Bronze
+C03927,Jayanagar,2023-11-15,Silver
+C03928,Malleshwaram,2023-10-17,Gold
+C03929,Koramangala,2024-05-01,Gold
+C03930,Hebbal,2023-03-12,Bronze
+C03931,Jayanagar,2024-11-11,Bronze
+C03932,Electronic City,2024-02-17,Bronze
+C03933,Jayanagar,2023-06-16,Silver
+C03934,Koramangala,2024-01-28,Silver
+C03935,Jayanagar,2024-09-13,Bronze
+C03936,Indiranagar,2023-05-07,Bronze
+C03937,Whitefield,2024-01-18,Bronze
+C03938,Electronic City,2024-03-12,Bronze
+C03939,Jayanagar,2024-08-14,Bronze
+C03940,Koramangala,2024-02-19,Gold
+C03941,Koramangala,2024-06-21,Silver
+C03942,Indiranagar,2024-07-18,Bronze
+C03943,Indiranagar,2024-10-12,Gold
+C03944,Electronic City,2023-09-21,Bronze
+C03945,Indiranagar,2024-05-28,Bronze
+C03946,Hebbal,2023-07-01,Gold
+C03947,Indiranagar,2024-09-08,Gold
+C03948,Koramangala,2024-11-25,Silver
+C03949,Hebbal,2023-08-03,Gold
+C03950,Whitefield,2024-02-14,Silver
+C03951,HSR Layout,2024-08-23,Bronze
+C03952,BTM Layout,2023-01-20,Silver
+C03953,BTM Layout,2024-05-29,Bronze
+C03954,Marathahalli,2024-08-22,Silver
+C03955,Koramangala,2024-09-27,Silver
+C03956,Electronic City,2023-05-24,Silver
+C03957,Yelahanka,2024-07-06,Bronze
+C03958,BTM Layout,2024-07-27,Bronze
+C03959,Koramangala,2023-01-03,Bronze
+C03960,HSR Layout,2024-05-29,Bronze
+C03961,Whitefield,2024-04-02,Bronze
+C03962,Koramangala,2024-12-08,Bronze
+C03963,Marathahalli,2023-02-01,Bronze
+C03964,Indiranagar,2024-12-05,Bronze
+C03965,Whitefield,2024-02-22,Bronze
+C03966,Koramangala,2023-07-20,Silver
+C03967,Jayanagar,2023-10-10,Bronze
+C03968,Koramangala,2024-07-13,Bronze
+C03969,HSR Layout,2024-12-28,Bronze
+C03970,Koramangala,2023-08-20,Gold
+C03971,BTM Layout,2024-12-19,Bronze
+C03972,Koramangala,2024-04-04,Bronze
+C03973,Jayanagar,2023-05-21,Silver
+C03974,Indiranagar,2024-03-12,Gold
+C03975,Koramangala,2024-08-08,Silver
+C03976,Indiranagar,2023-02-09,Bronze
+C03977,Koramangala,2023-02-27,Gold
+C03978,Koramangala,2023-01-04,Bronze
+C03979,Jayanagar,2024-02-21,Silver
+C03980,Electronic City,2023-02-12,Bronze
+C03981,Koramangala,2024-11-11,Silver
+C03982,HSR Layout,2023-04-04,Bronze
+C03983,Electronic City,2023-02-22,Bronze
+C03984,Indiranagar,2023-07-08,Silver
+C03985,Whitefield,2024-07-11,Silver
+C03986,Koramangala,2024-10-24,Silver
+C03987,Indiranagar,2023-07-03,Bronze
+C03988,HSR Layout,2024-01-14,Bronze
+C03989,Yelahanka,2024-07-18,Bronze
+C03990,Yelahanka,2024-08-04,Bronze
+C03991,Yelahanka,2023-04-22,Bronze
+C03992,HSR Layout,2024-09-03,Gold
+C03993,Koramangala,2024-09-25,Silver
+C03994,Whitefield,2024-06-20,Silver
+C03995,Indiranagar,2024-01-20,Bronze
+C03996,Koramangala,2023-10-13,Bronze
+C03997,Koramangala,2024-10-11,Bronze
+C03998,HSR Layout,2024-09-22,Bronze
+C03999,Whitefield,2024-01-14,Silver
+C04000,Indiranagar,2024-06-25,Gold
+C04001,Marathahalli,2023-10-19,Bronze
+C04002,Whitefield,2024-06-26,Bronze
+C04003,Malleshwaram,2023-03-07,Bronze
+C04004,Indiranagar,2024-10-20,Bronze
+C04005,Jayanagar,2024-01-12,Silver
+C04006,Indiranagar,2024-03-13,Bronze
+C04007,Jayanagar,2023-05-19,Bronze
+C04008,Koramangala,2024-01-21,Bronze
+C04009,Indiranagar,2023-01-03,Silver
+C04010,Electronic City,2024-10-11,Bronze
+C04011,Indiranagar,2024-06-30,Bronze
+C04012,Indiranagar,2023-11-28,Bronze
+C04013,BTM Layout,2024-09-02,Silver
+C04014,Koramangala,2024-08-15,Silver
+C04015,Jayanagar,2023-03-28,Bronze
+C04016,Jayanagar,2023-02-09,Bronze
+C04017,Indiranagar,2023-07-05,Bronze
+C04018,HSR Layout,2023-01-01,Bronze
+C04019,Koramangala,2024-02-23,Bronze
+C04020,Marathahalli,2024-01-21,Bronze
+C04021,Indiranagar,2024-01-28,Silver
+C04022,Indiranagar,2023-02-23,Bronze
+C04023,Whitefield,2024-11-01,Bronze
+C04024,Hebbal,2024-12-13,Gold
+C04025,Rajajinagar,2024-03-07,Bronze
+C04026,BTM Layout,2023-01-05,Bronze
+C04027,Electronic City,2023-10-17,Gold
+C04028,Marathahalli,2024-06-08,Bronze
+C04029,HSR Layout,2024-06-30,Silver
+C04030,Hebbal,2023-06-27,Bronze
+C04031,Jayanagar,2024-08-23,Bronze
+C04032,Whitefield,2024-12-07,Silver
+C04033,Electronic City,2024-01-07,Bronze
+C04034,Jayanagar,2023-10-06,Bronze
+C04035,Koramangala,2024-01-20,Gold
+C04036,HSR Layout,2023-01-20,Bronze
+C04037,Whitefield,2024-01-18,Bronze
+C04038,Malleshwaram,2023-01-20,Bronze
+C04039,Whitefield,2023-01-26,Bronze
+C04040,Malleshwaram,2024-02-08,Silver
+C04041,HSR Layout,2024-01-08,Bronze
+C04042,Rajajinagar,2024-12-21,Gold
+C04043,Koramangala,2024-01-06,Silver
+C04044,BTM Layout,2024-12-16,Bronze
+C04045,HSR Layout,2024-08-12,Bronze
+C04046,Indiranagar,2023-09-04,Bronze
+C04047,Indiranagar,2024-11-07,Silver
+C04048,Indiranagar,2023-12-19,Gold
+C04049,Whitefield,2024-03-10,Silver
+C04050,Marathahalli,2023-03-15,Bronze
+C04051,BTM Layout,2023-06-05,Bronze
+C04052,Marathahalli,2024-01-17,Gold
+C04053,Jayanagar,2023-07-18,Gold
+C04054,HSR Layout,2024-03-13,Bronze
+C04055,Malleshwaram,2023-02-28,Gold
+C04056,Malleshwaram,2023-07-03,Silver
+C04057,Whitefield,2024-04-30,Gold
+C04058,BTM Layout,2024-03-22,Gold
+C04059,HSR Layout,2024-12-19,Silver
+C04060,Rajajinagar,2024-10-18,Gold
+C04061,BTM Layout,2024-08-14,Bronze
+C04062,Marathahalli,2023-01-01,Silver
+C04063,Indiranagar,2024-03-15,Silver
+C04064,Electronic City,2023-06-17,Silver
+C04065,Koramangala,2023-07-14,Bronze
+C04066,Rajajinagar,2023-06-03,Bronze
+C04067,Whitefield,2023-11-29,Bronze
+C04068,Marathahalli,2023-04-01,Bronze
+C04069,Hebbal,2024-01-24,Silver
+C04070,Indiranagar,2023-05-02,Bronze
+C04071,HSR Layout,2024-01-01,Bronze
+C04072,Electronic City,2024-04-01,Silver
+C04073,HSR Layout,2023-05-12,Bronze
+C04074,Indiranagar,2023-03-16,Gold
+C04075,Koramangala,2024-08-11,Bronze
+C04076,HSR Layout,2024-06-23,Bronze
+C04077,Electronic City,2023-07-10,Silver
+C04078,Electronic City,2024-10-09,Gold
+C04079,Koramangala,2023-06-11,Silver
+C04080,HSR Layout,2024-11-07,Gold
+C04081,Whitefield,2023-03-24,Gold
+C04082,Indiranagar,2024-04-26,Bronze
+C04083,Marathahalli,2023-01-14,Gold
+C04084,Whitefield,2023-05-25,Bronze
+C04085,Jayanagar,2023-10-23,Bronze
+C04086,BTM Layout,2023-03-04,Bronze
+C04087,Jayanagar,2023-11-30,Silver
+C04088,Electronic City,2023-06-19,Bronze
+C04089,Koramangala,2023-03-14,Gold
+C04090,Indiranagar,2024-12-03,Bronze
+C04091,Koramangala,2024-12-17,Bronze
+C04092,Rajajinagar,2024-12-03,Bronze
+C04093,Malleshwaram,2023-04-23,Bronze
+C04094,Indiranagar,2023-10-06,Silver
+C04095,Indiranagar,2023-08-28,Bronze
+C04096,Whitefield,2023-08-26,Bronze
+C04097,Electronic City,2023-11-01,Silver
+C04098,Electronic City,2024-01-08,Silver
+C04099,Marathahalli,2023-12-21,Bronze
+C04100,Hebbal,2023-08-01,Silver
+C04101,Whitefield,2024-12-16,Silver
+C04102,Electronic City,2024-12-16,Silver
+C04103,Jayanagar,2023-08-30,Silver
+C04104,Whitefield,2023-06-11,Bronze
+C04105,Hebbal,2024-01-24,Bronze
+C04106,Koramangala,2023-09-27,Bronze
+C04107,Marathahalli,2024-12-21,Bronze
+C04108,Marathahalli,2023-11-10,Gold
+C04109,Hebbal,2023-01-30,Bronze
+C04110,Jayanagar,2023-04-02,Gold
+C04111,Whitefield,2023-02-24,Silver
+C04112,Malleshwaram,2023-10-07,Bronze
+C04113,Rajajinagar,2023-08-20,Bronze
+C04114,Jayanagar,2024-09-17,Bronze
+C04115,Rajajinagar,2024-10-12,Silver
+C04116,Indiranagar,2023-04-13,Bronze
+C04117,Electronic City,2024-11-20,Gold
+C04118,Hebbal,2024-03-02,Bronze
+C04119,Whitefield,2023-08-12,Gold
+C04120,HSR Layout,2023-10-24,Bronze
+C04121,BTM Layout,2023-11-19,Silver
+C04122,Rajajinagar,2023-05-05,Silver
+C04123,Hebbal,2024-09-25,Bronze
+C04124,Whitefield,2023-01-10,Silver
+C04125,Yelahanka,2023-02-20,Silver
+C04126,Koramangala,2023-07-19,Bronze
+C04127,Jayanagar,2023-04-15,Bronze
+C04128,HSR Layout,2023-02-15,Gold
+C04129,Rajajinagar,2023-10-07,Silver
+C04130,Hebbal,2023-10-03,Gold
+C04131,Marathahalli,2023-04-02,Silver
+C04132,Electronic City,2024-08-14,Bronze
+C04133,HSR Layout,2024-10-06,Bronze
+C04134,Jayanagar,2024-06-09,Bronze
+C04135,Jayanagar,2024-01-17,Bronze
+C04136,Koramangala,2024-11-22,Silver
+C04137,Jayanagar,2023-09-13,Silver
+C04138,Malleshwaram,2023-11-08,Bronze
+C04139,Marathahalli,2023-01-11,Bronze
+C04140,Rajajinagar,2024-05-31,Bronze
+C04141,HSR Layout,2023-03-09,Bronze
+C04142,Jayanagar,2024-04-30,Bronze
+C04143,Koramangala,2024-07-25,Silver
+C04144,Whitefield,2023-06-08,Bronze
+C04145,HSR Layout,2024-03-22,Bronze
+C04146,Indiranagar,2023-08-10,Gold
+C04147,Koramangala,2023-10-18,Silver
+C04148,Marathahalli,2024-01-22,Bronze
+C04149,HSR Layout,2023-07-02,Silver
+C04150,HSR Layout,2024-08-04,Bronze
+C04151,Indiranagar,2023-10-16,Silver
+C04152,Jayanagar,2023-12-04,Bronze
+C04153,HSR Layout,2024-08-17,Silver
+C04154,HSR Layout,2023-06-16,Bronze
+C04155,Electronic City,2023-11-27,Silver
+C04156,Koramangala,2024-12-26,Bronze
+C04157,Hebbal,2023-10-19,Bronze
+C04158,Koramangala,2023-03-26,Gold
+C04159,HSR Layout,2023-07-27,Gold
+C04160,Indiranagar,2024-11-28,Gold
+C04161,Jayanagar,2024-07-08,Silver
+C04162,Whitefield,2024-08-13,Bronze
+C04163,Hebbal,2023-07-05,Silver
+C04164,HSR Layout,2024-09-04,Bronze
+C04165,Electronic City,2023-10-15,Bronze
+C04166,Indiranagar,2024-08-03,Bronze
+C04167,Koramangala,2024-10-05,Silver
+C04168,HSR Layout,2023-06-01,Bronze
+C04169,Jayanagar,2024-11-16,Bronze
+C04170,HSR Layout,2024-04-06,Bronze
+C04171,BTM Layout,2024-06-17,Bronze
+C04172,Marathahalli,2024-07-06,Bronze
+C04173,Yelahanka,2023-05-03,Silver
+C04174,Whitefield,2024-06-28,Gold
+C04175,Rajajinagar,2023-06-05,Bronze
+C04176,Jayanagar,2023-07-18,Silver
+C04177,Electronic City,2023-03-27,Gold
+C04178,Yelahanka,2023-05-13,Bronze
+C04179,Electronic City,2024-12-15,Silver
+C04180,Hebbal,2023-08-28,Bronze
+C04181,Marathahalli,2023-10-10,Bronze
+C04182,Koramangala,2023-12-17,Silver
+C04183,Marathahalli,2024-06-04,Bronze
+C04184,HSR Layout,2024-02-23,Bronze
+C04185,Hebbal,2024-01-27,Silver
+C04186,Rajajinagar,2024-09-02,Bronze
+C04187,Koramangala,2023-12-29,Silver
+C04188,Koramangala,2024-07-15,Bronze
+C04189,Koramangala,2024-10-26,Gold
+C04190,Jayanagar,2024-05-08,Silver
+C04191,Koramangala,2023-01-26,Bronze
+C04192,Marathahalli,2023-07-12,Bronze
+C04193,Jayanagar,2024-03-26,Bronze
+C04194,Malleshwaram,2023-12-16,Silver
+C04195,Indiranagar,2023-07-27,Bronze
+C04196,Jayanagar,2023-09-02,Silver
+C04197,Koramangala,2023-02-27,Bronze
+C04198,Hebbal,2023-06-21,Bronze
+C04199,Indiranagar,2024-07-25,Bronze
+C04200,Koramangala,2023-01-08,Gold
+C04201,Indiranagar,2024-09-02,Silver
+C04202,Rajajinagar,2023-09-05,Silver
+C04203,Koramangala,2024-08-12,Bronze
+C04204,Electronic City,2023-07-06,Bronze
+C04205,Marathahalli,2024-08-28,Bronze
+C04206,Rajajinagar,2024-02-22,Silver
+C04207,Indiranagar,2024-09-13,Bronze
+C04208,Koramangala,2023-02-15,Bronze
+C04209,HSR Layout,2024-08-05,Bronze
+C04210,Indiranagar,2023-07-17,Bronze
+C04211,Marathahalli,2023-09-19,Silver
+C04212,Whitefield,2023-02-02,Silver
+C04213,HSR Layout,2024-11-27,Bronze
+C04214,Koramangala,2024-04-13,Bronze
+C04215,Jayanagar,2024-12-17,Bronze
+C04216,Indiranagar,2024-02-19,Gold
+C04217,Marathahalli,2023-04-26,Bronze
+C04218,Koramangala,2023-09-04,Bronze
+C04219,Yelahanka,2023-11-18,Bronze
+C04220,Marathahalli,2023-04-18,Silver
+C04221,Indiranagar,2024-11-10,Bronze
+C04222,Koramangala,2024-11-30,Bronze
+C04223,Whitefield,2024-02-16,Gold
+C04224,Koramangala,2024-03-02,Silver
+C04225,Indiranagar,2024-05-28,Bronze
+C04226,Hebbal,2024-05-10,Bronze
+C04227,Electronic City,2023-02-15,Bronze
+C04228,Indiranagar,2024-01-23,Bronze
+C04229,Jayanagar,2024-07-21,Silver
+C04230,Indiranagar,2024-08-11,Bronze
+C04231,Yelahanka,2024-03-11,Bronze
+C04232,Koramangala,2024-10-16,Bronze
+C04233,Marathahalli,2024-03-03,Silver
+C04234,Rajajinagar,2023-10-07,Silver
+C04235,Koramangala,2023-11-20,Gold
+C04236,Indiranagar,2024-05-18,Silver
+C04237,Whitefield,2024-10-09,Bronze
+C04238,Hebbal,2023-06-17,Bronze
+C04239,Jayanagar,2023-08-03,Silver
+C04240,Electronic City,2024-04-20,Silver
+C04241,Rajajinagar,2024-07-11,Bronze
+C04242,Malleshwaram,2023-10-19,Silver
+C04243,HSR Layout,2024-04-14,Bronze
+C04244,Jayanagar,2023-01-05,Gold
+C04245,Marathahalli,2023-08-01,Silver
+C04246,Indiranagar,2024-11-28,Silver
+C04247,Malleshwaram,2024-02-25,Bronze
+C04248,Koramangala,2024-09-25,Bronze
+C04249,Indiranagar,2023-06-08,Bronze
+C04250,Rajajinagar,2023-08-01,Bronze
+C04251,Whitefield,2024-12-12,Bronze
+C04252,Koramangala,2024-12-29,Gold
+C04253,Indiranagar,2024-10-02,Bronze
+C04254,Jayanagar,2023-08-20,Gold
+C04255,Malleshwaram,2024-08-08,Bronze
+C04256,Koramangala,2023-12-01,Silver
+C04257,Koramangala,2024-09-08,Gold
+C04258,HSR Layout,2024-09-13,Bronze
+C04259,BTM Layout,2023-11-14,Silver
+C04260,Indiranagar,2023-08-11,Bronze
+C04261,BTM Layout,2024-12-12,Bronze
+C04262,Hebbal,2023-11-25,Silver
+C04263,Whitefield,2023-11-12,Bronze
+C04264,Malleshwaram,2024-04-30,Bronze
+C04265,Marathahalli,2024-11-14,Bronze
+C04266,Jayanagar,2023-04-06,Bronze
+C04267,HSR Layout,2024-12-19,Silver
+C04268,Malleshwaram,2023-11-05,Bronze
+C04269,Rajajinagar,2023-01-19,Bronze
+C04270,Rajajinagar,2023-08-14,Silver
+C04271,Yelahanka,2023-12-04,Gold
+C04272,HSR Layout,2024-05-09,Silver
+C04273,Rajajinagar,2024-02-18,Silver
+C04274,Hebbal,2023-04-10,Bronze
+C04275,Indiranagar,2023-12-23,Bronze
+C04276,Koramangala,2023-06-19,Silver
+C04277,HSR Layout,2023-07-16,Bronze
+C04278,Malleshwaram,2024-06-03,Bronze
+C04279,Whitefield,2024-08-09,Bronze
+C04280,Marathahalli,2023-04-25,Bronze
+C04281,Koramangala,2024-03-15,Gold
+C04282,Whitefield,2023-11-05,Bronze
+C04283,Electronic City,2023-09-03,Bronze
+C04284,Koramangala,2024-06-04,Silver
+C04285,Hebbal,2023-07-01,Bronze
+C04286,Koramangala,2024-07-12,Bronze
+C04287,Hebbal,2023-10-20,Silver
+C04288,Indiranagar,2023-03-11,Bronze
+C04289,Yelahanka,2024-08-01,Bronze
+C04290,Electronic City,2024-09-13,Bronze
+C04291,Koramangala,2024-02-16,Bronze
+C04292,Koramangala,2024-06-12,Silver
+C04293,Koramangala,2023-04-18,Silver
+C04294,Electronic City,2023-09-05,Bronze
+C04295,Rajajinagar,2023-09-13,Bronze
+C04296,HSR Layout,2024-07-11,Gold
+C04297,HSR Layout,2023-09-14,Gold
+C04298,Electronic City,2024-06-15,Bronze
+C04299,Jayanagar,2023-08-12,Gold
+C04300,Marathahalli,2024-03-14,Bronze
+C04301,HSR Layout,2023-06-03,Bronze
+C04302,Marathahalli,2024-02-12,Bronze
+C04303,Yelahanka,2023-02-28,Bronze
+C04304,Whitefield,2024-06-20,Silver
+C04305,Koramangala,2023-01-22,Silver
+C04306,Koramangala,2024-12-30,Bronze
+C04307,Jayanagar,2024-09-04,Bronze
+C04308,Whitefield,2024-02-27,Silver
+C04309,BTM Layout,2024-10-25,Silver
+C04310,Electronic City,2024-08-13,Silver
+C04311,Jayanagar,2023-04-15,Bronze
+C04312,Rajajinagar,2024-06-27,Bronze
+C04313,Indiranagar,2023-10-03,Gold
+C04314,Malleshwaram,2024-09-16,Silver
+C04315,Koramangala,2024-09-22,Bronze
+C04316,Electronic City,2024-11-27,Gold
+C04317,BTM Layout,2023-11-26,Bronze
+C04318,Rajajinagar,2023-05-21,Bronze
+C04319,Malleshwaram,2023-04-02,Gold
+C04320,HSR Layout,2023-05-01,Bronze
+C04321,Malleshwaram,2024-12-25,Bronze
+C04322,Jayanagar,2024-03-04,Silver
+C04323,Electronic City,2023-09-14,Silver
+C04324,Koramangala,2023-11-24,Bronze
+C04325,Indiranagar,2023-05-07,Silver
+C04326,Jayanagar,2024-02-21,Gold
+C04327,Koramangala,2023-11-07,Silver
+C04328,Marathahalli,2024-08-05,Bronze
+C04329,Malleshwaram,2023-01-16,Bronze
+C04330,BTM Layout,2024-11-11,Silver
+C04331,Koramangala,2023-02-14,Bronze
+C04332,BTM Layout,2023-11-01,Bronze
+C04333,Koramangala,2023-09-06,Bronze
+C04334,HSR Layout,2024-06-08,Bronze
+C04335,Malleshwaram,2024-04-25,Bronze
+C04336,Koramangala,2023-05-24,Gold
+C04337,Koramangala,2023-12-25,Bronze
+C04338,Koramangala,2024-01-26,Bronze
+C04339,Jayanagar,2023-12-05,Gold
+C04340,Malleshwaram,2023-01-16,Bronze
+C04341,Koramangala,2023-05-11,Silver
+C04342,Koramangala,2024-01-03,Bronze
+C04343,Jayanagar,2023-07-10,Bronze
+C04344,Indiranagar,2024-02-03,Bronze
+C04345,Marathahalli,2023-04-30,Bronze
+C04346,BTM Layout,2024-06-20,Silver
+C04347,Rajajinagar,2023-05-18,Bronze
+C04348,Hebbal,2024-04-19,Gold
+C04349,Jayanagar,2024-09-02,Bronze
+C04350,Malleshwaram,2023-09-19,Bronze
+C04351,Indiranagar,2023-04-12,Bronze
+C04352,Koramangala,2023-01-05,Gold
+C04353,Electronic City,2023-09-21,Silver
+C04354,Koramangala,2023-03-26,Bronze
+C04355,Hebbal,2024-10-05,Bronze
+C04356,Marathahalli,2024-12-11,Bronze
+C04357,BTM Layout,2024-12-16,Bronze
+C04358,Whitefield,2024-11-04,Silver
+C04359,HSR Layout,2024-03-04,Bronze
+C04360,Marathahalli,2023-08-26,Bronze
+C04361,Indiranagar,2023-11-22,Silver
+C04362,Jayanagar,2023-07-08,Bronze
+C04363,Electronic City,2024-09-05,Silver
+C04364,Yelahanka,2023-11-15,Silver
+C04365,Marathahalli,2023-10-09,Bronze
+C04366,Koramangala,2024-05-18,Bronze
+C04367,HSR Layout,2023-09-30,Bronze
+C04368,Electronic City,2023-09-18,Silver
+C04369,Koramangala,2023-06-15,Bronze
+C04370,HSR Layout,2023-02-19,Bronze
+C04371,Whitefield,2023-01-28,Silver
+C04372,Koramangala,2023-10-22,Bronze
+C04373,Jayanagar,2024-12-27,Bronze
+C04374,Indiranagar,2023-07-10,Bronze
+C04375,Electronic City,2024-04-12,Silver
+C04376,Indiranagar,2023-08-26,Silver
+C04377,Marathahalli,2023-08-09,Bronze
+C04378,Indiranagar,2023-04-29,Bronze
+C04379,Hebbal,2024-02-16,Silver
+C04380,Koramangala,2024-04-25,Bronze
+C04381,Jayanagar,2023-09-13,Bronze
+C04382,Whitefield,2024-01-20,Silver
+C04383,Indiranagar,2023-12-14,Silver
+C04384,HSR Layout,2023-07-17,Bronze
+C04385,Malleshwaram,2024-05-19,Bronze
+C04386,Hebbal,2024-02-09,Silver
+C04387,Whitefield,2023-02-18,Bronze
+C04388,Koramangala,2023-12-26,Gold
+C04389,Marathahalli,2023-10-12,Gold
+C04390,Electronic City,2024-08-04,Gold
+C04391,Indiranagar,2023-08-12,Bronze
+C04392,Rajajinagar,2024-11-28,Bronze
+C04393,Jayanagar,2024-03-24,Gold
+C04394,Electronic City,2023-04-06,Silver
+C04395,Whitefield,2023-10-22,Bronze
+C04396,HSR Layout,2024-10-07,Bronze
+C04397,Indiranagar,2023-07-05,Bronze
+C04398,Rajajinagar,2024-05-29,Silver
+C04399,Koramangala,2024-07-25,Bronze
+C04400,Rajajinagar,2024-05-20,Bronze
+C04401,Rajajinagar,2023-03-07,Bronze
+C04402,Marathahalli,2023-10-01,Silver
+C04403,Koramangala,2023-09-12,Bronze
+C04404,Indiranagar,2023-09-09,Bronze
+C04405,HSR Layout,2024-10-03,Silver
+C04406,Electronic City,2023-01-05,Silver
+C04407,Hebbal,2024-01-29,Silver
+C04408,Whitefield,2024-12-18,Gold
+C04409,Hebbal,2024-10-01,Gold
+C04410,Indiranagar,2024-03-18,Bronze
+C04411,Whitefield,2024-12-29,Gold
+C04412,Koramangala,2023-10-21,Silver
+C04413,Marathahalli,2024-03-22,Bronze
+C04414,Koramangala,2024-02-01,Gold
+C04415,Indiranagar,2023-02-04,Bronze
+C04416,Rajajinagar,2023-01-30,Bronze
+C04417,Jayanagar,2024-10-16,Bronze
+C04418,Koramangala,2023-05-07,Silver
+C04419,Koramangala,2023-09-17,Bronze
+C04420,Jayanagar,2024-03-31,Bronze
+C04421,Whitefield,2024-02-25,Gold
+C04422,Indiranagar,2024-01-11,Bronze
+C04423,Electronic City,2024-12-15,Bronze
+C04424,Indiranagar,2024-07-28,Bronze
+C04425,Electronic City,2024-11-18,Silver
+C04426,Whitefield,2024-04-25,Bronze
+C04427,Indiranagar,2024-12-15,Bronze
+C04428,Koramangala,2024-03-15,Gold
+C04429,Indiranagar,2024-01-31,Gold
+C04430,Koramangala,2024-08-18,Bronze
+C04431,Whitefield,2024-09-26,Silver
+C04432,Hebbal,2023-02-19,Bronze
+C04433,Malleshwaram,2024-10-26,Bronze
+C04434,Whitefield,2024-05-19,Bronze
+C04435,Electronic City,2024-10-17,Gold
+C04436,Jayanagar,2024-06-06,Bronze
+C04437,Malleshwaram,2024-11-07,Silver
+C04438,Indiranagar,2023-07-20,Bronze
+C04439,Whitefield,2023-05-17,Gold
+C04440,Whitefield,2023-05-23,Bronze
+C04441,Koramangala,2023-07-04,Bronze
+C04442,Whitefield,2023-06-06,Bronze
+C04443,Hebbal,2023-11-19,Bronze
+C04444,Hebbal,2023-05-25,Bronze
+C04445,Koramangala,2023-04-26,Bronze
+C04446,HSR Layout,2024-01-18,Bronze
+C04447,Whitefield,2024-08-02,Silver
+C04448,HSR Layout,2023-04-10,Bronze
+C04449,Jayanagar,2024-01-09,Bronze
+C04450,Koramangala,2024-04-26,Silver
+C04451,Malleshwaram,2024-05-30,Bronze
+C04452,Yelahanka,2023-03-18,Gold
+C04453,Electronic City,2024-06-19,Silver
+C04454,Marathahalli,2023-01-20,Bronze
+C04455,Jayanagar,2023-06-22,Bronze
+C04456,Whitefield,2023-08-22,Silver
+C04457,Koramangala,2024-09-14,Bronze
+C04458,Electronic City,2023-05-21,Bronze
+C04459,Koramangala,2024-07-25,Bronze
+C04460,Malleshwaram,2024-12-22,Bronze
+C04461,HSR Layout,2024-12-01,Gold
+C04462,HSR Layout,2023-08-10,Gold
+C04463,Whitefield,2023-03-11,Silver
+C04464,BTM Layout,2023-06-12,Silver
+C04465,Indiranagar,2024-07-15,Silver
+C04466,Koramangala,2023-05-24,Silver
+C04467,Indiranagar,2024-04-16,Bronze
+C04468,Electronic City,2023-09-30,Silver
+C04469,Yelahanka,2024-07-13,Bronze
+C04470,Indiranagar,2024-03-18,Gold
+C04471,Hebbal,2024-03-03,Silver
+C04472,Indiranagar,2024-07-24,Gold
+C04473,Electronic City,2024-11-28,Silver
+C04474,Koramangala,2023-09-24,Silver
+C04475,Jayanagar,2024-01-22,Gold
+C04476,Electronic City,2024-04-01,Bronze
+C04477,Jayanagar,2024-08-23,Bronze
+C04478,Indiranagar,2023-12-18,Bronze
+C04479,Malleshwaram,2023-10-01,Bronze
+C04480,Yelahanka,2024-09-09,Silver
+C04481,HSR Layout,2024-11-26,Bronze
+C04482,Electronic City,2024-02-20,Bronze
+C04483,Rajajinagar,2023-03-17,Bronze
+C04484,Indiranagar,2023-07-31,Gold
+C04485,Hebbal,2023-12-04,Bronze
+C04486,Whitefield,2024-05-28,Bronze
+C04487,Rajajinagar,2024-05-03,Gold
+C04488,Koramangala,2024-08-21,Bronze
+C04489,Whitefield,2023-01-22,Gold
+C04490,Jayanagar,2023-12-06,Bronze
+C04491,Jayanagar,2024-05-26,Silver
+C04492,Malleshwaram,2024-12-21,Bronze
+C04493,Yelahanka,2023-04-14,Silver
+C04494,Koramangala,2024-10-03,Bronze
+C04495,Indiranagar,2023-01-06,Silver
+C04496,Whitefield,2023-05-24,Bronze
+C04497,HSR Layout,2024-09-10,Bronze
+C04498,Jayanagar,2024-07-28,Gold
+C04499,Malleshwaram,2024-12-11,Gold
+C04500,Rajajinagar,2024-03-14,Silver
+C04501,Koramangala,2024-03-25,Bronze
+C04502,HSR Layout,2024-01-26,Gold
+C04503,Electronic City,2024-01-09,Bronze
+C04504,HSR Layout,2024-01-11,Silver
+C04505,Koramangala,2023-08-02,Silver
+C04506,HSR Layout,2024-09-14,Bronze
+C04507,HSR Layout,2023-09-18,Bronze
+C04508,Indiranagar,2024-03-21,Bronze
+C04509,Rajajinagar,2024-05-03,Bronze
+C04510,Whitefield,2024-01-28,Silver
+C04511,Electronic City,2024-03-22,Bronze
+C04512,Jayanagar,2023-02-05,Silver
+C04513,Hebbal,2023-08-19,Bronze
+C04514,Koramangala,2023-11-24,Bronze
+C04515,Koramangala,2023-10-15,Bronze
+C04516,Whitefield,2024-10-24,Bronze
+C04517,HSR Layout,2024-10-16,Silver
+C04518,Whitefield,2024-06-03,Silver
+C04519,Rajajinagar,2023-09-15,Bronze
+C04520,Indiranagar,2023-02-07,Silver
+C04521,Koramangala,2024-07-05,Bronze
+C04522,HSR Layout,2024-10-07,Bronze
+C04523,Rajajinagar,2023-12-24,Bronze
+C04524,Malleshwaram,2024-08-26,Bronze
+C04525,Marathahalli,2024-11-10,Bronze
+C04526,Jayanagar,2024-02-04,Bronze
+C04527,Marathahalli,2023-06-02,Bronze
+C04528,Marathahalli,2023-01-17,Gold
+C04529,Indiranagar,2024-07-06,Bronze
+C04530,Jayanagar,2024-02-15,Bronze
+C04531,Rajajinagar,2023-04-23,Bronze
+C04532,Whitefield,2023-02-09,Bronze
+C04533,Electronic City,2024-12-08,Silver
+C04534,HSR Layout,2023-08-22,Silver
+C04535,Jayanagar,2023-08-27,Gold
+C04536,Koramangala,2024-04-04,Bronze
+C04537,Marathahalli,2023-09-24,Bronze
+C04538,Hebbal,2024-10-28,Silver
+C04539,Koramangala,2024-05-12,Silver
+C04540,Whitefield,2023-09-19,Gold
+C04541,Koramangala,2023-07-14,Silver
+C04542,Koramangala,2024-09-19,Bronze
+C04543,Yelahanka,2024-03-07,Gold
+C04544,Jayanagar,2024-11-01,Bronze
+C04545,Whitefield,2023-09-09,Bronze
+C04546,Indiranagar,2023-01-16,Silver
+C04547,Yelahanka,2024-10-18,Gold
+C04548,Indiranagar,2023-06-24,Silver
+C04549,Marathahalli,2024-09-09,Bronze
+C04550,Whitefield,2024-06-02,Bronze
+C04551,Koramangala,2023-06-19,Bronze
+C04552,Marathahalli,2024-07-06,Bronze
+C04553,Koramangala,2023-03-01,Bronze
+C04554,Marathahalli,2023-10-14,Bronze
+C04555,Indiranagar,2023-09-18,Silver
+C04556,Marathahalli,2024-04-24,Bronze
+C04557,Rajajinagar,2024-01-26,Gold
+C04558,Marathahalli,2024-03-22,Bronze
+C04559,Koramangala,2023-12-14,Bronze
+C04560,Marathahalli,2024-06-24,Bronze
+C04561,Yelahanka,2023-04-27,Gold
+C04562,Indiranagar,2024-06-08,Silver
+C04563,Indiranagar,2023-02-06,Bronze
+C04564,Malleshwaram,2023-03-04,Gold
+C04565,Indiranagar,2024-06-12,Bronze
+C04566,Marathahalli,2023-04-26,Bronze
+C04567,Rajajinagar,2024-07-16,Bronze
+C04568,Koramangala,2023-04-07,Bronze
+C04569,Jayanagar,2023-04-18,Silver
+C04570,Electronic City,2024-11-11,Silver
+C04571,Whitefield,2023-05-10,Bronze
+C04572,Hebbal,2024-10-28,Gold
+C04573,Indiranagar,2023-09-12,Silver
+C04574,Whitefield,2024-08-05,Gold
+C04575,Malleshwaram,2024-11-16,Bronze
+C04576,Indiranagar,2023-03-27,Silver
+C04577,Malleshwaram,2023-08-30,Silver
+C04578,Koramangala,2024-02-24,Bronze
+C04579,HSR Layout,2024-09-23,Gold
+C04580,Koramangala,2023-05-17,Silver
+C04581,Marathahalli,2023-05-17,Bronze
+C04582,Rajajinagar,2023-09-26,Bronze
+C04583,Malleshwaram,2023-05-30,Silver
+C04584,Yelahanka,2023-07-14,Bronze
+C04585,Marathahalli,2023-04-05,Bronze
+C04586,Rajajinagar,2024-08-28,Bronze
+C04587,Jayanagar,2024-08-04,Bronze
+C04588,Hebbal,2023-04-16,Bronze
+C04589,Electronic City,2024-01-27,Bronze
+C04590,Hebbal,2024-04-16,Bronze
+C04591,Indiranagar,2024-04-03,Bronze
+C04592,Jayanagar,2024-12-19,Silver
+C04593,Marathahalli,2024-04-13,Gold
+C04594,Indiranagar,2024-05-16,Bronze
+C04595,Indiranagar,2023-01-24,Bronze
+C04596,Yelahanka,2023-02-27,Gold
+C04597,HSR Layout,2024-03-27,Silver
+C04598,Indiranagar,2024-10-24,Bronze
+C04599,Whitefield,2023-10-19,Gold
+C04600,HSR Layout,2024-04-14,Bronze
+C04601,Electronic City,2023-06-03,Bronze
+C04602,BTM Layout,2023-11-30,Bronze
+C04603,Yelahanka,2024-07-02,Bronze
+C04604,Electronic City,2024-04-26,Bronze
+C04605,Marathahalli,2023-03-25,Bronze
+C04606,Whitefield,2024-10-03,Silver
+C04607,Malleshwaram,2024-11-07,Bronze
+C04608,Indiranagar,2023-12-15,Bronze
+C04609,Koramangala,2023-09-06,Silver
+C04610,Yelahanka,2024-01-23,Bronze
+C04611,Hebbal,2024-08-07,Gold
+C04612,Whitefield,2023-11-27,Bronze
+C04613,Marathahalli,2023-01-22,Silver
+C04614,HSR Layout,2023-02-22,Silver
+C04615,Whitefield,2024-08-15,Silver
+C04616,Whitefield,2024-07-28,Silver
+C04617,Koramangala,2024-07-17,Silver
+C04618,Jayanagar,2023-04-03,Gold
+C04619,HSR Layout,2023-05-05,Silver
+C04620,Jayanagar,2023-10-16,Bronze
+C04621,Indiranagar,2023-06-18,Silver
+C04622,BTM Layout,2023-10-10,Gold
+C04623,Electronic City,2024-02-12,Gold
+C04624,Hebbal,2023-07-24,Bronze
+C04625,Koramangala,2023-04-01,Bronze
+C04626,Electronic City,2023-10-21,Bronze
+C04627,Malleshwaram,2024-06-11,Bronze
+C04628,Whitefield,2024-03-27,Bronze
+C04629,Indiranagar,2023-08-23,Bronze
+C04630,Indiranagar,2023-08-16,Bronze
+C04631,Indiranagar,2024-03-02,Silver
+C04632,HSR Layout,2023-05-06,Bronze
+C04633,Whitefield,2024-08-31,Bronze
+C04634,Indiranagar,2024-09-26,Silver
+C04635,Electronic City,2023-01-19,Bronze
+C04636,Koramangala,2024-12-09,Silver
+C04637,Whitefield,2023-01-18,Bronze
+C04638,Marathahalli,2023-12-01,Bronze
+C04639,Indiranagar,2024-05-02,Bronze
+C04640,Indiranagar,2023-08-27,Silver
+C04641,Indiranagar,2023-05-29,Bronze
+C04642,Koramangala,2023-02-04,Silver
+C04643,HSR Layout,2024-06-14,Bronze
+C04644,Koramangala,2023-01-27,Silver
+C04645,Indiranagar,2023-12-20,Bronze
+C04646,Yelahanka,2023-10-14,Gold
+C04647,Hebbal,2024-12-07,Bronze
+C04648,Indiranagar,2024-11-10,Bronze
+C04649,Whitefield,2024-08-19,Bronze
+C04650,HSR Layout,2024-06-17,Silver
+C04651,Malleshwaram,2024-02-01,Bronze
+C04652,Rajajinagar,2023-09-12,Bronze
+C04653,Koramangala,2023-05-02,Bronze
+C04654,Koramangala,2024-12-07,Gold
+C04655,HSR Layout,2023-10-08,Bronze
+C04656,Hebbal,2023-11-09,Silver
+C04657,Hebbal,2023-04-14,Gold
+C04658,Koramangala,2023-07-22,Bronze
+C04659,Electronic City,2024-04-08,Silver
+C04660,Koramangala,2023-11-08,Silver
+C04661,Marathahalli,2024-03-03,Bronze
+C04662,Hebbal,2023-06-04,Silver
+C04663,HSR Layout,2023-03-01,Gold
+C04664,Koramangala,2024-10-08,Bronze
+C04665,Electronic City,2023-11-12,Silver
+C04666,HSR Layout,2023-09-21,Silver
+C04667,Malleshwaram,2023-07-28,Bronze
+C04668,Whitefield,2024-04-25,Bronze
+C04669,Hebbal,2024-02-16,Silver
+C04670,Indiranagar,2023-10-12,Gold
+C04671,Koramangala,2024-11-10,Bronze
+C04672,Whitefield,2024-10-20,Bronze
+C04673,Koramangala,2023-05-25,Silver
+C04674,Whitefield,2024-04-13,Bronze
+C04675,Marathahalli,2024-12-07,Silver
+C04676,Koramangala,2023-12-23,Silver
+C04677,Koramangala,2023-01-23,Bronze
+C04678,Koramangala,2023-04-07,Bronze
+C04679,Koramangala,2024-05-02,Silver
+C04680,Hebbal,2024-10-20,Bronze
+C04681,BTM Layout,2023-04-04,Bronze
+C04682,Koramangala,2024-02-04,Silver
+C04683,Rajajinagar,2023-12-29,Silver
+C04684,Marathahalli,2023-07-28,Bronze
+C04685,Yelahanka,2024-04-06,Bronze
+C04686,Whitefield,2024-10-02,Gold
+C04687,Whitefield,2023-06-24,Bronze
+C04688,HSR Layout,2023-02-09,Silver
+C04689,Malleshwaram,2023-09-20,Silver
+C04690,Marathahalli,2023-08-18,Bronze
+C04691,HSR Layout,2024-06-14,Gold
+C04692,Indiranagar,2024-01-27,Bronze
+C04693,Marathahalli,2023-01-14,Silver
+C04694,Malleshwaram,2023-09-06,Bronze
+C04695,HSR Layout,2024-06-20,Silver
+C04696,Marathahalli,2023-12-15,Bronze
+C04697,HSR Layout,2024-02-15,Bronze
+C04698,HSR Layout,2023-07-12,Bronze
+C04699,Jayanagar,2023-08-22,Bronze
+C04700,Rajajinagar,2023-04-05,Bronze
+C04701,Yelahanka,2023-03-01,Bronze
+C04702,HSR Layout,2023-01-27,Silver
+C04703,Whitefield,2024-03-31,Silver
+C04704,Whitefield,2023-04-26,Gold
+C04705,Koramangala,2024-02-23,Bronze
+C04706,Whitefield,2024-11-26,Bronze
+C04707,Koramangala,2024-05-23,Bronze
+C04708,HSR Layout,2024-02-25,Gold
+C04709,Indiranagar,2023-03-27,Bronze
+C04710,Whitefield,2023-12-23,Bronze
+C04711,Rajajinagar,2024-10-12,Bronze
+C04712,Indiranagar,2023-10-08,Silver
+C04713,Electronic City,2024-08-26,Bronze
+C04714,Hebbal,2024-06-01,Silver
+C04715,Jayanagar,2023-07-14,Bronze
+C04716,Indiranagar,2023-04-14,Bronze
+C04717,Whitefield,2023-01-13,Silver
+C04718,Electronic City,2023-07-21,Gold
+C04719,Jayanagar,2023-09-01,Gold
+C04720,Koramangala,2024-04-23,Silver
+C04721,HSR Layout,2024-02-22,Bronze
+C04722,Jayanagar,2023-12-16,Bronze
+C04723,Indiranagar,2024-06-11,Bronze
+C04724,Electronic City,2024-07-16,Bronze
+C04725,Koramangala,2024-06-04,Gold
+C04726,Whitefield,2024-10-16,Silver
+C04727,Rajajinagar,2023-09-20,Silver
+C04728,Indiranagar,2024-08-24,Bronze
+C04729,Electronic City,2023-11-04,Silver
+C04730,HSR Layout,2023-05-15,Bronze
+C04731,Whitefield,2023-04-17,Bronze
+C04732,Hebbal,2023-03-08,Bronze
+C04733,Whitefield,2024-11-28,Bronze
+C04734,Indiranagar,2023-05-04,Bronze
+C04735,Hebbal,2024-09-01,Gold
+C04736,Marathahalli,2024-07-25,Gold
+C04737,Marathahalli,2023-11-17,Bronze
+C04738,Koramangala,2024-10-29,Bronze
+C04739,Koramangala,2024-10-25,Gold
+C04740,Electronic City,2024-11-06,Gold
+C04741,Indiranagar,2023-12-29,Silver
+C04742,Indiranagar,2023-08-06,Bronze
+C04743,Rajajinagar,2023-02-01,Silver
+C04744,Whitefield,2024-09-05,Silver
+C04745,Koramangala,2024-09-29,Bronze
+C04746,Koramangala,2024-01-27,Bronze
+C04747,HSR Layout,2023-02-21,Silver
+C04748,Electronic City,2024-08-23,Gold
+C04749,Hebbal,2023-08-06,Bronze
+C04750,Koramangala,2024-02-05,Bronze
+C04751,Indiranagar,2024-04-26,Bronze
+C04752,Jayanagar,2023-04-17,Bronze
+C04753,Whitefield,2023-02-15,Bronze
+C04754,HSR Layout,2023-02-27,Bronze
+C04755,BTM Layout,2024-12-01,Bronze
+C04756,Jayanagar,2024-11-29,Bronze
+C04757,HSR Layout,2023-11-08,Bronze
+C04758,Yelahanka,2023-11-07,Bronze
+C04759,Koramangala,2023-10-24,Bronze
+C04760,BTM Layout,2023-09-13,Bronze
+C04761,Jayanagar,2024-02-01,Bronze
+C04762,Jayanagar,2023-09-18,Bronze
+C04763,BTM Layout,2024-03-25,Bronze
+C04764,Jayanagar,2023-10-04,Bronze
+C04765,HSR Layout,2024-04-04,Silver
+C04766,Indiranagar,2024-11-20,Bronze
+C04767,Electronic City,2023-05-31,Bronze
+C04768,Jayanagar,2023-02-15,Silver
+C04769,Indiranagar,2024-01-20,Bronze
+C04770,Marathahalli,2023-03-28,Bronze
+C04771,Electronic City,2023-06-18,Silver
+C04772,HSR Layout,2024-07-30,Silver
+C04773,Koramangala,2023-11-02,Gold
+C04774,HSR Layout,2024-02-06,Gold
+C04775,Koramangala,2024-07-20,Bronze
+C04776,Koramangala,2023-04-04,Bronze
+C04777,HSR Layout,2023-12-16,Bronze
+C04778,Koramangala,2023-01-26,Bronze
+C04779,Indiranagar,2023-12-31,Bronze
+C04780,Electronic City,2023-06-13,Bronze
+C04781,Whitefield,2024-10-27,Silver
+C04782,Yelahanka,2023-07-10,Bronze
+C04783,Hebbal,2023-05-27,Bronze
+C04784,Electronic City,2023-01-11,Bronze
+C04785,BTM Layout,2023-04-08,Bronze
+C04786,Hebbal,2023-06-07,Bronze
+C04787,Whitefield,2023-06-16,Silver
+C04788,Marathahalli,2024-06-22,Silver
+C04789,Koramangala,2024-10-09,Silver
+C04790,Marathahalli,2024-09-16,Silver
+C04791,Jayanagar,2024-11-29,Bronze
+C04792,Koramangala,2024-10-17,Silver
+C04793,Indiranagar,2023-11-29,Silver
+C04794,BTM Layout,2023-10-12,Bronze
+C04795,Whitefield,2024-04-18,Bronze
+C04796,Indiranagar,2023-08-22,Silver
+C04797,Indiranagar,2024-03-16,Silver
+C04798,HSR Layout,2024-12-30,Bronze
+C04799,Malleshwaram,2023-05-25,Silver
+C04800,Rajajinagar,2024-07-15,Bronze
+C04801,HSR Layout,2024-11-13,Gold
+C04802,Indiranagar,2024-01-28,Silver
+C04803,Koramangala,2023-09-17,Bronze
+C04804,HSR Layout,2023-07-05,Bronze
+C04805,Malleshwaram,2023-05-03,Silver
+C04806,Marathahalli,2023-08-23,Silver
+C04807,HSR Layout,2024-06-28,Bronze
+C04808,Electronic City,2024-01-12,Silver
+C04809,HSR Layout,2023-06-11,Bronze
+C04810,Electronic City,2024-01-31,Bronze
+C04811,Jayanagar,2024-08-13,Bronze
+C04812,Marathahalli,2023-01-10,Bronze
+C04813,Jayanagar,2023-01-16,Gold
+C04814,BTM Layout,2024-12-01,Silver
+C04815,HSR Layout,2024-06-30,Bronze
+C04816,Koramangala,2024-02-25,Bronze
+C04817,Indiranagar,2024-10-23,Bronze
+C04818,Jayanagar,2024-03-06,Silver
+C04819,Jayanagar,2024-01-16,Silver
+C04820,Jayanagar,2023-06-04,Bronze
+C04821,Marathahalli,2024-08-14,Bronze
+C04822,Indiranagar,2024-07-12,Bronze
+C04823,Marathahalli,2023-08-04,Silver
+C04824,Marathahalli,2024-06-22,Bronze
+C04825,HSR Layout,2024-06-14,Bronze
+C04826,HSR Layout,2023-03-11,Silver
+C04827,Indiranagar,2023-04-28,Silver
+C04828,HSR Layout,2024-03-10,Bronze
+C04829,Rajajinagar,2024-03-31,Bronze
+C04830,Hebbal,2024-04-25,Silver
+C04831,Electronic City,2023-09-30,Bronze
+C04832,Whitefield,2024-09-01,Bronze
+C04833,Marathahalli,2023-11-22,Silver
+C04834,Marathahalli,2023-05-31,Silver
+C04835,Whitefield,2023-03-26,Silver
+C04836,Malleshwaram,2024-10-02,Bronze
+C04837,Koramangala,2024-05-31,Silver
+C04838,Koramangala,2023-12-03,Silver
+C04839,Koramangala,2023-06-02,Silver
+C04840,Koramangala,2023-03-12,Bronze
+C04841,Hebbal,2023-04-22,Bronze
+C04842,HSR Layout,2023-03-19,Silver
+C04843,Indiranagar,2024-01-22,Gold
+C04844,HSR Layout,2023-05-25,Bronze
+C04845,HSR Layout,2023-04-04,Bronze
+C04846,Whitefield,2023-07-26,Gold
+C04847,Koramangala,2024-05-25,Bronze
+C04848,Electronic City,2023-12-29,Silver
+C04849,Koramangala,2023-04-23,Silver
+C04850,Rajajinagar,2024-06-30,Bronze
+C04851,Indiranagar,2023-12-24,Silver
+C04852,Marathahalli,2023-05-17,Silver
+C04853,Rajajinagar,2024-05-19,Bronze
+C04854,Koramangala,2024-12-25,Bronze
+C04855,Koramangala,2024-01-30,Silver
+C04856,BTM Layout,2023-04-28,Silver
+C04857,HSR Layout,2023-08-14,Bronze
+C04858,Electronic City,2024-03-13,Bronze
+C04859,Koramangala,2024-12-30,Silver
+C04860,Indiranagar,2024-11-09,Silver
+C04861,Jayanagar,2024-11-12,Gold
+C04862,Hebbal,2024-08-30,Bronze
+C04863,Indiranagar,2024-02-24,Bronze
+C04864,Rajajinagar,2024-04-17,Bronze
+C04865,Marathahalli,2024-06-19,Silver
+C04866,Koramangala,2024-06-06,Bronze
+C04867,Whitefield,2024-04-11,Bronze
+C04868,Indiranagar,2023-04-08,Bronze
+C04869,HSR Layout,2024-10-04,Silver
+C04870,Electronic City,2023-01-08,Bronze
+C04871,HSR Layout,2023-11-07,Silver
+C04872,Indiranagar,2023-11-13,Bronze
+C04873,Marathahalli,2024-12-28,Bronze
+C04874,Electronic City,2023-03-07,Gold
+C04875,Jayanagar,2023-12-14,Bronze
+C04876,Jayanagar,2023-09-19,Bronze
+C04877,Indiranagar,2023-03-13,Bronze
+C04878,Marathahalli,2023-06-13,Bronze
+C04879,Whitefield,2023-11-05,Bronze
+C04880,Whitefield,2024-10-30,Silver
+C04881,Koramangala,2023-10-11,Silver
+C04882,Electronic City,2024-10-04,Silver
+C04883,Electronic City,2024-06-19,Silver
+C04884,Whitefield,2024-08-20,Bronze
+C04885,Malleshwaram,2024-09-15,Silver
+C04886,Malleshwaram,2024-06-05,Bronze
+C04887,Koramangala,2024-06-19,Silver
+C04888,Marathahalli,2023-04-23,Gold
+C04889,HSR Layout,2024-06-07,Gold
+C04890,Yelahanka,2023-02-05,Silver
+C04891,Indiranagar,2024-06-22,Bronze
+C04892,Whitefield,2024-04-22,Bronze
+C04893,HSR Layout,2024-07-06,Bronze
+C04894,Indiranagar,2024-04-13,Silver
+C04895,Marathahalli,2023-09-27,Silver
+C04896,HSR Layout,2023-09-27,Bronze
+C04897,Indiranagar,2024-03-11,Gold
+C04898,Jayanagar,2023-12-12,Bronze
+C04899,Hebbal,2023-09-06,Gold
+C04900,Rajajinagar,2023-12-24,Bronze
+C04901,Jayanagar,2024-01-27,Gold
+C04902,Whitefield,2023-06-25,Silver
+C04903,Indiranagar,2024-04-10,Gold
+C04904,Hebbal,2023-08-18,Bronze
+C04905,Marathahalli,2023-07-15,Bronze
+C04906,Electronic City,2023-11-02,Silver
+C04907,Hebbal,2023-03-17,Bronze
+C04908,Koramangala,2024-03-16,Bronze
+C04909,Marathahalli,2024-06-19,Bronze
+C04910,Indiranagar,2024-11-28,Bronze
+C04911,Koramangala,2023-07-27,Bronze
+C04912,HSR Layout,2024-01-29,Silver
+C04913,Whitefield,2024-01-03,Silver
+C04914,BTM Layout,2024-06-17,Bronze
+C04915,Whitefield,2024-04-01,Bronze
+C04916,Malleshwaram,2024-08-12,Bronze
+C04917,Marathahalli,2024-09-12,Gold
+C04918,Marathahalli,2023-03-24,Silver
+C04919,BTM Layout,2023-09-17,Bronze
+C04920,HSR Layout,2024-04-21,Silver
+C04921,Whitefield,2024-02-01,Bronze
+C04922,Indiranagar,2023-12-18,Bronze
+C04923,Indiranagar,2023-05-07,Bronze
+C04924,Hebbal,2024-02-22,Bronze
+C04925,HSR Layout,2024-06-24,Bronze
+C04926,Whitefield,2023-01-29,Bronze
+C04927,Indiranagar,2024-03-07,Silver
+C04928,HSR Layout,2024-10-23,Bronze
+C04929,Marathahalli,2024-02-23,Bronze
+C04930,Whitefield,2024-11-26,Silver
+C04931,Rajajinagar,2023-09-15,Silver
+C04932,Electronic City,2023-01-03,Bronze
+C04933,Rajajinagar,2024-05-12,Bronze
+C04934,Indiranagar,2023-06-05,Bronze
+C04935,Electronic City,2023-01-08,Silver
+C04936,Koramangala,2023-05-12,Silver
+C04937,Whitefield,2024-11-12,Silver
+C04938,Marathahalli,2024-07-24,Bronze
+C04939,Electronic City,2023-07-20,Bronze
+C04940,Indiranagar,2024-03-12,Silver
+C04941,Malleshwaram,2023-09-05,Gold
+C04942,Koramangala,2023-05-10,Silver
+C04943,Electronic City,2024-12-22,Bronze
+C04944,Yelahanka,2024-08-17,Gold
+C04945,Jayanagar,2023-09-23,Silver
+C04946,Rajajinagar,2023-09-16,Gold
+C04947,Electronic City,2024-08-18,Gold
+C04948,Rajajinagar,2023-12-03,Silver
+C04949,Electronic City,2023-10-03,Silver
+C04950,Marathahalli,2023-10-10,Bronze
+C04951,Indiranagar,2023-11-23,Bronze
+C04952,Marathahalli,2024-01-16,Silver
+C04953,Indiranagar,2023-01-30,Bronze
+C04954,Yelahanka,2023-12-17,Bronze
+C04955,Indiranagar,2023-11-18,Silver
+C04956,Indiranagar,2023-07-20,Silver
+C04957,Malleshwaram,2023-09-17,Silver
+C04958,Indiranagar,2023-11-06,Silver
+C04959,Whitefield,2023-09-25,Silver
+C04960,Marathahalli,2024-10-25,Silver
+C04961,Koramangala,2024-01-21,Bronze
+C04962,Koramangala,2024-01-03,Bronze
+C04963,HSR Layout,2023-07-11,Gold
+C04964,Indiranagar,2024-10-30,Bronze
+C04965,Indiranagar,2023-01-17,Silver
+C04966,Koramangala,2024-02-06,Gold
+C04967,Whitefield,2023-05-04,Bronze
+C04968,Whitefield,2024-07-15,Bronze
+C04969,Koramangala,2023-10-04,Bronze
+C04970,Electronic City,2023-08-03,Silver
+C04971,Electronic City,2023-02-12,Silver
+C04972,Koramangala,2024-07-31,Silver
+C04973,Whitefield,2023-10-17,Silver
+C04974,Hebbal,2023-07-12,Silver
+C04975,Electronic City,2024-09-08,Bronze
+C04976,HSR Layout,2023-01-15,Gold
+C04977,HSR Layout,2023-12-09,Bronze
+C04978,Indiranagar,2023-04-28,Silver
+C04979,Malleshwaram,2023-04-03,Silver
+C04980,Hebbal,2023-01-16,Bronze
+C04981,Hebbal,2023-05-17,Bronze
+C04982,Indiranagar,2024-11-22,Bronze
+C04983,Whitefield,2023-11-22,Bronze
+C04984,Indiranagar,2024-12-30,Bronze
+C04985,Whitefield,2023-07-15,Bronze
+C04986,Whitefield,2024-07-10,Gold
+C04987,Electronic City,2023-03-07,Bronze
+C04988,Indiranagar,2023-03-20,Bronze
+C04989,Hebbal,2023-01-12,Bronze
+C04990,Koramangala,2024-10-18,Silver
+C04991,Koramangala,2024-05-05,Bronze
+C04992,Malleshwaram,2024-06-26,Bronze
+C04993,Marathahalli,2024-11-07,Bronze
+C04994,Whitefield,2023-08-31,Gold
+C04995,Electronic City,2024-06-11,Gold
+C04996,Indiranagar,2024-01-02,Gold
+C04997,Indiranagar,2024-02-01,Gold
+C04998,HSR Layout,2024-04-28,Silver
+C04999,Whitefield,2023-12-10,Bronze
+C05000,Electronic City,2023-01-18,Bronze
