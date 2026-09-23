@@ -4,6 +4,9 @@ Big Data Analytics mini project: end-to-end analysis of a food-delivery platform
 (orders, customers, restaurants, cuisines, delivery times, ratings) with an
 interactive analytics dashboard.
 
+> 🎤 **Presenting this project?** See [DEMO_GUIDE.md](DEMO_GUIDE.md) — a timed
+> 10-minute demo script, key numbers to memorize, and likely viva Q&A.
+
 **Stack:** Python · Pandas · NumPy · Plotly · Streamlit
 
 ---
