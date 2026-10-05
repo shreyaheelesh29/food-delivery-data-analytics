@@ -366,7 +366,7 @@ with tab_live:
                 live_map, lat="lat", lon="lon", size="live_orders",
                 color="live_orders", color_continuous_scale="OrRd",
                 size_max=24, opacity=0.8, fitbounds="locations",
-                projection_type="mercator", height=400, hover_name="zone",
+                projection="mercator", height=400, hover_name="zone",
                 hover_data={"restaurant_id": True, "live_orders": True,
                             "lat": False, "lon": False},
                 labels={"live_orders": "Live orders"},
@@ -516,7 +516,7 @@ with tab_geo:
     fig = px.scatter_geo(
         restaurant_map, lat="lat", lon="lon", size="orders", color="rating",
         color_continuous_scale="RdYlGn", size_max=18, opacity=0.75,
-        fitbounds="locations", projection_type="mercator", height=520,
+        fitbounds="locations", projection="mercator", height=520,
         hover_name="zone",
         hover_data={"restaurant_id": True, "orders": True,
                     "rating": ":.1f", "lat": False, "lon": False},
