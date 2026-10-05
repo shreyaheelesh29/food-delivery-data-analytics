@@ -624,7 +624,6 @@ with tab_factors:
                  category_orders={"time_bin": ["<20 min", "20-40 min",
                                                "40-60 min", ">60 min"]},
                  height=420)
-    right.plotly_chart(fig, use_container_width=True)
     fig.update_layout(height=380)
     right.plotly_chart(fig, use_container_width=True)
 
