@@ -73,7 +73,7 @@ python live_producer.py     # streams live orders → dashboard's 🔴 Live tab
 4. **📍 Locations** — demand by zone, interactive restaurant map, zone summary
 5. **⏰ Peak Hours** — hourly demand + delivery time overlay with peaks shaded, weekday × hour heatmap
 6. **🚚 Delivery & Rating Factors** — delivery time vs distance (OLS trend), rating boxplots by time bin, weather/traffic impact, full correlation matrix
-7. **🤖 What-If** — enter order details and submit a form to estimate delivery time and rating; shows validation metrics and the submitted scenario
+7. **🤖 What-If** — enter order details to estimate delivery time and rating, with distance sensitivity charts and model validation metrics
 8. **🔴 Live** — simulated order events with live order-rate chart, cuisine mix, and city map; refresh on demand
 
 Sidebar filters: date range, zone, cuisine, promo code, hour range, order status.

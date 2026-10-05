@@ -45,7 +45,7 @@ Run `streamlit run dashboard.py`. Tour the tabs **in this order**, narrating one
 | 📍 Locations | Koramangala & Indiranagar lead; peripheral zones are slower and rated lower — a logistics gap, not a food-quality gap |
 | ⏰ Peak Hours | Twin peaks at lunch (12–14) and dinner (19–22); heatmap shows weekend evenings darkest |
 | 🚚 Factors | The money slide: ratings collapse from 4.0★ (<25 min) to 1.4★ (>60 min); OLS trend shows time vs distance by weather |
-| 🤖 What-If | Enter distance, time, traffic, weather, cuisine, and order details, then submit to see delivery-time and rating estimates |
+| 🤖 What-If | Enter order conditions and submit to see predictions plus charts showing how distance changes delivery time and rating |
 
 ### Step 4 — The modeling (1–2 min)
 Run `python modeling.py`. Show the metrics and explain:

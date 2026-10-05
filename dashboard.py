@@ -205,6 +205,69 @@ with tab_whatif:
             "Traffic, restaurant prep time, and zone are used by the delivery "
             "model; the rating model uses its own trained features and the "
             "estimated delivery time.")
+
+        dt_model, rt_model = train_models(orders, restaurants)
+        chart_scenario = detail
+        distance_values = np.round(np.arange(0.5, 14.1, 0.5), 1)
+        distance_sweep = pd.DataFrame({
+            "distance_km": distance_values,
+            "order_hour": chart_scenario["hour"],
+            "is_weekend": int(chart_scenario["weekend"]),
+            "weather": chart_scenario["weather"],
+            "traffic_condition": chart_scenario["traffic"],
+            "prep_time_min": chart_scenario["prep"],
+            "cuisine": chart_scenario["cuisine"],
+            "zone": chart_scenario["zone"],
+        })
+        distance_encoded = pd.get_dummies(
+            distance_sweep, drop_first=True).reindex(
+                columns=dt_model["feature_columns"], fill_value=0)
+        distance_sweep["predicted_delivery_min"] = dt_model["model"].predict(
+            distance_encoded)
+
+        rating_sweep = pd.DataFrame({
+            "delivery_time_min": distance_sweep["predicted_delivery_min"],
+            "distance_km": distance_values,
+            "weather": chart_scenario["weather"],
+            "order_value": chart_scenario["value"],
+            "promo_code": chart_scenario["promo"],
+            "cuisine": chart_scenario["cuisine"],
+            "order_hour": chart_scenario["hour"],
+            "is_weekend": int(chart_scenario["weekend"]),
+        })
+        rating_encoded = pd.get_dummies(
+            rating_sweep, drop_first=True).reindex(
+                columns=rt_model["feature_columns"], fill_value=0)
+        rating_sweep["predicted_rating"] = np.clip(
+            rt_model["model"].predict(rating_encoded), 1, 5)
+
+        chart_left, chart_right = st.columns(2)
+        with chart_left:
+            delivery_fig = px.line(
+                distance_sweep, x="distance_km", y="predicted_delivery_min",
+                markers=True, title="Predicted delivery time by distance",
+                labels={"distance_km": "Distance (km)",
+                        "predicted_delivery_min": "Estimated minutes"})
+            delivery_fig.add_vline(
+                x=chart_scenario["distance"], line_dash="dash",
+                annotation_text=f"Your order: {chart_scenario['distance']:.1f} km")
+            delivery_fig.update_layout(height=380)
+            st.plotly_chart(delivery_fig, use_container_width=True)
+        with chart_right:
+            rating_fig = px.line(
+                rating_sweep, x="distance_km", y="predicted_rating",
+                markers=True, title="Predicted rating by distance",
+                labels={"distance_km": "Distance (km)",
+                        "predicted_rating": "Estimated rating (stars)"})
+            rating_fig.add_vline(
+                x=chart_scenario["distance"], line_dash="dash",
+                annotation_text=f"Your order: {chart_scenario['distance']:.1f} km")
+            rating_fig.update_yaxes(range=[1, 5])
+            rating_fig.update_layout(height=380)
+            st.plotly_chart(rating_fig, use_container_width=True)
+        st.caption(
+            "These charts vary delivery distance while holding the other "
+            "submitted scenario values constant.")
     else:
         st.info("Choose the scenario values above and select **Calculate predictions**.")
 
