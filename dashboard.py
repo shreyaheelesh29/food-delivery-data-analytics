@@ -361,11 +361,20 @@ with tab_live:
                                   ("lat", "lon")) else None,
                            how="inner"))
         if not live_rest.empty:
-            fig = px.scatter_map(live_rest.reset_index(), lat="lat", lon="lon",
-                                 size="live_orders", zoom=10, height=360,
-                                 map_style="open-street-map",
-                                 hover_name="zone",
-                                 title="Live orders by restaurant location")
+            live_map = live_rest.reset_index()
+            fig = px.scatter_geo(
+                live_map, lat="lat", lon="lon", size="live_orders",
+                color="live_orders", color_continuous_scale="OrRd",
+                size_max=24, opacity=0.8, fitbounds="locations",
+                projection_type="mercator", height=400, hover_name="zone",
+                hover_data={"restaurant_id": True, "live_orders": True,
+                            "lat": False, "lon": False},
+                labels={"live_orders": "Live orders"},
+                title="Live orders by restaurant location")
+            fig.update_geos(
+                showland=True, landcolor="#eef2f7", showocean=True,
+                oceancolor="#e8f3f8", showcountries=True,
+                countrycolor="#cbd5e1", showcoastlines=False)
             st.plotly_chart(fig, use_container_width=True)
 
         st.subheader("Latest orders")
@@ -498,17 +507,25 @@ with tab_geo:
     fig.update_layout(height=520)
     left.plotly_chart(fig, use_container_width=True)
 
-    # scatter-geo of restaurant locations, sized by orders received
+    # Coordinate-based geographic plot avoids external map-tile dependencies.
     rest_orders = (orders_f.groupby("restaurant_id")
                    .agg(orders=("order_id", "count"),
                         revenue=("order_value", "sum"))
                    .join(restaurants.set_index("restaurant_id")))
-    fig = px.scatter_map(rest_orders, lat="lat", lon="lon", size="orders",
-                            color="rating", zoom=10, height=520,
-                            color_continuous_scale="RdYlGn", size_max=18,
-                            map_style="open-street-map",
-                            hover_name="zone",
-                            title="Restaurant Map — size = orders, color = rating")
+    restaurant_map = rest_orders.reset_index()
+    fig = px.scatter_geo(
+        restaurant_map, lat="lat", lon="lon", size="orders", color="rating",
+        color_continuous_scale="RdYlGn", size_max=18, opacity=0.75,
+        fitbounds="locations", projection_type="mercator", height=520,
+        hover_name="zone",
+        hover_data={"restaurant_id": True, "orders": True,
+                    "rating": ":.1f", "lat": False, "lon": False},
+        labels={"rating": "Restaurant rating", "orders": "Orders"},
+        title="Restaurant Locations — size = orders, color = rating")
+    fig.update_geos(
+        showland=True, landcolor="#eef2f7", showocean=True,
+        oceancolor="#e8f3f8", showcountries=True,
+        countrycolor="#cbd5e1", showcoastlines=False)
     right.plotly_chart(fig, use_container_width=True)
 
     st.subheader("Zone summary")
