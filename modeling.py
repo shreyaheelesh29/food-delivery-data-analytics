@@ -9,8 +9,7 @@ Two Random Forest models trained on delivered orders:
   2. rating regressor          — features: delivery time, distance, weather,
                                  order value, promo usage, cuisine
 
-Exposes `predict()` for the dashboard what-if widget; run directly to see
-metrics + feature importances for the report.
+Run directly to see model metrics and feature importances for the report.
 """
 
 import numpy as np
@@ -103,21 +102,6 @@ def build_rating_model(orders, seed=RANDOM_STATE):
             "metrics": metrics, "importances": importances}
 
 
-# ------------------------------------------------------------------ what-if prediction
-def predict(dt_model, distance_km, order_hour, is_weekend, weather,
-            traffic_condition, prep_time_min, cuisine, zone):
-    """Predict delivery time (minutes) for one scenario."""
-    row = pd.DataFrame([{
-        "distance_km": distance_km, "order_hour": order_hour,
-        "is_weekend": int(is_weekend), "weather": weather,
-        "traffic_condition": traffic_condition,
-        "prep_time_min": prep_time_min, "cuisine": cuisine, "zone": zone,
-    }])
-    encoded = _encode(row).reindex(columns=dt_model["feature_columns"],
-                                    fill_value=0)
-    return round(float(dt_model["model"].predict(encoded)[0]), 1)
-
-
 # ------------------------------------------------------------------ console report
 def main():
     orders, customers, restaurants = load_data()
@@ -143,22 +127,6 @@ def main():
               f"R2={m['R2']:.3f}")
     print("\n  Top feature importances:")
     print(rt["importances"].to_string(float_format=lambda v: f"{v:.3f}"))
-
-    print("\n-- Sample what-if predictions (delivery-time model) --")
-    scenarios = [
-        ("short hop, off-peak, clear", dict(distance_km=2, order_hour=15,
-         is_weekend=False, weather="Clear", traffic_condition="Low",
-         prep_time_min=15, cuisine="Biryani", zone="Koramangala")),
-        ("same, dinner peak + heavy traffic", dict(distance_km=2, order_hour=20,
-         is_weekend=True, weather="Clear", traffic_condition="Heavy",
-         prep_time_min=15, cuisine="Biryani", zone="Koramangala")),
-        ("long haul, rain", dict(distance_km=11, order_hour=20,
-         is_weekend=True, weather="Rain", traffic_condition="Heavy",
-         prep_time_min=25, cuisine="Biryani", zone="Whitefield")),
-    ]
-    for name, kwargs in scenarios:
-        print(f"  {name:38s} -> {predict(dt, **kwargs):5.1f} min")
-
 
 if __name__ == "__main__":
     main()

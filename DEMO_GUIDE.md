@@ -10,14 +10,13 @@ numbers to memorize, and likely viva questions with answers.
 > "I built an end-to-end Big Data Analytics project on food-delivery data:
 > a reproducible 50,000-order dataset, a full exploratory analysis with pandas,
 > predictive models for delivery time and customer ratings, and an interactive
-> Streamlit dashboard that lets a stakeholder filter and run what-if scenarios
-> live."
+> Streamlit dashboard with interactive filters and analytics visualizations."
 
 ## 2. Objectives (30 sec)
 
 - **Exploratory:** popular cuisines, busiest restaurants, high-demand zones, peak hours
 - **Diagnostic:** which factors drive delivery time and ratings
-- **Predictive:** Random Forest models + a live what-if simulator
+- **Predictive:** Random Forest models evaluated from the command line
 - **Deliverable:** interactive dashboard with filters
 
 ## 3. Demo script (10 minutes)
@@ -44,7 +43,6 @@ Run `streamlit run dashboard.py`. Tour the tabs **in this order**, narrating one
 | 📍 Locations | Koramangala & Indiranagar lead; peripheral zones are slower and rated lower — a logistics gap, not a food-quality gap |
 | ⏰ Peak Hours | Twin peaks at lunch (12–14) and dinner (19–22); heatmap shows weekend evenings darkest |
 | 🚚 Factors | The money slide: ratings collapse from 4.0★ (<25 min) to 1.4★ (>60 min); OLS trend shows time vs distance by weather |
-| 🤖 What-If | **The wow moment.** Drag distance to 12 km, switch weather to Rain, traffic to Heavy → prediction jumps live. Explain the model reacts instantly because predictions come from a trained Random Forest |
 
 ### Step 4 — The modeling (1–2 min)
 Run `python modeling.py`. Show the metrics and explain:
@@ -117,7 +115,7 @@ Close with 3 recommendations:
 
 - **Internet/projector fails:** everything runs locally from the repo — laptop demo
 - **Streamlit won't start:** `python analysis.py` + `python modeling.py` still show the full pipeline
-- **Time cut short:** go straight to the What-If tab — it demonstrates data + model + UI in one screen
+- **Time cut short:** go straight to the Factors tab to explain the strongest delivery and rating patterns
 - **They want a document:** this README + `modeling.py` output pasted into the report
 
 ## 7. Possible "future scope" answers (examiners love these)

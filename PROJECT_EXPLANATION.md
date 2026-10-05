@@ -13,8 +13,8 @@ see `DEMO_GUIDE.md`.
 > food-delivery business. I generate a realistic 50,000-order dataset, analyze
 > it with pandas to find demand patterns and the factors driving delivery time
 > and ratings, build Random Forest models to predict both, and deliver
-> everything through an interactive Streamlit dashboard with a live what-if
-> simulator. The pipeline is fully reproducible and pushed on GitHub."
+> everything through an interactive Streamlit dashboard. The pipeline is
+> fully reproducible and pushed on GitHub."
 
 If the teacher wants more, continue with the steps below in order.
 
@@ -162,13 +162,6 @@ dashboard's Factors tab.
 3. **Locations** — zone demand + the map
 4. **Peak Hours** — the shaded twin peaks, weekday×hour heatmap
 5. **Factors** — the 4.0★ → 1.4★ rating collapse, OLS scatter
-6. **What-If (the closer)** — set distance 12 km, Rain, Heavy traffic:
-> "And this tab is the predictive layer made interactive — it feeds my sliders
-> into the trained Random Forest and predicts delivery time and rating
-> instantly, with sensitivity curves showing *how* each factor bends the
-> outcome. This is prescriptive analytics: a manager can rehearse decisions
-> here before spending money."
-
 ---
 
 ## Step 7 — Results & business value (1 min)

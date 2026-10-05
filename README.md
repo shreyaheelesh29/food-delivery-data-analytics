@@ -60,7 +60,7 @@ python live_producer.py     # streams live orders → dashboard's 🔴 Live tab
 ├── analysis.py         # pandas analysis layer — all metrics & console report
 ├── modeling.py         # predictive layer — RF delivery-time & rating models
 ├── live_producer.py    # real-time layer — streams live order events (JSONL)
-├── dashboard.py        # Streamlit + Plotly dashboard (8 tabs incl. What-If & Live)
+├── dashboard.py        # Streamlit + Plotly dashboard (7 tabs incl. Live)
 ├── data/               # customers.csv, restaurants.csv, orders.csv
 └── requirements.txt
 ```
@@ -73,8 +73,7 @@ python live_producer.py     # streams live orders → dashboard's 🔴 Live tab
 4. **📍 Locations** — demand by zone, interactive restaurant map, zone summary
 5. **⏰ Peak Hours** — hourly demand + delivery time overlay with peaks shaded, weekday × hour heatmap
 6. **🚚 Delivery & Rating Factors** — delivery time vs distance (OLS trend), rating boxplots by time bin, weather/traffic impact, full correlation matrix
-7. **🤖 What-If (ML)** — Random Forest what-if simulator (predict delivery time & rating from sliders), sensitivity curves, model metrics and feature importances
-8. **🔴 Live** — real-time simulation: orders stream in every second, KPIs tick, live order-rate chart, cuisine mix and city map update every 3 s
+7. **🔴 Live** — simulated order events with live order-rate chart, cuisine mix, and city map; refresh on demand
 
 Sidebar filters: date range, zone, cuisine, promo code, hour range, order status.
 
@@ -132,7 +131,6 @@ producer can't run alongside the app, so the Live tab there shows instructions.)
 - Delivery-time model beats the mean-baseline by ~9× (baseline MAE 12.4 min)
 - Feature importances confirm the EDA: distance (0.69) + prep time (0.16) + hour (0.08) drive delivery time; **delivery time itself (0.77) drives ratings**
 - Linear regression benchmarks included for comparison (delivery: R² 0.919, MAE 3.6 min)
-- What-if example: the same 2 km Biryani order takes **22 min** on a quiet weekday afternoon, **29 min** at the heavy-traffic dinner peak, and **82 min** for an 11 km rainy haul
 
 ---
 

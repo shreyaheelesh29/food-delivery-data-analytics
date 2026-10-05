@@ -27,13 +27,6 @@ def load():
     orders, customers, restaurants = load_data()
     return orders, customers, restaurants
 
-@st.cache_resource
-def train_models(_orders, _restaurants):
-    from modeling import build_delivery_time_model, build_rating_model
-    dt = build_delivery_time_model(_orders, _restaurants)
-    rt = build_rating_model(_orders)
-    return dt, rt
-
 orders, customers, restaurants = load()
 
 # ------------------------------------------------------------------ sidebar filters
@@ -88,22 +81,16 @@ c5.metric("Avg Rating", f"⭐ {kpis['avg_rating']}")
 c6.metric("Cancellation Rate", f"{kpis['cancellation_rate']}%")
 
 # ------------------------------------------------------------------ tabs
-tab_overview, tab_cuisine, tab_rest, tab_geo, tab_time, tab_factors, tab_whatif, tab_live = st.tabs(
+tab_overview, tab_cuisine, tab_rest, tab_geo, tab_time, tab_factors, tab_live = st.tabs(
     ["📈 Overview", "🍽️ Cuisines", "🏪 Restaurants", "📍 Locations",
-     "⏰ Peak Hours", "🚚 Delivery & Rating Factors", "🤖 What-If (ML)", "🔴 Live"])
+     "⏰ Peak Hours", "🚚 Delivery & Rating Factors", "🔴 Live"])
 
 # ================================================================== LIVE tab
 # Real-time layer: orders streamed by live_producer.py are tailed from
 # data/live_orders.jsonl and merged with today's slice of the historical data
-# for rolling KPIs. Auto-refreshes every 3 s while the tab is open.
+# for rolling KPIs. Refresh is user-triggered so the rest of the dashboard
+# does not rerun continuously while the Live tab is not being viewed.
 with tab_live:
-    try:
-        from streamlit_autorefresh import st_autorefresh
-        st_autorefresh(interval=3000, key="live_refresh")
-    except ImportError:
-        st.warning("pip install streamlit-autorefresh for auto-refresh; \
-                   use the browser refresh button otherwise.")
-
     from pathlib import Path
 
     live_file = Path("data/live_orders.jsonl")
@@ -126,7 +113,8 @@ with tab_live:
     st.markdown(
         "**🔴 Live stream** — new orders arrive every second from "
         "`live_producer.py` (rate follows the historical demand curve). "
-        "This page auto-refreshes every 3 s.")
+        "Select Refresh to load the latest events.")
+    st.button("Refresh live data", key="refresh_live_data")
 
     if live.empty:
         st.info("No live orders yet. Start the producer in a second terminal: "
@@ -452,107 +440,3 @@ with tab_factors:
         "4.0★ (<25 min) to 1.4★ (>60 min).\n"
         "- Faster zones (Koramangala) rate ~3.3★; slow peripheral zones (Yelahanka) "
         "rate ~2.7★ — logistics, not food quality, explains most of the gap.")
-
-# ------------------------------------------------------------------ what-if (ML)
-with tab_whatif:
-    st.header("🤖 What-If Simulator — Random Forest predictions")
-    st.caption("Models trained on delivered orders. Delivery-time model: "
-               "R² 0.987, MAE 1.4 min · Rating model: R² 0.52, MAE 0.61★")
-
-    dt_model, rt_model = train_models(orders, restaurants)
-
-    left, right = st.columns([1, 1])
-
-    with left:
-        st.subheader("Scenario")
-        w_distance = st.slider("Distance (km)", 0.4, 14.0, 4.0, 0.2)
-        w_hour = st.slider("Order hour", 0, 23, 20)
-        w_weekend = st.checkbox("Weekend", value=True)
-        w_weather = st.selectbox("Weather", ["Clear", "Rain"])
-        w_traffic = st.selectbox("Traffic", ["Low", "Moderate", "Heavy"], index=2)
-        w_prep = st.slider("Restaurant prep time (min)", 8, 45, 18)
-        w_cuisine = st.selectbox("Cuisine", sorted(orders["cuisine"].unique()))
-        w_zone = st.selectbox("Zone", sorted(restaurants["zone"].unique()))
-        w_value = st.slider("Order value (₹)", 79, 2000, 300, 10)
-
-    from modeling import predict as ml_predict
-
-    predicted_time = ml_predict(dt_model, w_distance, w_hour, w_weekend,
-                                w_weather, w_traffic, w_prep, w_cuisine, w_zone)
-
-    # predicted rating via the rating model (same encoding scheme)
-    row = pd.DataFrame([{
-        "delivery_time_min": predicted_time, "distance_km": w_distance,
-        "weather": w_weather, "order_value": w_value,
-        "promo_code": "NONE", "cuisine": w_cuisine,
-        "order_hour": w_hour, "is_weekend": int(w_weekend),
-    }])
-    encoded = pd.get_dummies(row).reindex(columns=rt_model["feature_columns"],
-                                           fill_value=0)
-    predicted_rating = float(rt_model["model"].predict(encoded)[0])
-    predicted_rating = float(np.clip(predicted_rating, 1, 5))
-
-    with right:
-        st.subheader("Prediction")
-        k1, k2 = st.columns(2)
-        k1.metric("Predicted delivery time", f"{predicted_time} min",
-                  help="Random Forest regressor, MAE ±1.4 min")
-        k2.metric("Predicted rating", f"{predicted_rating:.1f} ★",
-                  help="Random Forest regressor, MAE ±0.61★")
-
-        # sensitivity: predicted time across hours for this scenario
-        sweep = pd.DataFrame({
-            "order_hour": range(24),
-            "distance_km": w_distance, "is_weekend": int(w_weekend),
-            "weather": w_weather, "traffic_condition": w_traffic,
-            "prep_time_min": w_prep, "cuisine": w_cuisine, "zone": w_zone,
-        })
-        enc = pd.get_dummies(sweep).reindex(columns=dt_model["feature_columns"],
-                                            fill_value=0)
-        sweep["predicted_min"] = dt_model["model"].predict(enc)
-        fig = px.area(sweep, x="order_hour", y="predicted_min",
-                      title="Predicted delivery time by hour of day",
-                      labels={"order_hour": "Hour", "predicted_min": "Minutes"})
-        fig.add_vline(x=w_hour, line_dash="dash",
-                      annotation_text=f"your pick: {w_hour}:00")
-        fig.update_layout(height=340)
-        st.plotly_chart(fig, use_container_width=True)
-
-        # sensitivity: predicted time vs distance
-        sweep_d = pd.DataFrame({
-            "distance_km": np.round(np.arange(0.5, 14.1, 0.5), 1),
-            "order_hour": w_hour, "is_weekend": int(w_weekend),
-            "weather": w_weather, "traffic_condition": w_traffic,
-            "prep_time_min": w_prep, "cuisine": w_cuisine, "zone": w_zone,
-        })
-        enc_d = pd.get_dummies(sweep_d).reindex(columns=dt_model["feature_columns"],
-                                                fill_value=0)
-        sweep_d["predicted_min"] = dt_model["model"].predict(enc_d)
-        fig = px.line(sweep_d, x="distance_km", y="predicted_min",
-                      title="Predicted delivery time vs distance",
-                      labels={"distance_km": "Distance (km)",
-                              "predicted_min": "Minutes"})
-        fig.add_vline(x=w_distance, line_dash="dash",
-                      annotation_text=f"your pick: {w_distance} km")
-        fig.update_layout(height=340)
-        st.plotly_chart(fig, use_container_width=True)
-
-    st.divider()
-    st.subheader("Model quality")
-    m1, m2 = st.columns(2)
-    m1.markdown("**Delivery-time model**\n\n" + "\n".join(
-        f"- `{name}`: MAE **{m['MAE']} min** · RMSE {m['RMSE']} · R² {m['R2']}"
-        for name, m in dt_model["metrics"].items()))
-    m2.markdown("**Rating model**\n\n" + "\n".join(
-        f"- `{name}`: MAE **{m['MAE']}★** · RMSE {m['RMSE']} · R² {m['R2']}"
-        for name, m in rt_model["metrics"].items()))
-
-    c1, c2 = st.columns(2)
-    fig = px.bar(dt_model["importances"].sort_values(),
-                 orientation="h", title="Feature importance — delivery time",
-                 labels={"value": "importance", "index": ""}, height=380)
-    c1.plotly_chart(fig, use_container_width=True)
-    fig = px.bar(rt_model["importances"].sort_values(),
-                 orientation="h", title="Feature importance — rating",
-                 labels={"value": "importance", "index": ""}, height=380)
-    c2.plotly_chart(fig, use_container_width=True)
