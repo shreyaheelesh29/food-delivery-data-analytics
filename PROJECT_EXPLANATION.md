@@ -13,7 +13,8 @@ see `DEMO_GUIDE.md`.
 > food-delivery business. I generate a realistic 50,000-order dataset, analyze
 > it with pandas to find demand patterns and the factors driving delivery time
 > and ratings, build Random Forest models to predict both, and deliver
-> everything through an interactive Streamlit dashboard. The pipeline is
+> everything through an interactive Streamlit dashboard with a form-based
+> what-if simulator. The pipeline is
 > fully reproducible and pushed on GitHub."
 
 If the teacher wants more, continue with the steps below in order.

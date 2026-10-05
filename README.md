@@ -60,7 +60,7 @@ python live_producer.py     # streams live orders → dashboard's 🔴 Live tab
 ├── analysis.py         # pandas analysis layer — all metrics & console report
 ├── modeling.py         # predictive layer — RF delivery-time & rating models
 ├── live_producer.py    # real-time layer — streams live order events (JSONL)
-├── dashboard.py        # Streamlit + Plotly dashboard (7 tabs incl. Live)
+├── dashboard.py        # Streamlit + Plotly dashboard (8 tabs incl. What-If & Live)
 ├── data/               # customers.csv, restaurants.csv, orders.csv
 └── requirements.txt
 ```
@@ -73,7 +73,8 @@ python live_producer.py     # streams live orders → dashboard's 🔴 Live tab
 4. **📍 Locations** — demand by zone, interactive restaurant map, zone summary
 5. **⏰ Peak Hours** — hourly demand + delivery time overlay with peaks shaded, weekday × hour heatmap
 6. **🚚 Delivery & Rating Factors** — delivery time vs distance (OLS trend), rating boxplots by time bin, weather/traffic impact, full correlation matrix
-7. **🔴 Live** — simulated order events with live order-rate chart, cuisine mix, and city map; refresh on demand
+7. **🤖 What-If** — enter order details and submit a form to estimate delivery time and rating; shows validation metrics and the submitted scenario
+8. **🔴 Live** — simulated order events with live order-rate chart, cuisine mix, and city map; refresh on demand
 
 Sidebar filters: date range, zone, cuisine, promo code, hour range, order status.
 

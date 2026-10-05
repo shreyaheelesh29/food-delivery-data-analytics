@@ -10,13 +10,15 @@ numbers to memorize, and likely viva questions with answers.
 > "I built an end-to-end Big Data Analytics project on food-delivery data:
 > a reproducible 50,000-order dataset, a full exploratory analysis with pandas,
 > predictive models for delivery time and customer ratings, and an interactive
-> Streamlit dashboard with interactive filters and analytics visualizations."
+> Streamlit dashboard with interactive filters, analytics visualizations, and
+> a form-based what-if simulator."
 
 ## 2. Objectives (30 sec)
 
 - **Exploratory:** popular cuisines, busiest restaurants, high-demand zones, peak hours
 - **Diagnostic:** which factors drive delivery time and ratings
 - **Predictive:** Random Forest models evaluated from the command line
+- **Scenario analysis:** submit order details to estimate delivery time and rating
 - **Deliverable:** interactive dashboard with filters
 
 ## 3. Demo script (10 minutes)
@@ -43,6 +45,7 @@ Run `streamlit run dashboard.py`. Tour the tabs **in this order**, narrating one
 | 📍 Locations | Koramangala & Indiranagar lead; peripheral zones are slower and rated lower — a logistics gap, not a food-quality gap |
 | ⏰ Peak Hours | Twin peaks at lunch (12–14) and dinner (19–22); heatmap shows weekend evenings darkest |
 | 🚚 Factors | The money slide: ratings collapse from 4.0★ (<25 min) to 1.4★ (>60 min); OLS trend shows time vs distance by weather |
+| 🤖 What-If | Enter distance, time, traffic, weather, cuisine, and order details, then submit to see delivery-time and rating estimates |
 
 ### Step 4 — The modeling (1–2 min)
 Run `python modeling.py`. Show the metrics and explain:

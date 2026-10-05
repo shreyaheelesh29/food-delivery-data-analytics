@@ -17,6 +17,7 @@ from analysis import (load_data, headline_kpis, cuisine_popularity,
                       busiest_restaurants, zone_demand, hourly_demand,
                       weekday_demand, delivery_time_factors, rating_factors,
                       monthly_trend)
+from modeling import build_delivery_time_model, build_rating_model
 
 st.set_page_config(page_title="Food Delivery Analytics", page_icon="🍔",
                    layout="wide", initial_sidebar_state="expanded")
@@ -26,6 +27,13 @@ st.set_page_config(page_title="Food Delivery Analytics", page_icon="🍔",
 def load():
     orders, customers, restaurants = load_data()
     return orders, customers, restaurants
+
+
+@st.cache_resource
+def train_models(_orders, _restaurants):
+    """Train each prediction model once per Streamlit session cache."""
+    return (build_delivery_time_model(_orders, _restaurants),
+            build_rating_model(_orders))
 
 orders, customers, restaurants = load()
 
@@ -81,9 +89,136 @@ c5.metric("Avg Rating", f"⭐ {kpis['avg_rating']}")
 c6.metric("Cancellation Rate", f"{kpis['cancellation_rate']}%")
 
 # ------------------------------------------------------------------ tabs
-tab_overview, tab_cuisine, tab_rest, tab_geo, tab_time, tab_factors, tab_live = st.tabs(
+tab_overview, tab_cuisine, tab_rest, tab_geo, tab_time, tab_factors, tab_whatif, tab_live = st.tabs(
     ["📈 Overview", "🍽️ Cuisines", "🏪 Restaurants", "📍 Locations",
-     "⏰ Peak Hours", "🚚 Delivery & Rating Factors", "🔴 Live"])
+     "⏰ Peak Hours", "🚚 Delivery & Rating Factors", "🤖 What-If", "🔴 Live"])
+
+# ================================================================== what-if
+with tab_whatif:
+    st.header("🤖 What-If Simulator")
+    st.caption(
+        "Enter an order scenario and submit it to estimate delivery time and "
+        "customer rating using the trained Random Forest models.")
+
+    with st.form("whatif_scenario"):
+        st.subheader("Order scenario")
+        col_a, col_b = st.columns(2)
+        with col_a:
+            scenario_distance = st.number_input(
+                "Delivery distance (km)", min_value=0.4, max_value=14.0,
+                value=4.0, step=0.2, key="whatif_distance")
+            scenario_hour = st.slider(
+                "Order hour", min_value=0, max_value=23, value=19,
+                help="Use 24-hour time: 19 means 7 PM.")
+            scenario_weekend = st.checkbox("Weekend order", value=True)
+            scenario_weather = st.selectbox("Weather", ["Clear", "Rain"])
+            scenario_traffic = st.selectbox(
+                "Traffic", ["Low", "Moderate", "Heavy"], index=1)
+        with col_b:
+            scenario_zone = st.selectbox(
+                "Restaurant zone", sorted(restaurants["zone"].unique()))
+            scenario_prep = st.slider(
+                "Restaurant prep time (minutes)", 8, 45, 18)
+            scenario_cuisine = st.selectbox(
+                "Cuisine", sorted(orders["cuisine"].unique()))
+            scenario_value = st.number_input(
+                "Order value (₹)", min_value=79, max_value=2000,
+                value=300, step=10)
+            scenario_promo = st.selectbox(
+                "Promo code", sorted(orders["promo_code"].unique()))
+
+        submitted = st.form_submit_button(
+            "Calculate predictions", type="primary", use_container_width=True)
+
+    if submitted:
+        with st.spinner("Training or loading models and calculating predictions…"):
+            dt_model, rt_model = train_models(orders, restaurants)
+            delivery_row = pd.DataFrame([{
+                "distance_km": scenario_distance,
+                "order_hour": scenario_hour,
+                "is_weekend": int(scenario_weekend),
+                "weather": scenario_weather,
+                "traffic_condition": scenario_traffic,
+                "prep_time_min": scenario_prep,
+                "cuisine": scenario_cuisine,
+                "zone": scenario_zone,
+            }])
+            delivery_encoded = pd.get_dummies(
+                delivery_row, drop_first=True).reindex(
+                    columns=dt_model["feature_columns"], fill_value=0)
+            predicted_time = float(dt_model["model"].predict(
+                delivery_encoded)[0])
+
+            rating_row = pd.DataFrame([{
+                "delivery_time_min": predicted_time,
+                "distance_km": scenario_distance,
+                "weather": scenario_weather,
+                "order_value": scenario_value,
+                "promo_code": scenario_promo,
+                "cuisine": scenario_cuisine,
+                "order_hour": scenario_hour,
+                "is_weekend": int(scenario_weekend),
+            }])
+            rating_encoded = pd.get_dummies(
+                rating_row, drop_first=True).reindex(
+                    columns=rt_model["feature_columns"], fill_value=0)
+            predicted_rating = float(np.clip(
+                rt_model["model"].predict(rating_encoded)[0], 1, 5))
+            st.session_state["whatif_result"] = {
+                "delivery_time": predicted_time,
+                "rating": predicted_rating,
+                "delivery_metrics": dt_model["metrics"]["random_forest"],
+                "rating_metrics": rt_model["metrics"]["random_forest"],
+                "scenario": {
+                    "distance": scenario_distance,
+                    "hour": scenario_hour,
+                    "weekend": scenario_weekend,
+                    "weather": scenario_weather,
+                    "traffic": scenario_traffic,
+                    "zone": scenario_zone,
+                    "prep": scenario_prep,
+                    "cuisine": scenario_cuisine,
+                    "value": scenario_value,
+                    "promo": scenario_promo,
+                },
+            }
+
+    result = st.session_state.get("whatif_result")
+    if result:
+        st.subheader("Prediction for submitted scenario")
+        result_left, result_right = st.columns(2)
+        result_left.metric(
+            "Estimated delivery time", f"{result['delivery_time']:.1f} min",
+            help="Random Forest estimate. The model's validation MAE is shown below.")
+        result_right.metric(
+            "Estimated customer rating", f"{result['rating']:.1f} / 5 ★",
+            help="Random Forest estimate; rating validation MAE is shown below.")
+        detail = result["scenario"]
+        day_type = "weekend" if detail["weekend"] else "weekday"
+        st.caption(
+            f"Scenario: {detail['distance']:.1f} km · {detail['hour']:02d}:00 · "
+            f"{day_type} · {detail['weather'].lower()} · {detail['traffic'].lower()} "
+            f"traffic · {detail['zone']} · {detail['cuisine']} · "
+            f"₹{detail['value']} · promo {detail['promo']}")
+        st.info(
+            "These are estimates learned from the project's synthetic data. "
+            "Traffic, restaurant prep time, and zone are used by the delivery "
+            "model; the rating model uses its own trained features and the "
+            "estimated delivery time.")
+    else:
+        st.info("Choose the scenario values above and select **Calculate predictions**.")
+
+    with st.expander("Model validation details"):
+        if result:
+            dt_metrics = result["delivery_metrics"]
+            rt_metrics = result["rating_metrics"]
+            st.markdown(
+                f"- Delivery-time model: MAE **{dt_metrics['MAE']} min**, "
+                f"R² **{dt_metrics['R2']}**\n"
+                f"- Rating model: MAE **{rt_metrics['MAE']} stars**, "
+                f"R² **{rt_metrics['R2']}**")
+        else:
+            st.write("Submit a scenario to see the validation metrics.")
 
 # ================================================================== LIVE tab
 # Real-time layer: orders streamed by live_producer.py are tailed from
