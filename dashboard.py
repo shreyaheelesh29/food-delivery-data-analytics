@@ -527,6 +527,9 @@ with tab_geo:
         oceancolor="#e8f3f8", showcountries=True,
         countrycolor="#cbd5e1", showcoastlines=False)
     right.plotly_chart(fig, use_container_width=True)
+    right.caption(
+        "Each marker is a restaurant. Larger markers mean more orders; "
+        "color shows its rating. Select a marker for its zone and details.")
 
     st.subheader("Zone summary")
     st.dataframe(zd, use_container_width=True)
