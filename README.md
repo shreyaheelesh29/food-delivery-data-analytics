@@ -137,7 +137,3 @@ producer can't run alongside the app, so the Live tab there shows instructions.)
 
 *Generated as a Big Data Analytics mini-project. Data is synthetic; insights
 demonstrate the analytical pipeline end to end.*
-
-## Related project
-
-- [Loan Approval Prediction](https://github.com/Divyaudaiyar-ops/Loan-Approval-Prediction)
